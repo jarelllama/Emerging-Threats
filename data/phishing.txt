@@ -608,7 +608,6 @@ tiena.einei.line.pm
 tnlsowki.westus3.cloudapp.azure.com
 tnlsowkis.westus3.cloudapp.azure.com
 toursolutions4u.com
-translate.goog
 turkairline.azurewebsites.net
 ua-passport.space
 uae-snocproject.com
