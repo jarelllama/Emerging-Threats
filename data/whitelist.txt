@@ -4,3 +4,4 @@ glitch.me
 yi.org
 test.com
 freedynamicdns.org
+core.windows.net
