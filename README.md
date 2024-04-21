@@ -2,9 +2,11 @@
 
 **This is a fork that maintains the ABP-formatted version of <https://github.com/tweedge/emerging-threats-pihole>.**
 
+**Dead domains and redundant rules are removed during the build.**
+
 **The daily updated blocklist can now be found here: [malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
 
-**The README is kept mostly the same.**
+**This README is kept mostly the same.**
 
 ---
 
