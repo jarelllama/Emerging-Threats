@@ -1,6 +1,6 @@
 # emerging-threats-pihole
 
-**This is a fork that maintains the Adblock Plus formatted version of <https://github.com/tweedge/emerging-threats-pihole>.**
+**This is a fork that maintains an updated Adblock Plus version of <https://github.com/tweedge/emerging-threats-pihole>.**
 
 **Sourced rules from <https://rules.emergingthreats.net/open/suricata-5.0/rules/>:**
 * **[emerging-malware.rules](emerging-malware.rules)**
