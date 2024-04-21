@@ -1,1 +1,2 @@
 translate.goog
+appspot.com
