@@ -1,16 +1,22 @@
 # emerging-threats-pihole
 
-**This is a fork that maintains the ABP-formatted version of <https://github.com/tweedge/emerging-threats-pihole>.**
+**This is a fork that maintains the Adblock Plus formatted version of <https://github.com/tweedge/emerging-threats-pihole>.**
+
+**Sourced rules from <https://rules.emergingthreats.net/open/suricata-5.0/rules/>:**
+* **[emerging-malware.rules](emerging-malware.rules)**
+* **[emerging-mobile_malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-mobile_malware.rules)**
+* **[emerging-phishing.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules)**
+
 
 **Dead domains and redundant rules are removed during the build.**
 
 **The daily updated blocklist can now be found here: [malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
 
-**This README is kept mostly the same.**
+**The rest of the README is kept mostly the same.**
 
 ---
 
-This repository extracts and categorizes malicious/unwanted domains from the Emerging Threats ruleset for people using PiHole to block easily. Updated daily.
+This repository extracts and categorizes malicious/unwanted domains from the Emerging Threats ruleset for people using PiHole to block easily.
 
 [malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt) - Blocks malware and phishing
 
