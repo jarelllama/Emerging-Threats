@@ -1,2 +1,0 @@
-idstools==0.6.4
-tldextract==3.4.0
