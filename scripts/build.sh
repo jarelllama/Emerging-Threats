@@ -3,7 +3,7 @@
 # Retrieves domains from DNS signature rules in the Emerging Threats Suricata
 # rulesets.
 
-readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/rules'
+readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/emerging.rules.zip'
 readonly -a RULES=(
    emerging-malware
    emerging-mobile_malware
@@ -43,6 +43,12 @@ build() {
    # Deploy blocklist
    append_header
    cat compiled.tmp >> malicious.txt
+
+   # Build separate phishing list for Jarelllama's Scam Blocklist
+   grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
+      rules/emerging-phishing.rules \
+      | mawk -F '"' '{sub(/^\./, "", $2); print $2}' \
+      | sort -u -o data/phishing.txt
 }
 
 append_header() {
