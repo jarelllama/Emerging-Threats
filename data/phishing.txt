@@ -59,7 +59,6 @@ apples6.us
 apples7.us
 apples8.us
 apples9.us
-appspot.com
 arabianmigration.com
 arquestions.azurewebsites.net
 arquestionsapi.azurewebsites.net
@@ -190,7 +189,6 @@ contract-snoc.com
 contractor-enoc.com
 contractors-adnoc.com
 contracts-adnoc.com
-core.windows.net
 countrybasedquestions.azurewebsites.net
 creator-partners.com
 creditals-email.space
@@ -259,7 +257,6 @@ gbhelp.cc
 gbhelp.live
 gchelp.info
 getyourapi.site
-glitch.me
 globalhospae.com
 group-meeting.online
 group-meeting.team

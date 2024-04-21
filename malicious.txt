@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/emerging-threats-pihole
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 04.21.100823.2024
+! Version: 04.21.125152.2024
 ! Expires: 1 day
-! Last modified: Sun Apr 21 10:08:23 UTC 2024
+! Last modified: Sun Apr 21 12:51:52 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2663
+! Number of entries: 2665
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -344,7 +344,6 @@
 ||appleupdate.com^
 ||appliedgrandyjuiw.shop^
 ||apply-jobs.com^
-||appspot.com^
 ||aptekoagraliy.com^
 ||ar.kostin.p-e.kr^
 ||arbordeck.co.in^
@@ -483,7 +482,6 @@
 ||birdvigorousedetertyw.shop^
 ||bit-li.com^
 ||bit-li.ws^
-||biteupdates.live^
 ||biteupdates.site^
 ||bitgames.world^
 ||bitsadmin.ddns.net^
@@ -533,6 +531,7 @@
 ||breakingnewsasia.com^
 ||breaknlinks.s3.amazonaws.com^
 ||brhelp.live^
+||brickabsorptiondullyi.site^
 ||brickbrothjorkyooe.shop^
 ||briefl.ink^
 ||bringthenoiseappnew.s3.amazonaws.com^
@@ -716,6 +715,7 @@
 ||concessionofsellerwo.shop^
 ||concrecapital.com^
 ||configuregatewayglobal.com^
+||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
 ||connectivitychecker.com^
 ||consciouosoepewmausj.site^
@@ -733,7 +733,7 @@
 ||cooporatestock.com^
 ||cop.osonlines.co^
 ||copyrightspareddcitwew.site^
-||core.windows.net^
+||coral-polydactyl-dragonfruit.glitch.me^
 ||cosmodron.com^
 ||count.trackstatisticsss.com^
 ||course.netpickstrading.com^
@@ -753,6 +753,7 @@
 ||cryptsen7f043rr6.onion^
 ||cryptyk.cloud^
 ||cryptyk.info^
+||cryptyk.sytes.net^
 ||crystalfiles.ru^
 ||csc.zte.com.cn.wswebpic.com^
 ||culturesketchfinanciall.shop^
@@ -773,6 +774,7 @@
 ||dailyfasterauto.info^
 ||dailystudy.org^
 ||daji8.me^
+||dajuw.com^
 ||dakareypa.ru^
 ||darknetlinks.wiki^
 ||dashboard.renovationsruth.com^
@@ -930,6 +932,7 @@
 ||eaougheofhuoaer.ws^
 ||eap.byethost10.com^
 ||earsplitting.ru^
+||east-healthy-dress.glitch.me^
 ||easyuploadservice.com^
 ||ebook.port25.biz^
 ||ebooks.ferrelljoe.com^
@@ -1053,6 +1056,7 @@
 ||fja.com.mx^
 ||flapawer.com^
 ||flash.wy886066.com^
+||fleetconsciousnessjuiw.site^
 ||flexibleagttypoceo.shop^
 ||flowershop22.110mb.com^
 ||fnenfmnieehgieo.ws^
@@ -1073,7 +1077,6 @@
 ||freckletropsao.pw^
 ||freechess.live^
 ||freecloud.biz^
-||freedynamicdns.org^
 ||freenow.chickenkiller.com^
 ||freescanonline.com^
 ||freetips.php5.sk^
@@ -1149,7 +1152,6 @@
 ||glbaitech.com^
 ||glcloudservice.com^
 ||glistening.ru^
-||glitch.me^
 ||glnj.nl^
 ||gloa.in^
 ||globaltalent.in^
@@ -2022,6 +2024,7 @@
 ||r2elajikcosf7zee.onion.to^
 ||r4e.pl^
 ||r6.nz^
+||racerecessionrestrai.site^
 ||rannd.org^
 ||ransomware.bit^
 ||rashidiso.ru^
@@ -2336,7 +2339,6 @@
 ||teraspace.co.in^
 ||teslal.xyz^
 ||teslali.com^
-||test.com^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
 ||tevokaxol.com^
@@ -2498,6 +2500,7 @@
 ||vatleaflettrusteeooj.shop^
 ||vavave.xf.cz^
 ||verble.rocks^
+||verble.software^
 ||veritasanalyzer.com^
 ||vesselspeedcrosswakew.site^
 ||vesterac.ru^
@@ -2681,7 +2684,6 @@
 ||yahoofacebook.345.pl^
 ||yahoonews.twgg.org^
 ||yellowblog.flnet.org^
-||yi.org^
 ||ynns.uk^
 ||yorisant.ru^
 ||you-supported.com^
