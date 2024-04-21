@@ -1,4 +1,4 @@
-# emerging-threats-pihole
+# Emerging Threats Blocklist
 
 **This is a fork that maintains an updated Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
 
