@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/emerging-threats-pihole
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 04.21.125152.2024
+! Version: 04.21.130944.2024
 ! Expires: 1 day
-! Last modified: Sun Apr 21 12:51:52 UTC 2024
+! Last modified: Sun Apr 21 13:09:44 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2665
+! Number of entries: 2648
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -344,6 +344,7 @@
 ||appleupdate.com^
 ||appliedgrandyjuiw.shop^
 ||apply-jobs.com^
+||appspot.com^
 ||aptekoagraliy.com^
 ||ar.kostin.p-e.kr^
 ||arbordeck.co.in^
@@ -375,7 +376,6 @@
 ||aus.mimico-cooperative.org^
 ||ausameetings.com^
 ||ausq.inaver.org^
-||autocar.ServeUser.com^
 ||autodynamics.work.gd^
 ||automatic.tworiversboats.com^
 ||autoprotect.com.de^
@@ -555,7 +555,6 @@
 ||butoza.ru^
 ||buy-new-car.com^
 ||buyhighroad.scienceontheweb.net^
-||byfleur.myftp.org^
 ||bytlo.com^
 ||c0.wf^
 ||c1.biz^
@@ -654,13 +653,11 @@
 ||cloud-document-edit.onrender.com^
 ||cloud-miner.de^
 ||cloud-sources.com^
-||cloud.anobaka.info^
 ||cloud.azurehosting.co^
 ||cloud.crmdev.org^
 ||cloud.j-ic.com^
 ||cloud.skypecloud.net^
 ||cloudcpanelhost.com^
-||clouddefsystems.com^
 ||cloudflare.analyse.com^
 ||cloudflareaddons.com^
 ||cloudflarecdn.com^
@@ -678,6 +675,7 @@
 ||clsass.ddns.net^
 ||clubhouse.site^
 ||cmaildowninvoice.webcindario.com^
+||cmps.58sky.com^
 ||cnc.pinklander.com^
 ||cnn-africa.co^
 ||cnwx.58ad.cn^
@@ -715,7 +713,6 @@
 ||concessionofsellerwo.shop^
 ||concrecapital.com^
 ||configuregatewayglobal.com^
-||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
 ||connectivitychecker.com^
 ||consciouosoepewmausj.site^
@@ -733,7 +730,7 @@
 ||cooporatestock.com^
 ||cop.osonlines.co^
 ||copyrightspareddcitwew.site^
-||coral-polydactyl-dragonfruit.glitch.me^
+||core.windows.net^
 ||cosmodron.com^
 ||count.trackstatisticsss.com^
 ||course.netpickstrading.com^
@@ -810,7 +807,6 @@
 ||decorousnumerousieo.shop^
 ||decryptor.top^
 ||default27061330-a.akamaihd.net^
-||defenderlive.com^
 ||definform.com^
 ||deftsecurity.com^
 ||deliciosoprimecare.com^
@@ -858,7 +854,6 @@
 ||dnscloudservice.com^
 ||dnslookup.services^
 ||dnsnamefinder.com^
-||dnsstatus.org^
 ||doc-send.com^
 ||doc.apple.com.premienoe.aidl.eonw.line.pm^
 ||doc.global-link.run.place^
@@ -932,7 +927,6 @@
 ||eaougheofhuoaer.ws^
 ||eap.byethost10.com^
 ||earsplitting.ru^
-||east-healthy-dress.glitch.me^
 ||easyuploadservice.com^
 ||ebook.port25.biz^
 ||ebooks.ferrelljoe.com^
@@ -940,7 +934,6 @@
 ||ec2-3-125-223-134.eu-central-1.compute.amazonaws.com^
 ||ecar.allsunstates.com^
 ||economicscreateojsu.shop^
-||economy.ServeUser.com^
 ||edenparkweddings.com^
 ||edge-cloudservices.com^
 ||editions.seattlemysterylovers.com^
@@ -1086,7 +1079,6 @@
 ||friscomusicgroup.com^
 ||fsc-kd.ns01.info^
 ||fserverone.webcindario.com^
-||ftp.boonty.Got-Game.org^
 ||ftp.hinet.dns-dns.com^
 ||ftp.newmc.dns-dns.com^
 ||ftp.twnic.almostmy.com^
@@ -1152,6 +1144,7 @@
 ||glbaitech.com^
 ||glcloudservice.com^
 ||glistening.ru^
+||glitch.me^
 ||glnj.nl^
 ||gloa.in^
 ||globaltalent.in^
@@ -1301,7 +1294,6 @@
 ||indagator.club^
 ||infinitysoftwares.com^
 ||info-updates.ddns.net^
-||info.IsASecret.com^
 ||info.beahh.com^
 ||info.fazlollah.net^
 ||info.payamradio.com^
@@ -1450,7 +1442,6 @@
 ||kolabdown.sytes.net^
 ||kontarso.ru^
 ||koseyso.ru^
-||kpt-pk.net^
 ||kpupdate.amz80.com^
 ||kr4.xyz^
 ||krikam.net^
@@ -1519,9 +1510,7 @@
 ||listen-books.com^
 ||lit-peak-25706.herokuapp.com^
 ||litby.us^
-||liumingzhen.myftp.org^
 ||livehost.live^
-||liveupdate.Jkub.com^
 ||lizimbaso.ru^
 ||lkoeafoekfokooo.ws^
 ||loans.fishingreelinvestments.com^
@@ -1564,10 +1553,10 @@
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
 ||mails.grousp.allowed.org^
-||mailsecurityservice.com^
 ||mailupdate.info^
 ||majzolimka.com^
 ||malwarehunterteam.bit^
+||managercodepro.com^
 ||manated.dynamic-dns.net^
 ||manchestercity.work.gd^
 ||manjuskploman.com^
@@ -1798,7 +1787,6 @@
 ||notes.fumcpittsburg.org^
 ||notfiled.com^
 ||nowautomation.com^
-||np3.Jkub.com^
 ||ns.rtechs.org^
 ||ns1.xssr.org^
 ||ns2.xssr.org^
@@ -1858,7 +1846,6 @@
 ||oop.uk.to^
 ||opela.ru^
 ||openapplicationcheck.azurewebsites.net^
-||openxmlformat.org^
 ||openxmlformats.shop^
 ||opswat.info^
 ||optasko.com^
@@ -2160,7 +2147,6 @@
 ||sex17.us.to^
 ||sgrhf.org.pk^
 ||shadowlegion.duckdns.org^
-||share.anobaka.info^
 ||share.devprocloud.com^
 ||shareboxs.net^
 ||sharedriver.us^
@@ -2210,7 +2196,6 @@
 ||sofahuntingslidedine.shop^
 ||soft.mssysinfo.xyz^
 ||soft.update.cloudns.info^
-||softupdate.xyz^
 ||software.acmetoy.com^
 ||softwarepays.com^
 ||solargroup.xyz^
@@ -2229,7 +2214,6 @@
 ||sourceslabs.com^
 ||southchinapost.net^
 ||spatulapi.ru^
-||specas.OurHobby.com^
 ||specific.autonerdmobilerepairs.com^
 ||specs.dnsrd.com^
 ||speedbind.com^
@@ -2518,7 +2502,6 @@
 ||vntososupplsos.live^
 ||voicetube.citytalk.crabdance.com^
 ||vopaxafi.com^
-||vote.anobaka.info^
 ||vpcpnet.mooo.com^
 ||vpn-ssl.com^
 ||vpn729380678.softether.net^
@@ -2544,6 +2527,7 @@
 ||wak.rocks^
 ||walla.link^
 ||wallanews.publicvm.com^
+||wallanews.sytes.net^
 ||wallymac.com^
 ||waplove.cn^
 ||we-site.net^
@@ -2596,7 +2580,6 @@
 ||windowsx.sytes.net^
 ||winters.r-e.kr^
 ||wiraofise.com^
-||wlks.ServeUsers.com^
 ||wm01.to^
 ||wmail-blog.com^
 ||wmail-blog.xyz^
@@ -2688,6 +2671,7 @@
 ||yorisant.ru^
 ||you-supported.com^
 ||youmiuri.com^
+||younesadams.ddns.net^
 ||yourdirectinfospace.com^
 ||yourspaceprotector.com^
 ||youtobebig.cnkk.org^
@@ -2695,7 +2679,6 @@
 ||youtube.voto^
 ||youtubepremiumapp.com^
 ||yoyakuweb.technology^
-||yrhsywu2009.zapto.org^
 ||ysl.jxwan.com^
 ||ytb.dolala.xyz^
 ||yuiw.xyz^
