@@ -13,7 +13,7 @@ readonly -a RULES=(
 build() {
    # The compressed rules directory is smaller than the individual uncompressed
    # rules
-   curl -sSL "$URL" -o rules.zip
+   curl -sSL --retry 2 --retry-all-errors "$URL" -o rules.zip
    unzip -q rules.zip
    rm rules.zip
 
