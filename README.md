@@ -2,7 +2,11 @@
 
 **This is a fork that maintains the currently inactive <https://github.com/tweedge/emerging-threats-pihole>.**
 
+**The daily updated blocklist can now be found here: [malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
+
 **The README is kept mostly the same.**
+
+---
 
 This repository extracts and categorizes malicious/unwanted domains from the Emerging Threats ruleset for people using PiHole to block easily. Updated daily.
 
