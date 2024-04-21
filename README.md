@@ -2,21 +2,21 @@
 
 **This is a fork that maintains an updated Adblock Plus version of <https://github.com/tweedge/emerging-threats-pihole>.**
 
-**Sourced rulesets from <https://rules.emergingthreats.net/open/suricata-5.0/rules/>:**
-* **[emerging-exploit_kit.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit_kit.rules)**
-* **[emerging-malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-malware.rules)**
-* **[emerging-mobile_malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-mobile_malware.rules)**
-* **[emerging-phishing.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules)**
+Sourced rulesets from <https://rules.emergingthreats.net/open/suricata-5.0/rules/>:
+* [emerging-exploit_kit.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit_kit.rules)
+* [emerging-malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-malware.rules)
+* [emerging-mobile_malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-mobile_malware.rules)
+* [emerging-phishing.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules)
 
-**The phishing ruleset is also integrated into [Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist).**
+The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
 
-**Read about the various categories here: <https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94>**
+Read about the various categories here: <https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94>
 
-**Dead domains and redundant rules are removed during the build.**
+Dead domains and redundant rules are now removed during the build, along with other improvements like whitelist filtering and improved domain extraction.
 
-**The daily updated blocklist can now be found here: [malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
+The daily updated blocklist can be found here: **[malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
 
-**The rest of the README is kept mostly the same.**
+The rest of the README is kept mostly the same.
 
 ---
 
