@@ -4,7 +4,11 @@
 # Suricata rulesets.
 
 readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/emerging.rules.zip'
+
+# https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94
+# Rulesets with no domains extracted are not included
 readonly -a RULESETS=(
+    emerging-exploit_kit
     emerging-malware
     emerging-mobile_malware
     emerging-phishing
@@ -15,13 +19,19 @@ readonly -a RULESETS=(
 #   $1: file containing the ruleset
 #   $2: file to output the domains to
 get_domains() {
-    # Ignore rules that requiring regex matching
+    # Ignore rules with specific payload keywords. See here:
+    # https://docs.suricata.io/en/suricata-6.0.0/rules/payload-keywords.html
+    # Note 'endswith' is accepted as those rules tend to be wildcard matches of
+    # root domains.
     # Ignore IP addresses
-    # Remove leading/trailing periods
+    # Remove leading periods ('endswith' rules)
+    # Convert to lower case
     # Remove whitelisted domains
-    mawk '/dns[\.|_]query;/ && !/pcre:/ && !/content:!/' "$1" \
+    mawk '!/^#/ && /dns[\.|_]query/ && !/content:!/ && !/startswith/ &&
+        !/offset/ && !/distance/ && !/within/ && !/pcre/' "$1" \
         | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
         | sed 's/content:"\.\?//' \
+        | mawk '{print tolower($0)}' \
         | grep -vxFf data/whitelist.txt \
         | sort -u -o "$2"
 }
