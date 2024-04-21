@@ -16,6 +16,8 @@ abbrossgeneralhospital.com
 abdul-sattar-abdul-tr.com
 aberto.click2eat.co.il
 abienceinvestments-fze.com
+account-google.serveftp.com
+activate-google.servehttp.com
 adbntogo.com
 adio-gov.com
 administrator-enoc.com
@@ -60,6 +62,7 @@ apples7.us
 apples8.us
 apples9.us
 arabianmigration.com
+aramex-shipping.servehttp.com
 arquestions.azurewebsites.net
 arquestionsapi.azurewebsites.net
 atenaeps.com
@@ -219,12 +222,19 @@ daviviendapersonalingresos.xyz
 dbhelp.info
 desktool.buzz
 devcraftingsolutions.com
+device-activation.servehttp.com
 dfhelp.cc
 dfhelp.live
 dibfinancialservice-uae.com
 diligencefinconsultants.com
 doc.global-link.run.place
+docs-mails.servehttp.com
 docshared.col-link.linkpc.net
+dropbox-service.serveftp.com
+dropbox-sign.servehttp.com
+dropbox-verfy.servehttp.com
+dropboxnotification.servehttp.com
+dropboxsupport.servehttp.com
 dubai.network.cloud.doc-shared.linkpc.net
 dubaiferryae.com
 duramtravelagency.com
@@ -243,6 +253,11 @@ enocbids.com
 eshopper.top
 exchtestcheckingapi.azurewebsites.net
 exchtestcheckingapihealth.azurewebsites.net
+fedex-mail.servehttp.com
+fedex-notification.servehttp.com
+fedex-s.servehttp.com
+fedex-shipping.servehttp.com
+fedex-sign.servehttp.com
 fenczyflyemiratetravels.com
 ficosha.com
 flighthelicopterahtest.azurewebsites.net
@@ -257,6 +272,13 @@ gbhelp.live
 gchelp.info
 getyourapi.site
 globalhospae.com
+google-maps.servehttp.com
+googledrive-sign.servehttp.com
+googledriver-sign.ddns.net
+googlemaps.servehttp.com
+googlesecure-serv.servehttp.com
+googlesignin.servehttp.com
+googleverify-signin.servehttp.com
 group-meeting.online
 group-meeting.team
 group.evalaskatours.com
@@ -384,6 +406,7 @@ m2care.us
 mail.mrree.gub.bio
 mail.protonmail.sh
 mail.retfaqboos.site
+mailgooglesign.servehttp.com
 mailprotonmail.ch
 mailprotonmail.com
 manchestercity.work.gd
@@ -407,6 +430,7 @@ mirrohost.space
 mod-mil.online
 mod-mil.site
 mohregov-ae.com
+moi-gov.serveftp.com
 mscare.cc
 mshelp.us
 mshelp01.us
@@ -448,6 +472,7 @@ msofthelp.com
 mta-sts.gub.bio
 mvhelp.cc
 my.secure-protonmail.com
+myaccount.servehttp.com
 myself.hopto.org
 n2care.cc
 n2care.us
@@ -460,6 +485,7 @@ notebooktextchecking.azurewebsites.net
 notebooktextcheckings.azurewebsites.net
 notebooktextcheckings.com
 notebooktexts.azurewebsites.net
+notification-team.servehttp.com
 nowmcopetroleum.com
 nrtnhelp.us
 nxhelp.live
@@ -525,6 +551,7 @@ questionsurveyappserver.azurewebsites.net
 quickcare.cc
 quickcitytravel.com
 quiztestapplication.azurewebsites.net
+quota-notification.servehttp.com
 r2care.cc
 r2care.us
 rakpetrolae.com
@@ -537,6 +564,7 @@ registration-adnoc.com
 registration-ae-enoc.com
 registrations-adnoc.com
 registrations-enoc.com
+restricted-videos.servehttp.com
 retfaqboos.site
 rfq-taziz.com
 rightofcourse.com
@@ -547,11 +575,15 @@ safetravel-services.com
 salacomimmigration.com
 sb8.co
 schseels.com
+secure-alert.servehttp.com
 secure-protonmail.com
+secure-team.servehttp.com
 secure.netsolhost.com
 securedhelp.us
 securehelp.cc
 securenetwork.cc
+security-myaccount.servehttp.com
+securityteam-notify.servehttp.com
 serrvices-dibalistservices.cyou
 servesrs-kontendiba.cyou
 sheikhmouradoil.com
@@ -614,6 +646,8 @@ user.protonmail.support
 ustaxnumber.com
 ustaxnumber.org
 vendor-enocbid.com
+verification-acc.servehttp.com
+verification-team.servehttp.com
 verify-email.space
 verify-mail.space
 videomeethub.online
@@ -621,6 +655,7 @@ vscodeupdater.azurewebsites.net
 vsliveagent.com
 walidacja-poczty.space
 walidacja-uzytkownika.space
+watchyoutube.servehttp.com
 wdhelp.live
 wdhelp.us
 weryfikacja-konta.space
