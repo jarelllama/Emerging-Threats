@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/emerging-threats-pihole
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 04.21.075857.2024
+! Version: 04.21.080530.2024
 ! Expires: 1 day
-! Last modified: Sun Apr 21 07:58:57 UTC 2024
+! Last modified: Sun Apr 21 08:05:30 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2653
+! Number of entries: 2654
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -635,7 +635,6 @@
 ||cinemaclinicttanwk.shop^
 ||circle-ci.com^
 ||cisco-webex.online^
-||ciscohelpcenter.com^
 ||citas-satmx.com^
 ||citasatmx2023.lat^
 ||citi-bank.ru^
@@ -736,7 +735,6 @@
 ||count.trackstatisticsss.com^
 ||course.netpickstrading.com^
 ||cpanel.gtiyeshua.com^
-||cpcpipe.com^
 ||craypot.live^
 ||creativity.kinchcorp.com^
 ||credits.offices-analytics.com^
@@ -772,6 +770,7 @@
 ||daji8.me^
 ||dajuw.com^
 ||dakareypa.ru^
+||darknetlinks.wiki^
 ||dashboard.renovationsruth.com^
 ||dashboard.skybacherslocker.com^
 ||dashboard.smartmetereducationnetwork.com^
@@ -982,6 +981,7 @@
 ||eventmoult.bazar^
 ||evga-precision.com^
 ||evilextractor.com^
+||evilproxy.pro^
 ||ewacootili.com^
 ||examples.propertytax4less.com^
 ||exceptionwillapews.shop^
@@ -2637,6 +2637,7 @@
 ||www.kemostarlogistics.co.ke^
 ||www.kiavisa.com^
 ||www.lushespets.com^
+||www.miniboxmail.com^
 ||www.mommachic.com^
 ||www.nationalrecoveryllc.com^
 ||www.qq9122.com^
