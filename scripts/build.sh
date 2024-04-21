@@ -15,6 +15,7 @@ build() {
    # rules
    curl -sSL "$URL" -o rules.zip
    unzip -q rules.zip
+   rm rules.zip
 
    # Collate rules
    for RULE in "${RULES[@]}"; do
