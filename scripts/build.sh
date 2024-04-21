@@ -25,8 +25,8 @@ build() {
    # Get domains in DNS signature rules, exclude IP addresses, and remove
    # leading/trailing periods
    grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' rules.tmp \
-      | grep -oE '[^.][[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sort -u -o raw.tmp
+      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
+      | sed 's/^\.//' | sort -u -o raw.tmp
 
    # Compile list. See the list of transformations here:
    # https://github.com/AdguardTeam/HostlistCompiler
@@ -48,8 +48,8 @@ build() {
    # Build separate phishing list for Jarelllama's Scam Blocklist
    grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' \
       rules/emerging-phishing.rules \
-      | grep -oE '[^.][[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sort -u -o data/phishing.txt
+      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
+      | sed 's/^\.//' | sort -u -o data/phishing.txt
 }
 
 append_header() {
