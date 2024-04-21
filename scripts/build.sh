@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Retrieves domains from DNS signature rules in the Emerging Threats Suricata
-# rulesets.
+# Retrieves domains from DNS request query rules in the Emerging Threats
+# Suricata rulesets.
 
 readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/emerging.rules.zip'
-readonly -a RULES=(
+readonly -a RULESETS=(
    emerging-malware
    emerging-mobile_malware
    emerging-phishing
@@ -15,7 +15,7 @@ readonly -a RULES=(
 #  $1: file containing the ruleset
 #  $2: file to output the domains to
 get_domains() {
-   # Ignore rules that requiring pattern matching
+   # Ignore rules that requiring regex matching
    # Ignore IP addresses
    # Remove leading/trailing periods
    # Remove whitelisted domains
@@ -34,7 +34,7 @@ build() {
    rm rules.zip
 
    # Collate rules
-   for RULE in "${RULES[@]}"; do
+   for RULE in "${RULESETS[@]}"; do
       cat "rules/${RULE}.rules" >> rules.tmp
    done
 
