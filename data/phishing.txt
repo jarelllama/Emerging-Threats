@@ -59,7 +59,6 @@ apples6.us
 apples7.us
 apples8.us
 apples9.us
-appspot.com
 arabianmigration.com
 arquestions.azurewebsites.net
 arquestionsapi.azurewebsites.net
@@ -77,7 +76,6 @@ b124.us
 b2care.cc
 b2care.us
 b36cname.site
-banking.raiffeisen.at
 bc1q0hcvl2p88zdv4dj97mfwtwv4usxm.com
 bc1q6crq62w2sclm0cwwk6m2wugr6jkh.com
 bc1q6zd25jmkfh5x24ymp60tq99xdugpq.com
@@ -190,7 +188,6 @@ contract-snoc.com
 contractor-enoc.com
 contractors-adnoc.com
 contracts-adnoc.com
-core.windows.net
 countrybasedquestions.azurewebsites.net
 creator-partners.com
 creditals-email.space
@@ -259,7 +256,6 @@ gbhelp.cc
 gbhelp.live
 gchelp.info
 getyourapi.site
-glitch.me
 globalhospae.com
 group-meeting.online
 group-meeting.team
@@ -457,7 +453,6 @@ n2care.cc
 n2care.us
 naverk.myvnc.com
 ncare360.us
-netbanking.sparkasse.at
 nipmse.com
 node-dashboard.site
 node-panel.site
@@ -476,7 +471,6 @@ onequestionsapi.azurewebsites.net
 onequestionsapicheck.azurewebsites.net
 online-meeting.team
 online-processing.online
-online.bankaustria.at
 onlinehome.us
 openapplicationcheck.azurewebsites.net
 optionalapplication.azurewebsites.net
