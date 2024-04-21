@@ -19,10 +19,9 @@ get_domains() {
    # Ignore IP addresses
    # Remove leading/trailing periods
    # Remove whitelisted domains
-   grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' "$1" \
-      | mawk '!/pcre/' \
-      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sed 's/^\.//' \
+   mawk '!/pcre/ && /dns\.query/' "$1" \
+      | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
+      | sed 's/content:"\.\?//' \
       | grep -vxFf data/whitelist.txt \
       | sort -u -o "$2"
 }
