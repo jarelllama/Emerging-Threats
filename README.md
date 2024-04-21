@@ -6,8 +6,6 @@ Dead domains and redundant rules are now removed during the build, along with ot
 
 The updated blocklist can be found here (updated at 00:00 AM UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
 
-The rest of the README is kept mostly the same.
-
 Sourced rulesets:
 * emerging-exploit_kit.rules
 * emerging-malware.rules
@@ -19,6 +17,8 @@ The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](ht
 View the full list of fullsets here:
 * [rulesets](https://rules.emergingthreats.net/)
 * [categories](https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94)
+
+The rest of the README is kept mostly the same.
 
 ---
 
