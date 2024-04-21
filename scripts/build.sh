@@ -19,7 +19,7 @@ get_domains() {
     # Ignore IP addresses
     # Remove leading/trailing periods
     # Remove whitelisted domains
-    mawk '!/pcre/ && /dns\.query/' "$1" \
+    mawk '!/pcre/ && /dns[\.|_]query/' "$1" \
         | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
         | sed 's/content:"\.\?//' \
         | grep -vxFf data/whitelist.txt \
