@@ -7,6 +7,7 @@
 * **[emerging-mobile_malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-mobile_malware.rules)**
 * **[emerging-phishing.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules)**
 
+**The phishing ruleset is also integrated into [Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist).**
 
 **Dead domains and redundant rules are removed during the build.**
 
