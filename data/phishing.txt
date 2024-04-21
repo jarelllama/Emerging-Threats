@@ -59,6 +59,7 @@ apples6.us
 apples7.us
 apples8.us
 apples9.us
+appspot.com
 arabianmigration.com
 arquestions.azurewebsites.net
 arquestionsapi.azurewebsites.net
@@ -345,7 +346,6 @@ intergratedblognewsapi.azurewebsites.net
 internal.bounceme.net
 internal.group.link-net.publicvm.com
 investinadio.com
-ipfs
 ips-ac.in
 irs-ein-gov.us
 j-ic.co.intneral-document-he-gr-me.run.place
@@ -608,6 +608,7 @@ tiena.einei.line.pm
 tnlsowki.westus3.cloudapp.azure.com
 tnlsowkis.westus3.cloudapp.azure.com
 toursolutions4u.com
+translate.goog
 turkairline.azurewebsites.net
 ua-passport.space
 uae-snocproject.com
@@ -635,7 +636,6 @@ westernmedicalspecialisthosp.com
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
-www.
 www.oitunmy.com
 xn--31-rha.me
 xn--sapeaunoticias-kjb.com.br
