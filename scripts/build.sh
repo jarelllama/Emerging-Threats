@@ -118,7 +118,7 @@ EOF
 }
 
 cleanup() {
-   find . -maxdepth 1 -type f -name "*.rules" -delete
+   rm -r rules
    find . -maxdepth 1 -type f -name "*.tmp" -delete
 }
 
