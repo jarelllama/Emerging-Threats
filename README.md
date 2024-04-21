@@ -12,7 +12,7 @@ The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](ht
 
 Read about the various categories here: <https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94>
 
-Dead domains and redundant rules are now removed during the build, along with other improvements like whitelist filtering and improved domain extraction.
+Dead domains and redundant rules are now removed during the build, along with other enhancements like whitelist filtering and improved domain extraction.
 
 The daily updated blocklist can be found here: **[malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
 
