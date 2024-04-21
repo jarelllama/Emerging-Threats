@@ -26,7 +26,7 @@ build() {
    # leading/trailing periods
    grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' rules.tmp \
       | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sed 's/^\.//' | sort -u -o raw.tmp
+      | sed 's/^\.//' | grep -vxFf data/whitelist.txt | sort -u -o raw.tmp
 
    # Compile list. See the list of transformations here:
    # https://github.com/AdguardTeam/HostlistCompiler
@@ -49,7 +49,8 @@ build() {
    grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' \
       rules/emerging-phishing.rules \
       | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sed 's/^\.//' | sort -u -o data/phishing.txt
+      | sed 's/^\.//' | grep -vxFf data/whitelist.txt \
+      | sort -u -o data/phishing.txt
 }
 
 append_header() {
