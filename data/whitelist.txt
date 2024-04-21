@@ -1,3 +1,6 @@
 translate.goog
 appspot.com
 glitch.me
+yi.org
+test.com
+freedynamicdns.org
