@@ -2,13 +2,15 @@
 
 **This is a fork that maintains an updated Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
 
-Sourced [rulesets](https://rules.emergingthreats.net/open/suricata-5.0/rules/):
+Sourced rulesets:
 * emerging-exploit_kit.rules
 * emerging-malware.rules
 * emerging-mobile_malware.rules
 * emerging-phishing.rules
 
 The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
+
+View the full list of fullsets here: <https://rules.emergingthreats.net/>
 
 Read about the various categories here: <https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94>
 
