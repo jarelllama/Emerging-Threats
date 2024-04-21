@@ -10,6 +10,23 @@ readonly -a RULES=(
    emerging-phishing
 )
 
+# Function 'get_domains' extracts domains from the ruleset.
+# Input:
+#  $1: file containing the ruleset
+#  $2: file to output the domains to
+get_domains() {
+   # Ignore rules that requiring pattern matching
+   # Ignore IP addresses
+   # Remove leading/trailing periods
+   # Remove whitelisted domains
+   grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' "$1" \
+      | mawk '!/pcre/' \
+      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
+      | sed 's/^\.//' \
+      | grep -vxFf data/whitelist.txt \
+      | sort -u -o "$2"
+}
+
 build() {
    # The compressed rules directory is smaller than the individual uncompressed
    # rules
@@ -22,11 +39,7 @@ build() {
       cat "rules/${RULE}.rules" >> rules.tmp
    done
 
-   # Get domains in DNS signature rules, exclude IP addresses, and remove
-   # leading/trailing periods
-   grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' rules.tmp \
-      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sed 's/^\.//' | grep -vxFf data/whitelist.txt | sort -u -o raw.tmp
+   get_domains rules.tmp raw.tmp
 
    # Compile list. See the list of transformations here:
    # https://github.com/AdguardTeam/HostlistCompiler
@@ -46,11 +59,7 @@ build() {
    cat compiled.tmp >> malicious.txt
 
    # Build separate phishing list for Jarelllama's Scam Blocklist
-   grep -oE 'dns\.query.*content:"[[:alnum:].-]+\.[[:alnum:]-]{2,}' \
-      rules/emerging-phishing.rules \
-      | grep -oE '[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*$' \
-      | sed 's/^\.//' | grep -vxFf data/whitelist.txt \
-      | sort -u -o data/phishing.txt
+   get_domains rules/emerging-phishing.rules data/phishing.txt
 }
 
 append_header() {
