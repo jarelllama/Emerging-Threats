@@ -1,12 +1,12 @@
 # emerging-threats-pihole
 
-**This is a fork that maintains an updated Adblock Plus version of <https://github.com/tweedge/emerging-threats-pihole>.**
+**This is a fork that maintains an updated Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
 
-Sourced rulesets from <https://rules.emergingthreats.net/open/suricata-5.0/rules/>:
-* [emerging-exploit_kit.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-exploit_kit.rules)
-* [emerging-malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-malware.rules)
-* [emerging-mobile_malware.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-mobile_malware.rules)
-* [emerging-phishing.rules](https://rules.emergingthreats.net/open/suricata-5.0/rules/emerging-phishing.rules)
+Sourced [rulesets](https://rules.emergingthreats.net/open/suricata-5.0/rules/):
+* emerging-exploit_kit.rules
+* emerging-malware.rules
+* emerging-mobile_malware.rules
+* emerging-phishing.rules
 
 The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
 
