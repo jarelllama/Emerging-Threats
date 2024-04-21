@@ -124,7 +124,7 @@ cleanup() {
 
 # Entry point
 
-trap cleanup on EXIT
+trap cleanup EXIT
 
 # Install AdGuard's Dead Domains Linter
 if ! command -v dead-domains-linter &> /dev/null; then
