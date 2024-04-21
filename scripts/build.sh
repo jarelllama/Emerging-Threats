@@ -5,64 +5,64 @@
 
 readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/emerging.rules.zip'
 readonly -a RULESETS=(
-   emerging-malware
-   emerging-mobile_malware
-   emerging-phishing
+    emerging-malware
+    emerging-mobile_malware
+    emerging-phishing
 )
 
 # Function 'get_domains' extracts domains from the ruleset.
 # Input:
-#  $1: file containing the ruleset
-#  $2: file to output the domains to
+#   $1: file containing the ruleset
+#   $2: file to output the domains to
 get_domains() {
-   # Ignore rules that requiring regex matching
-   # Ignore IP addresses
-   # Remove leading/trailing periods
-   # Remove whitelisted domains
-   mawk '!/pcre/ && /dns\.query/' "$1" \
-      | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
-      | sed 's/content:"\.\?//' \
-      | grep -vxFf data/whitelist.txt \
-      | sort -u -o "$2"
+    # Ignore rules that requiring regex matching
+    # Ignore IP addresses
+    # Remove leading/trailing periods
+    # Remove whitelisted domains
+    mawk '!/pcre/ && /dns\.query/' "$1" \
+        | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
+        | sed 's/content:"\.\?//' \
+        | grep -vxFf data/whitelist.txt \
+        | sort -u -o "$2"
 }
 
 build() {
-   # The compressed rules directory is smaller than the individual uncompressed
-   # rules
-   curl -sSL --retry 2 --retry-all-errors "$URL" -o rules.zip
-   unzip -q rules.zip
-   rm rules.zip
+    # The compressed rules directory is smaller than the individual uncompressed
+    # rules
+    curl -sSL --retry 2 --retry-all-errors "$URL" -o rules.zip
+    unzip -q rules.zip
+    rm rules.zip
 
-   # Collate rules
-   for RULE in "${RULESETS[@]}"; do
-      cat "rules/${RULE}.rules" >> rules.tmp
-   done
+    # Collate rules
+    for RULE in "${RULESETS[@]}"; do
+        cat "rules/${RULE}.rules" >> rules.tmp
+    done
 
-   get_domains rules.tmp raw.tmp
+    get_domains rules.tmp raw.tmp
 
-   # Compile list. See the list of transformations here:
-   # https://github.com/AdguardTeam/HostlistCompiler
-   printf "\n"
-   hostlist-compiler -i raw.tmp -o compiled.tmp
+    # Compile list. See the list of transformations here:
+    # https://github.com/AdguardTeam/HostlistCompiler
+    printf "\n"
+    hostlist-compiler -i raw.tmp -o compiled.tmp
 
-   # Remove dead domains
-   printf "\n"
-   dead-domains-linter -a -i compiled.tmp
+    # Remove dead domains
+    printf "\n"
+    dead-domains-linter -a -i compiled.tmp
 
-   # Get entries, ignoring comments
-   grep -F '||' compiled.tmp > temp
-   mv temp compiled.tmp
+    # Get entries, ignoring comments
+    grep -F '||' compiled.tmp > temp
+    mv temp compiled.tmp
 
-   # Deploy blocklist
-   append_header
-   cat compiled.tmp >> malicious.txt
+    # Deploy blocklist
+    append_header
+    cat compiled.tmp >> malicious.txt
 
-   # Build separate phishing list for Jarelllama's Scam Blocklist
-   get_domains rules/emerging-phishing.rules data/phishing.txt
+    # Build separate phishing list for Jarelllama's Scam Blocklist
+    get_domains rules/emerging-phishing.rules data/phishing.txt
 }
 
 append_header() {
-   cat << EOF > malicious.txt
+    cat << EOF > malicious.txt
 [Adblock Plus]
 ! Title: (Unofficial) Emerging Threats Blocklist
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
@@ -129,8 +129,8 @@ EOF
 }
 
 cleanup() {
-   rm -r rules
-   find . -maxdepth 1 -type f -name "*.tmp" -delete
+    rm -r rules
+    find . -maxdepth 1 -type f -name "*.tmp" -delete
 }
 
 # Entry point
