@@ -76,7 +76,7 @@ append_header() {
 [Adblock Plus]
 ! Title: (Unofficial) Emerging Threats Blocklist
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
-! Homepage: https://github.com/jarelllama/emerging-threats-pihole
+! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
 ! Version: $(date -u +"%m.%d.%H%M%S.%Y")
 ! Expires: 1 day
