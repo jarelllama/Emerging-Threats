@@ -38,7 +38,7 @@ This allows home users to increase their defenses against new threats and provid
 
 **...So will this protect me from malware/phishing/etc?** Some, yes. It's one source of threat intelligence among many that you can use - but finding and curating many sources of threat intelligence is difficult. To increase the malware-fighting capabilities of your PiHole/DNS sinkhole, I would *strongly* recommend using a public filtering DNS resolver which will have many more sources of threat intelligence integrated already. However, please remember that is *part* of your cybersecurity stack, there is no all-in-one complete solution and there is no machine that can protect you from *all* malware/phishing/etc.
 
-### Notice of Non-Affiliation
+## Notice of Non-Affiliation
 
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Emerging Threats, Proofpoint, or any of its subsidiaries or its affiliates. The official Emerging Threats rulesets can be found at [https://rules.emergingthreats.net/](https://rules.emergingthreats.net/).
 
