@@ -27,8 +27,7 @@ get_domains() {
     # Remove leading periods ('endswith' rules)
     # Convert to lower case
     # Remove whitelisted domains
-    mawk '/dns[\.|_]query/ && !/^#|content:!|startswith/ && 
-        !/offset|distance|within|pcre/' "$1" \
+    mawk '/dns[\.|_]query/ && !/^#|content:!|startswith|offset|distance|within|pcre/' "$1" \
         | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
         | mawk -F '"' '{sub(/^\./, "", $2); print tolower($2)}' \
         | grep -vxFf data/whitelist.txt \
