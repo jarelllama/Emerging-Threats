@@ -4,7 +4,7 @@
 
 Dead domains and redundant rules are now removed during the build, along with other enhancements like whitelist filtering and improved domain extraction.
 
-The updated blocklist can be found here (updated at 00:00 AM UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt)**
+The updated blocklist can be found here (updated at 00:00 AM UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt)**
 
 Sourced rulesets:
 * emerging-exploit_kit.rules
@@ -24,7 +24,7 @@ The rest of the README is kept mostly the same.
 
 This repository extracts and categorizes malicious/unwanted domains from the Emerging Threats ruleset for people using PiHole/DNS sinkholes to block easily.
 
-[malicious.txt](https://raw.githubusercontent.com/jarelllama/emerging-threats-pihole/main/malicious.txt) - Blocks malware and phishing
+[malicious.txt](https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt) - Blocks malware and phishing
 
 This allows home users to increase their defenses against new threats and provides a window into some technology used to secure large or sensitive networks. At launch (2022-12-31), the `malicious.txt` host file blocked >2,100 unique domains (including domains used by major malware strains, APTs, and more) and *~83% of these domains were not found in popular PiHole anti-malware/anti-phishing/etc. lists.*
 
