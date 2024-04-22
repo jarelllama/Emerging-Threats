@@ -30,8 +30,7 @@ get_domains() {
     mawk '!/^#/ && /dns[\.|_]query/ && !/content:!/ && !/startswith/ &&
         !/offset/ && !/distance/ && !/within/ && !/pcre/' "$1" \
         | grep -oE 'content:"[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
-        | sed 's/content:"\.\?//' \
-        | mawk '{print tolower($0)}' \
+        | mawk -F '"' '{sub(/^\./, "", $2); print tolower($2)}' \
         | grep -vxFf data/whitelist.txt \
         | sort -u -o "$2"
 }
