@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 04.22.002635.2024
+! Version: 04.22.005628.2024
 ! Expires: 1 day
-! Last modified: Mon Apr 22 00:26:35 UTC 2024
+! Last modified: Mon Apr 22 00:56:28 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1999
+! Number of entries: 2005
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -453,6 +453,7 @@
 ||butoza.ru^
 ||buy-new-car.com^
 ||buyhighroad.scienceontheweb.net^
+||byfleur.myftp.org^
 ||bytlo.com^
 ||c0.wf^
 ||c13a856f4a879a89e9a638207efd6c94.biz^
@@ -828,6 +829,7 @@
 ||fixturewordbakewos.shop^
 ||fja.com.mx^
 ||flapawer.com^
+||flash.wy886066.com^
 ||flexibleagttypoceo.shop^
 ||flowershop22.110mb.com^
 ||flyspecialline.com^
@@ -1167,6 +1169,7 @@
 ||linkit.digital^
 ||listwithstats.com^
 ||litby.us^
+||liumingzhen.myftp.org^
 ||livehost.live^
 ||lkoeafoekfokooo.ws^
 ||loans.fishingreelinvestments.com^
@@ -1200,6 +1203,7 @@
 ||maill-support.com^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
+||mailsecurityservice.com^
 ||mailupdate.info^
 ||majzolimka.com^
 ||malwarehunterteam.bit^
@@ -1235,6 +1239,7 @@
 ||mexstat128.com^
 ||mfa-office.org^
 ||mhotepzi.ru^
+||micfkbeljacob.com^
 ||micro-office.ddns.net^
 ||micro-set.ddns.net^
 ||microsof-update.com^
@@ -1276,6 +1281,7 @@
 ||mozilla.tftpd.net^
 ||ms.rousinov.cz^
 ||msas.ws^
+||msftcloud.click^
 ||msix.pm^
 ||msn-service.co^
 ||msstorageazure.com^
