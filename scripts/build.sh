@@ -107,11 +107,11 @@ append_header() {
 !
 ! SOMETHING IS WRONG:
 ! Sorry! This is NOT an official Emerging Threats project and while I'll do my best to ensure correctness,
-! this hosts file is not provided with any guarantees.
+! this blocklist is not provided with any guarantees.
 ! Please report false positives or other issues here: https://github.com/jarelllam/Emerging-Threats/issues
 !
 ! LICENSE:
-! Emerging Threats community rules, from which this hosts file is derived, are BSD-licensed:
+! Emerging Threats community rules, from which this blocklist is derived, are BSD-licensed:
 !  Copyright (c) 2003-2024, Emerging Threats
 !  All rights reserved.
 !
