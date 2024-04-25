@@ -1,3 +1,4 @@
 translate.goog
 yi.org
 test.com
+asocks.com
