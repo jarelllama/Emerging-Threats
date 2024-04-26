@@ -57,9 +57,8 @@ build() {
     printf "\n"
     dead-domains-linter -a -i compiled.tmp
 
-    # Get entries, ignoring comments
-    grep -F '||' compiled.tmp > temp
-    mv temp compiled.tmp
+    # Remove comments
+    sed -i '/!/d' compiled.tmp
 
     # Deploy blocklist
     append_header
