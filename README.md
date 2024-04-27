@@ -1,6 +1,6 @@
 # Emerging Threats Blocklist
 
-**This is a fork that maintains a rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
+**This is a fork that maintains a code-rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
 
 Dead domains and redundant rules are now removed during the build, along with other enhancements like whitelist filtering and improved domain extraction.
 
