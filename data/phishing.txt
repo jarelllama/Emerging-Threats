@@ -168,6 +168,7 @@ iaidevrssfeed.centralus.cloudapp.azure.com
 iaidevrssfeed.centrualus.cloudapp.azure.com
 iaidevrssfeed.cloudapp.azure.com
 iaidevrssfeedp.cloudapp.azure.com
+iapparel.top
 iconiqueimmigration.com
 id.bigmir.space
 identifycheckapplication.azurewebsites.net
