@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 05.14.090931.2024
+! Version: 05.14.180916.2024
 ! Expires: 1 day
-! Last modified: Tue May 14 09:09:31 UTC 2024
+! Last modified: Tue May 14 18:09:16 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2039
+! Number of entries: 2049
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -418,6 +418,7 @@
 ||bizsonet.com^
 ||bk.957wan.com^
 ||blackberry-support.herokuapp.com^
+||blackcap.ru^
 ||blackempirebuild.com^
 ||blacknurse.lib^
 ||blockbitcoin.com^
@@ -458,6 +459,7 @@
 ||butoza.ru^
 ||buy-new-car.com^
 ||buyhighroad.scienceontheweb.net^
+||byfleur.myftp.org^
 ||bytlo.com^
 ||c0.wf^
 ||c13a856f4a879a89e9a638207efd6c94.biz^
@@ -941,6 +943,7 @@
 ||hardwarenet.cc^
 ||havan.qhigh.com^
 ||hawkshaw-cae48.firebaseio.com^
+||hcttmail.com^
 ||hdfc-point.web.app^
 ||headraisepresidensu.shop^
 ||healthcaretip.info^
@@ -1154,6 +1157,7 @@
 ||libjs.inquirerjs.com^
 ||lightalex.ru^
 ||like4u.ru^
+||likratoka.com^
 ||limeerror.org^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
@@ -1169,6 +1173,7 @@
 ||listwisconsin.com^
 ||listwithstats.com^
 ||litby.us^
+||liumingzhen.myftp.org^
 ||livehost.live^
 ||lkoeafoekfokooo.ws^
 ||loans.fishingreelinvestments.com^
@@ -1203,6 +1208,7 @@
 ||maill-support.com^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
+||mailsecurityservice.com^
 ||mailupdate.info^
 ||majzolimka.com^
 ||malwarehunterteam.bit^
@@ -1236,6 +1242,7 @@
 ||mexstat128.com^
 ||mfa-office.org^
 ||mhotepzi.ru^
+||micfkbeljacob.com^
 ||micro-office.ddns.net^
 ||micro-set.ddns.net^
 ||micro-windows.in^
@@ -1533,6 +1540,7 @@
 ||questionsdatabases.azurewebsites.net^
 ||quickcitytravel.com^
 ||qwepoi123098.com^
+||r.significantbyte.com^
 ||r0.pm^
 ||r0.wf^
 ||r1.57thandnormal.com^
@@ -1588,6 +1596,7 @@
 ||s8.cx^
 ||sabafon.info^
 ||sabre-airlinesolutions.com^
+||safe-car.ru^
 ||safetyfactor.online^
 ||saharabo.ru^
 ||sailorjobs.world^
@@ -1616,6 +1625,7 @@
 ||secdns.site^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
+||secshow.online^
 ||secuerserver.com^
 ||secure.netsolhost.com^
 ||securecrt.cc^
@@ -1687,6 +1697,7 @@
 ||sofahuntingslidedine.shop^
 ||sofaprivateawarderysj.shop^
 ||soft.mssysinfo.xyz^
+||softupdate.xyz^
 ||softwarepays.com^
 ||solargroup.xyz^
 ||solartrackingsystem.net^
@@ -1838,7 +1849,6 @@
 ||tptf.fund^
 ||tr069.pw^
 ||trademark.iglesiaelarca.com^
-||tradinghuy.duckdns.org^
 ||trans1ategooglecom.com^
 ||trecube.com^
 ||treegreeny.org^
