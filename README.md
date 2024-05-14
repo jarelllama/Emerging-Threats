@@ -4,7 +4,7 @@
 
 Dead domains and redundant rules are now removed during the build, along with other enhancements like whitelist filtering and improved domain extraction.
 
-The updated blocklist can be found here (updated at 00:00 AM UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt)**
+The updated blocklist can be found here (updated at 18:00 UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt)**
 
 Sourced rulesets:
 
