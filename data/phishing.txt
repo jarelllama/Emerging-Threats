@@ -189,7 +189,6 @@ intergratedblognewsapi.azurewebsites.net
 internal.bounceme.net
 internal.group.link-net.publicvm.com
 investinadio.com
-ips-ac.in
 irs-ein-gov.us
 j-ic.co.intneral-document-he-gr-me.run.place
 jaknet.my.id
@@ -310,7 +309,6 @@ sb8.co
 schseels.com
 secure-protonmail.com
 secure.netsolhost.com
-serrvices-dibalistservices.cyou
 sheikhmouradoil.com
 siemenoilandgas.com
 skyboxdrive.cloud
@@ -330,7 +328,6 @@ support.cisco-webex.online
 surveyappquery.azurewebsites.net
 surveyonlinetest.azurewebsites.net
 surveyonlinetestapi.azurewebsites.net
-survival.berserkerbrotherhood.org
 syncmeet.online
 team-meet.online
 team-meet.xyz
@@ -378,6 +375,5 @@ workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
 www.oitunmy.com
 xn--31-rha.me
-xn--sapeaunoticias-kjb.com.br
 zbavitae.com
 zirvaenergy.com
