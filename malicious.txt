@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 05.29.180904.2024
+! Version: 05.30.181024.2024
 ! Expires: 1 day
-! Last modified: Wed May 29 18:09:04 UTC 2024
+! Last modified: Thu May 30 18:10:24 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2095
+! Number of entries: 2110
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -62,6 +62,7 @@
 !
 ||020.57thandnormal.com^
 ||03s30.com^
+||079zain.com^
 ||0a0074066c49886a39b5a3072582f5d6.net^
 ||0cf5ff34.ngrok.io^
 ||0e.si^
@@ -76,15 +77,16 @@
 ||0v.wf^
 ||0w.pm^
 ||10xshares.com^
-||119-tim.info^
 ||11k.online^
 ||123online.uk^
 ||146-fastweb.info^
+||155-wind.info^
 ||159-windtre.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1i.pm^
 ||1j.pm^
 ||1k4.xyz^
+||1kt8j.com^
 ||1u.pm^
 ||1u.wf^
 ||2261992.s3.amazonaws.com^
@@ -168,8 +170,10 @@
 ||ab3d685a0c37.com^
 ||ab6d54340c1a.com^
 ||ab70a139cc3a.com^
+||ab890e964c34.com^
 ||ab8cee60c2d.com^
 ||aba9a949bc1d.com^
+||abcdefghijkzz123.servicedesks.net^
 ||absentconvicsjawun.shop^
 ||absolutecache.com^
 ||abuselinenaidwjuew.shop^
@@ -331,7 +335,6 @@
 ||awardlandscareposiw.shop^
 ||awsamazon.cc^
 ||awsstatics.com^
-||aytobusesre.com^
 ||azureonlinecloud.com^
 ||b0t.to^
 ||b36cname.site^
@@ -394,6 +397,7 @@
 ||bikessport.com^
 ||binder-sa.com^
 ||birdpenallitysydw.shop^
+||bit-li.com^
 ||bit-li.ws^
 ||biteupdates.live^
 ||biteupdates.site^
@@ -442,6 +446,7 @@
 ||bulk.fun^
 ||bulot.ru^
 ||bundanesia.com^
+||burdurpastane.com^
 ||burgerprince.us^
 ||buritoc.ru^
 ||businessvideonews.com^
@@ -487,6 +492,7 @@
 ||cdnapis.com^
 ||cdnforfiles.xyz^
 ||cdnimages.xyz^
+||cdnjscloudnetwork.co^
 ||cdnpps.us^
 ||celebritylife.news^
 ||celebsinformation.com^
@@ -497,6 +503,7 @@
 ||cfg.jipinwan.com^
 ||cgb488dixfxjw7.com^
 ||chat-gpt-pc.online^
+||chat2hire.net^
 ||chatsecure.uk.to^
 ||chatsecurelite.uk.to^
 ||chatsecurelite.us.to^
@@ -507,7 +514,6 @@
 ||chezfur.com^
 ||christopher.fun^
 ||chrom3.net^
-||chrome-error.co^
 ||chrome-up.date^
 ||chrome.servehttp.com^
 ||chromup.com^
@@ -573,6 +579,7 @@
 ||compdate.my03.com^
 ||coms.documentmeda.com^
 ||concessionofsellerwo.shop^
+||concur.re^
 ||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
 ||connectivitychecker.com^
@@ -586,6 +593,7 @@
 ||cooporatestock.com^
 ||cop.osonlines.co^
 ||coral-polydactyl-dragonfruit.glitch.me^
+||crashedff.xyz^
 ||craypot.live^
 ||credits.offices-analytics.com^
 ||cryptopro-download.one^
@@ -684,7 +692,6 @@
 ||doggygangers.com^
 ||dogotungtam.com^
 ||donkorpa.ru^
-||dotntexplorere.info^
 ||doug.org^
 ||download.agency^
 ||downloadlog.linkpc.net^
@@ -722,7 +729,6 @@
 ||ebook.port25.biz^
 ||ebooks.ferrelljoe.com^
 ||economicscreateojsu.shop^
-||edelmiramejiaterapeutacosmica.com^
 ||edenparkweddings.com^
 ||edrefo.com^
 ||eeatgoodx.com^
@@ -749,7 +755,9 @@
 ||emperorplan.org^
 ||employhabragaomlsp.shop^
 ||emshedulersvc.com^
+||encrypt-email.online^
 ||encryptit.qc.to^
+||enigma.net.in^
 ||enigmase.xyz^
 ||enikos.news^
 ||enpport.com^
@@ -763,6 +771,7 @@
 ||erdotntexplore.info^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
+||esilet.com^
 ||esr.suppservices.xyz^
 ||essentialsmassageanddayspa.com^
 ||establisheddisappearefe.site^
@@ -785,7 +794,6 @@
 ||f0.tel^
 ||f0559838.xsph.ru^
 ||fainstec.com^
-||fairfurryfriends.com^
 ||fairu-blog.com^
 ||fairu-blog.xyz^
 ||fairu-cdn.com^
@@ -891,7 +899,6 @@
 ||getsmallcount.com^
 ||getyourapi.site^
 ||gggatat456.com^
-||gh.dsaj2a1.org^
 ||ghost.blueecho88.com^
 ||gia.3utilities.com^
 ||giaoanso.com^
@@ -966,7 +973,6 @@
 ||hilifimyanmar.com^
 ||hinitial.com^
 ||hjmpfsamfkj5m5.com^
-||hkxpqdtgsucylodaejmzmtnkpfvojabe.com^
 ||hl852.com^
 ||hlktradecenter.com^
 ||hmgcyberschools.com^
@@ -1039,6 +1045,7 @@
 ||iraty.ru^
 ||iredelltx.com^
 ||iredugov.wiki^
+||irenewansley.icu^
 ||irs-ein-gov.us^
 ||ishakpa.ru^
 ||islam.youtubesitegroup.com^
@@ -1046,7 +1053,6 @@
 ||itemsdostawa.com^
 ||itly.link^
 ||itter.me^
-||itunes-helper.net^
 ||iugur.live^
 ||ixware.xyz^
 ||iyw5.com^
@@ -1089,6 +1095,7 @@
 ||jrx.fr^
 ||jrx.tw^
 ||js6kk.xyz^
+||js88.ag^
 ||jscloud.live^
 ||jsreload.pw^
 ||junk-bros.com^
@@ -1165,15 +1172,19 @@
 ||lightsteper.com^
 ||like4u.ru^
 ||likratoka.com^
+||lilygovert91.top^
 ||limeerror.org^
 ||limousine-service.cz^
+||linda-callaghan.icu^
 ||linedgreen.org^
 ||lineferaline.com^
 ||linestoget.com^
 ||link-protection.com^
+||linkedim.in^
 ||linkedopports.com^
 ||linkit.cloud^
 ||linkit.digital^
+||linuxrelease.org^
 ||listwisconsin.com^
 ||listwithstats.com^
 ||litby.us^
@@ -1265,6 +1276,7 @@
 ||microsoftupdate.in^
 ||mifrutty.com^
 ||mihannevis.com^
+||mikkelbourke.pro^
 ||milf.house^
 ||militaryobserver.net^
 ||miniaturefinerninewjs.shop^
@@ -1450,7 +1462,6 @@
 ||packetbite.live^
 ||pafwa.info^
 ||paintercrutcheniw.shop^
-||paknavy.comsats.xyz^
 ||palmeventeryjusk.shop^
 ||panahaziso.ru^
 ||pandorasong.com^
@@ -1574,6 +1585,7 @@
 ||randaln.com^
 ||rannd.org^
 ||ransomware.bit^
+||rapidcomments.com^
 ||rashidiso.ru^
 ||rchitecture.org^
 ||rchosts.com^
@@ -1587,7 +1599,6 @@
 ||reclaimmycredit.com^
 ||redsquardhack.com^
 ||refaeldevrssfeed.centralus.cloudapp.azure.com^
-||referralpublicationjk.pw^
 ||reftop.click^
 ||refundemobxyyeols.shop^
 ||register.arpsychotherapy.com^
@@ -1622,8 +1633,10 @@
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
+||s20.site^
 ||s8.cx^
 ||sabafon.info^
+||sabre-airlinesolutions.com^
 ||safe-car.ru^
 ||safetyfactor.online^
 ||saharabo.ru^
@@ -1645,12 +1658,14 @@
 ||saylor2xbtc.com^
 ||sb8.co^
 ||sbmsa.wiki^
+||scada.paradizeconstruction.com^
 ||schedule.golfballnutz.com^
 ||schooltillhungryprocess.com^
 ||scm.oracleapps.org^
 ||scsnewstoday.com^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
+||sealingshop.click^
 ||searchgear.pro^
 ||seasonsbackup.xyz^
 ||secdns.site^
@@ -1673,11 +1688,9 @@
 ||sermina.host^
 ||serve1.mooo.com^
 ||servemaining.science^
-||servesmailerpro.science^
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
-||servicesystem.serveirc.com^
 ||sessionannoucemenwj.shop^
 ||sessions4life.pw^
 ||setapp.ink^
@@ -1793,6 +1806,7 @@
 ||subsidiaryohio.linkpc.net^
 ||suitcaseacanehalk.shop^
 ||sun876954.space^
+||sunjaydut.ddns.net^
 ||support.cisco-webex.online^
 ||support.helpkaspersky.top^
 ||supportteam.lingrevelat.com^
@@ -1822,6 +1836,7 @@
 ||technewsblogapi.azurewebsites.net^
 ||techwach.com^
 ||techyureka.com^
+||telecomly.info^
 ||teledyneflir.com.de^
 ||telemetrysystemcollection.com^
 ||telloo.io^
@@ -1862,6 +1877,7 @@
 ||tiol.xyz^
 ||titaniumx.co.in^
 ||tivents.de^
+||tjtmovers.com^
 ||tksrpdl.atwebpages.com^
 ||tldrbox.ws^
 ||tldrnet.top^
@@ -1870,7 +1886,6 @@
 ||tnoodlezy.com^
 ||tnsc.webredirect.org^
 ||tobaccosafe.xyz^
-||tokenais.com^
 ||tolerateilusidjukl.shop^
 ||tolofa.ru^
 ||tolotor.com^
@@ -1891,7 +1906,6 @@
 ||trecube.com^
 ||treegreeny.org^
 ||trendmicro-update.org^
-||trendmicro.tech^
 ||triangleseasonbenchwj.shop^
 ||trojan1117.hopto.org^
 ||trxh.xyz^
@@ -1977,6 +1991,7 @@
 ||visualstudiofactory.com^
 ||viterwin.club^
 ||vn6.co^
+||vntososupplsos.live^
 ||voicelesson.org^
 ||voicelighterrrepso.shop^
 ||vpcpnet.mooo.com^
@@ -2012,13 +2027,13 @@
 ||webcodez.com^
 ||webdatacache.com^
 ||webdataspace.com^
+||webdynamicname.com^
 ||webfile.myq-see.com^
 ||webnar.info^
 ||websencl.com^
 ||websitetheme.com^
 ||weekdanys.com^
 ||welcome.visionaryyouth.org^
-||wesharex.net^
 ||whispedwoodmoodsksl.shop^
 ||whitedrill.org^
 ||who-international.com^
@@ -2104,6 +2119,7 @@
 ||www.switchmerge.com^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
+||wx.go890.com^
 ||x-trust.net^
 ||xchange-connect.org^
 ||xjam.hk^
@@ -2117,10 +2133,10 @@
 ||y9f6z0q1w2.xyz^
 ||yachtbars.fun^
 ||yanaloop.shop^
-||yappiexpress.com^
 ||ycva887.top^
 ||yellowblog.flnet.org^
 ||yhdmb.xyz^
+||yhgrffndvzbtoilmundkmvbaxrjtqsew.com^
 ||ynns.uk^
 ||youmiuri.com^
 ||youtube.voto^
@@ -2128,7 +2144,6 @@
 ||yoyakuweb.technology^
 ||ysl.jxwan.com^
 ||yuiw.xyz^
-||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
 ||z7s.org^
 ||zacharryblogs.com^
