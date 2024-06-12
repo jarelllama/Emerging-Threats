@@ -88,7 +88,6 @@ changequestiontypesapi.azurewebsites.net
 checkapicountryquestions.azurewebsites.net
 checkapicountryquestionsjson.azurewebsites.net
 checkservicecustomerapi.azurewebsites.net
-circle-ci.com
 cloudnetsofe.com
 coffeeonlineshop.azurewebsites.net
 coffeeonlineshoping.azurewebsites.net
