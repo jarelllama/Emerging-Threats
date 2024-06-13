@@ -112,6 +112,7 @@ customercareservice.azurewebsites.net
 customercareserviceapi.azurewebsites.net
 d75.site
 dahilalcapitalinvest.com
+datatrail.xyz
 desktool.buzz
 dibfinancialservice-uae.com
 diligencefinconsultants.com
