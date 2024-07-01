@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 06.30.180938.2024
+! Version: 07.01.180927.2024
 ! Expires: 1 day
-! Last modified: Sun Jun 30 18:09:38 UTC 2024
+! Last modified: Mon Jul  1 18:09:27 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1962
+! Number of entries: 1968
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -80,7 +80,6 @@
 ||119-tim.info^
 ||11k.online^
 ||123online.uk^
-||133-tre.info^
 ||146-fastweb.info^
 ||155-wind.info^
 ||159-windtre.info^
@@ -210,7 +209,9 @@
 ||aefieiaehfiaeho.ws^
 ||aefieiaehfiaehr.top^
 ||aefieiaehfiaehr.ws^
+||aefieiaehfiaehz.top^
 ||aefofhhfouahugo.ws^
+||aefofhhfouahugr.top^
 ||aefofhhfouahugr.ws^
 ||aetherial.store^
 ||aethionemaso.ru^
@@ -329,7 +330,6 @@
 ||avsvmcloud.com^
 ||awsamazon.cc^
 ||awsstatics.com^
-||aytobusesre.com^
 ||azureonlinecloud.com^
 ||b36cname.site^
 ||b3vv.com^
@@ -399,7 +399,6 @@
 ||bizsonet.com^
 ||bk.957wan.com^
 ||blackberry-support.herokuapp.com^
-||blackcap.ru^
 ||blackempirebuild.com^
 ||blacknurse.lib^
 ||blockbitcoin.com^
@@ -416,7 +415,6 @@
 ||bolonna.ru^
 ||bookmycooks.com^
 ||books.mrface.com^
-||boshiamys.com^
 ||bowenpress.org^
 ||box.conf1g.com^
 ||bpyo.in^
@@ -440,6 +438,7 @@
 ||buy-new-car.com^
 ||buyhighroad.scienceontheweb.net^
 ||by007.cn^
+||byfleur.myftp.org^
 ||bytlo.com^
 ||c0.wf^
 ||c13a856f4a879a89e9a638207efd6c94.biz^
@@ -480,7 +479,6 @@
 ||centralizebd.com^
 ||ceycarb.com^
 ||cfg.jipinwan.com^
-||charmander.xyz^
 ||chat-gpt-pc.online^
 ||chat2hire.net^
 ||chatsecure.uk.to^
@@ -650,6 +648,7 @@
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||downwarding.com^
+||dpf.fm^
 ||draggedline.org^
 ||dragon.lib^
 ||drgibit.click^
@@ -743,7 +742,6 @@
 ||fairu-endpoint.xyz^
 ||fairu-schnellvpn.com^
 ||fairu-schnellvpn.xyz^
-||farstream.org^
 ||fastify.elfaker.workers.dev^
 ||fastify.sbs^
 ||fastjscdn.org^
@@ -831,7 +829,6 @@
 ||getsmallcount.com^
 ||getyourapi.site^
 ||gggatat456.com^
-||gh.dsaj2a1.org^
 ||ghost.blueecho88.com^
 ||ghufal.answermedia.site^
 ||gia.3utilities.com^
@@ -868,7 +865,6 @@
 ||greensky27.vicp.net^
 ||group-meeting.online^
 ||group-meeting.team^
-||group.evalaskatours.com^
 ||growthtransport.com^
 ||grutic.store^
 ||gspiceyl.com^
@@ -1040,6 +1036,7 @@
 ||kakiosk.adsparkdev.com^
 ||kaspresksy.com^
 ||katesacker.club^
+||katie.party^
 ||kc-3.ru^
 ||kciap.pw^
 ||kcyvxytog.biz^
@@ -1091,6 +1088,7 @@
 ||lightalex.ru^
 ||lightpillar.lat^
 ||like4u.ru^
+||likratoka.com^
 ||limeerror.org^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
@@ -1105,6 +1103,7 @@
 ||listwisconsin.com^
 ||listwithstats.com^
 ||litby.us^
+||liumingzhen.myftp.org^
 ||livehost.live^
 ||lkoeafoekfokooo.ws^
 ||load.memoryloader.com^
@@ -1114,10 +1113,9 @@
 ||logupdatemanagementapi.azurewebsites.net^
 ||logupdatemanagementapijson.azurewebsites.net^
 ||lorriratzlaff.com^
-||lovers.semara.ru^
 ||lovingallupdates.life^
+||lucashnancy.com^
 ||lumiapps.io^
-||lump.semara.ru^
 ||lwip.re^
 ||lwoekouututeuoo.ws^
 ||lwoekouututeuor.ws^
@@ -1185,6 +1183,7 @@
 ||microsoftsupp.com^
 ||microsoftsync.org^
 ||microsoftupdate.in^
+||micrsoftonline.net^
 ||mifrutty.com^
 ||mihannevis.com^
 ||mikkelbourke.pro^
@@ -1245,6 +1244,7 @@
 ||myrappid.com^
 ||myservicessapps.com^
 ||mystrylust.pw^
+||mysweeterbk.ddns.net^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
 ||mziep.pw^
@@ -1275,6 +1275,7 @@
 ||new.filetea.me^
 ||new.odgarsupport.world^
 ||newgame.bazar^
+||newhost.hopto.org^
 ||newmarketofficecleaning.com^
 ||news-now.co^
 ||news.alberto2011.com^
@@ -1286,6 +1287,7 @@
 ||neznlink.store^
 ||nf-e.pro^
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
+||nfe-digital.digital^
 ||nicsan.ru^
 ||nightlybuild.mozillaupdates.com^
 ||nitrokod.com^
@@ -1312,7 +1314,6 @@
 ||nzm.one^
 ||o7car.com^
 ||obuhov2k.beget.tech^
-||occupytapsessijk.pw^
 ||oceansurvey.club^
 ||offerimagefancine.shop^
 ||office-crash.ddns.net^
@@ -1359,6 +1360,7 @@
 ||packetbite.live^
 ||pafwa.info^
 ||pages.microcloud360.com^
+||paknavy.comsats.xyz^
 ||pandorasong.com^
 ||panhardware.com^
 ||parrotchat.co^
@@ -1447,6 +1449,7 @@
 ||prtn.xyz^
 ||przvgke.biz^
 ||pstcmedia.com^
+||pu-file.com^
 ||public.clickstat360.com^
 ||puttyy.org^
 ||putyy.org^
@@ -1548,7 +1551,6 @@
 ||scancenter.trendrealtime.com^
 ||schooltillhungryprocess.com^
 ||scm.oracleapps.org^
-||scsnewstoday.com^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||sealingshop.click^
@@ -1561,7 +1563,6 @@
 ||secure.netsolhost.com^
 ||securecrt.cc^
 ||securecrt.vip^
-||security-microsoft.net^
 ||seedkraproboy.com^
 ||selectchoise.com^
 ||selectofmychoices.com^
@@ -1575,7 +1576,6 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
-||servicesystem.serveirc.com^
 ||sessions4life.pw^
 ||setapp.ink^
 ||setmic.shop^
@@ -1672,6 +1672,7 @@
 ||store-apple.info^
 ||strainservice.com^
 ||stratosbody.com^
+||string2me.com^
 ||strongbox.in^
 ||study---hard.medianewsonline.com^
 ||subsidiaryohio.linkpc.net^
@@ -1774,6 +1775,7 @@
 ||treegreeny.org^
 ||trendignews.com^
 ||trendmicro-update.org^
+||trendmicro.tech^
 ||triangleseasonbenchwj.shop^
 ||trojan1117.hopto.org^
 ||trollsburninginhell.com^
@@ -1806,7 +1808,6 @@
 ||uneukdqaba.loca.lt^
 ||unhappytidydryypwto.shop^
 ||uni-files.com^
-||unicornhub.top^
 ||unioncrypto.vip^
 ||unipreg.tumsun.com^
 ||uniqueupdatesfrtetheupdateing.live^
@@ -1815,6 +1816,7 @@
 ||upd32-secure-serv4.com^
 ||update-brower.com^
 ||update-rnicrosoft.mooo.com^
+||update.craftx.biz^
 ||update.delldrivers.in^
 ||update.facebookint.workers.dev^
 ||update.microsoft-setting.com^
@@ -1947,7 +1949,9 @@
 ||wpksi.mefound.com^
 ||wpsup.daj8.me^
 ||wsj.pm^
+||wsj.wf^
 ||wsuslink.com^
+||www.37513.cn^
 ||www.58sky.com^
 ||www.about.jkub.com^
 ||www.akrsnamchi.com^
@@ -1961,6 +1965,7 @@
 ||www.googmail.org^
 ||www.gorlan.cloudns.pro^
 ||www.growind.info^
+||www.hatch.computer^
 ||www.hosting.tempors.com^
 ||www.infonew.dubya.net^
 ||www.kemostarlogistics.co.ke^
@@ -1973,6 +1978,7 @@
 ||www.spv88.online^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
+||wx.go890.com^
 ||x-trust.net^
 ||xchange-connect.org^
 ||xjam.hk^
