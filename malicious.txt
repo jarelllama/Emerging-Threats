@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 07.10.180917.2024
+! Version: 07.11.180908.2024
 ! Expires: 1 day
-! Last modified: Wed Jul 10 18:09:17 UTC 2024
+! Last modified: Thu Jul 11 18:09:08 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1957
+! Number of entries: 1960
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -80,7 +80,6 @@
 ||119-tim.info^
 ||11k.online^
 ||123online.uk^
-||133-tre.info^
 ||146-fastweb.info^
 ||155-wind.info^
 ||159-windtre.info^
@@ -129,6 +128,7 @@
 ||4w.pm^
 ||4w.wf^
 ||4xq.nl^
+||5g7.at^
 ||5ji235jysrvwfgmb.onion^
 ||5qe8.com^
 ||5qw.pw^
@@ -277,6 +277,7 @@
 ||antelec.click^
 ||anti-theft-web.herokuapp.com^
 ||aoacugmutagkwctu.onion^
+||aoisudoisadn.kkb.tv^
 ||api.alphaconsoles.com^
 ||api.commondevice.com^
 ||api.entryeng.com^
@@ -350,7 +351,6 @@
 ||bahriafoundation.live^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
-||banca-movil.com^
 ||bandabonga.fr^
 ||bannngwko.shop^
 ||bargainnykwo.shop^
@@ -478,7 +478,6 @@
 ||cdn-aws.net^
 ||cdn-dev.helpkaspersky.top^
 ||cdn.cloudfiare.workers.dev^
-||cdn.lll.yachts^
 ||cdnapis.com^
 ||cdnimages.xyz^
 ||cdnjscloudnetwork.co^
@@ -531,6 +530,7 @@
 ||cloud-sources.com^
 ||cloud.crmdev.org^
 ||cloud.keepasses.com^
+||cloud.microsoftshop.org^
 ||cloud.skypecloud.net^
 ||cloudflare.analyse.com^
 ||cloudflareaddons.com^
@@ -545,7 +545,6 @@
 ||cmps.58sky.com^
 ||cnn-africa.co^
 ||cnwx.58ad.cn^
-||coastnews.darktech.org^
 ||codecruncher.pro^
 ||coffeecrumbs.com^
 ||coffeeonlineshop.azurewebsites.net^
@@ -559,7 +558,6 @@
 ||com-ho.me^
 ||combinedresidency.org^
 ||comeinbaby.com^
-||commoncome.site^
 ||commonline.space^
 ||communicalink.com^
 ||comodo.world^
@@ -573,6 +571,7 @@
 ||contextjs.info^
 ||contintnetksows.shop^
 ||cooporatestock.com^
+||cop.osonlines.co^
 ||coral-polydactyl-dragonfruit.glitch.me^
 ||crashedff.xyz^
 ||craypot.live^
@@ -592,7 +591,6 @@
 ||cylenceprotect.com^
 ||d0.wf^
 ||daddygarages.org^
-||dailteeau.com^
 ||dailybuild.mozillaupdates.com^
 ||dailydews.com^
 ||dailyfasterauto.info^
@@ -601,6 +599,7 @@
 ||dash-chat-c02b3.firebaseio.com^
 ||daslkjfhi2.shop^
 ||data-backup.online^
+||data-dev.helpkaspersky.top^
 ||databasegalore.com^
 ||datalink.one^
 ||datamarketplace.net^
@@ -625,6 +624,7 @@
 ||deltastealer.xyz^
 ||demon.4irc.com^
 ||dervinko.biz^
+||dfwreds.com^
 ||diagnostic-resolver.com^
 ||digiboxes.us^
 ||digitalcodecrafters.com^
@@ -700,7 +700,6 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
-||ekb.tanzedrom.ru^
 ||elamoto.com^
 ||elasticbeanstalk.tech^
 ||electron-bot.s3.eu-central-1.amazonaws.com^
@@ -722,6 +721,7 @@
 ||erdotntexplore.info^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
+||esilet.com^
 ||esr.suppservices.xyz^
 ||essentialsmassageanddayspa.com^
 ||establisheddisappearefe.site^
@@ -761,9 +761,9 @@
 ||fb-techsupport.com^
 ||fbstatic-a.space^
 ||fbstatic-akamaihd.com^
+||fcanet.microsoftshop.org^
 ||fclouddown.co^
 ||fdmpkg.org^
-||feckwear.com^
 ||feed-5613.coderformylife.info^
 ||feigoton.store^
 ||feitec.online^
@@ -872,12 +872,10 @@
 ||grafoce.com^
 ||greatsong.soundcast.me^
 ||greedyclowns.org^
-||greedyfines.org^
 ||greenfastline.com^
 ||greensky27.vicp.net^
 ||group-meeting.online^
 ||group-meeting.team^
-||group.evalaskatours.com^
 ||growthtransport.com^
 ||grutic.store^
 ||gspiceyl.com^
@@ -955,6 +953,7 @@
 ||iliad.info^
 ||ilnk.xyz^
 ||imbriumbi.ru^
+||imfeurope-aml.org^
 ||imprintcenter.com^
 ||inclusive-economy.com^
 ||incomeupdate.com^
@@ -1053,7 +1052,6 @@
 ||kcyvxytog.biz^
 ||kedbuffigfjs.online^
 ||kef.lxhaz.top^
-||kena-mobile.info^
 ||kenlynton.com^
 ||kepw.org^
 ||kernel4windows.in^
@@ -1093,11 +1091,11 @@
 ||lgf.pw^
 ||li1iv.com^
 ||lib.hostareas.com^
-||libertader.org^
 ||libjs.inquirerjs.com^
 ||lifehelper.kr^
 ||lightalex.ru^
 ||lightpillar.lat^
+||lightsteper.com^
 ||like4u.ru^
 ||likratoka.com^
 ||limeerror.org^
@@ -1122,8 +1120,10 @@
 ||logupdatemanagementapi.azurewebsites.net^
 ||logupdatemanagementapijson.azurewebsites.net^
 ||lorriratzlaff.com^
+||lovers.semara.ru^
 ||lovingallupdates.life^
 ||lumiapps.io^
+||lump.semara.ru^
 ||lwip.re^
 ||lwoekouututeuoo.ws^
 ||lwoekouututeuor.ws^
@@ -1200,6 +1200,7 @@
 ||mirw.wf^
 ||mistlink.online^
 ||mixedwork.com^
+||mizuhogroup.us^
 ||mlinks.ws^
 ||mnem.wf^
 ||mobdemo.info^
@@ -1455,7 +1456,6 @@
 ||pu-file.com^
 ||public.clickstat360.com^
 ||publicitttyps.shop^
-||purple.m-ads.net^
 ||puttyy.org^
 ||putyy.org^
 ||puutty.org^
@@ -1560,6 +1560,7 @@
 ||sealingshop.click^
 ||searchgear.pro^
 ||seasonsbackup.xyz^
+||secdns.site^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
 ||secshow.online^
@@ -1567,6 +1568,7 @@
 ||secure.netsolhost.com^
 ||securecrt.cc^
 ||securecrt.vip^
+||security-microsoft.net^
 ||seedkraproboy.com^
 ||selectchoise.com^
 ||selectofmychoices.com^
@@ -1597,6 +1599,7 @@
 ||sharify.co.in^
 ||shcserv.com^
 ||shelves-design.com^
+||sherwoodhomeshow.com^
 ||shopweb95.xyz^
 ||shorturling.live^
 ||sideindexfollowragelrew.pw^
@@ -1606,7 +1609,6 @@
 ||silver-dates.com^
 ||simitor.com^
 ||simplexoj.com^
-||sip.2access.xyz^
 ||sip.nsogroup.com^
 ||sipapp.lat^
 ||sistemikan.com^
@@ -1690,6 +1692,7 @@
 ||svn-dns.ahnlabinc.com^
 ||svnservices.com^
 ||symantke.com^
+||symoty.com^
 ||systemwin.linkpc.net^
 ||t0.wf^
 ||t2z0n9.microsoftappstore.com^
@@ -1802,6 +1805,7 @@
 ||uiekjxw.net^
 ||uknwn.linkpc.net^
 ||ukrprivatesite.frge.io^
+||ultraedit.info^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1906,13 +1910,11 @@
 ||win7-update.com^
 ||wind-h3g.info^
 ||windowkernel.com^
-||windowlight.org^
 ||windows-10patch.in^
 ||windows-drive20.com^
 ||windows-india.in^
 ||windows-kernel.in^
 ||windows-updater.com^
-||windows-updates.com^
 ||windows24-kernel.in^
 ||windowsappstore.net^
 ||windowscer.shop^
@@ -1979,6 +1981,7 @@
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
+||xxxatat456.com^
 ||y0.pm^
 ||y0.wf^
 ||yachtbars.fun^
