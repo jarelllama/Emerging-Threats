@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 07.13.181013.2024
+! Version: 07.14.181503.2024
 ! Expires: 1 day
-! Last modified: Sat Jul 13 18:10:13 UTC 2024
+! Last modified: Sun Jul 14 18:15:03 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1994
+! Number of entries: 1980
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -79,9 +79,7 @@
 ||10xshares.com^
 ||11k.online^
 ||123online.uk^
-||133-tre.info^
 ||146-fastweb.info^
-||155-wind.info^
 ||159-windtre.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1e100.tech^
@@ -128,7 +126,6 @@
 ||4w.pm^
 ||4w.wf^
 ||4xq.nl^
-||5g7.at^
 ||5ji235jysrvwfgmb.onion^
 ||5qe8.com^
 ||5qw.pw^
@@ -142,12 +139,10 @@
 ||6c.nz^
 ||6gcr.com^
 ||6google.com^
-||6qo.at^
 ||6t.nz^
 ||6t.pm^
 ||6t.re^
 ||6t4.nl^
-||6uy.at^
 ||6w.re^
 ||6wr9.com^
 ||6y.re^
@@ -304,6 +299,7 @@
 ||apistoragecache.com^
 ||apiujpnkbrhsdn57oi0ns0qmbaj0wcdzjhblj6frlh1tr.eur.lc^
 ||apkapps.site^
+||app.documentoffice.club^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
 ||apple.dynamic-dns.net^
@@ -357,7 +353,6 @@
 ||bahriafoundation.live^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
-||banca-movil.com^
 ||bandabonga.fr^
 ||bannngwko.shop^
 ||bargainnykwo.shop^
@@ -375,11 +370,9 @@
 ||beetelson.xyz^
 ||benchillppwo.shop^
 ||beonlineboo.com^
-||bestbuy.zapto.org^
 ||bestcomputeradvisor.com^
 ||bestgame.bazar^
 ||bestresulttostart.com^
-||bestselllerservice.com^
 ||beztech.site^
 ||bfiuaebeufbefbo.ws^
 ||bideo-blog.com^
@@ -417,6 +410,7 @@
 ||bk.957wan.com^
 ||blackberry-support.herokuapp.com^
 ||blackempirebuild.com^
+||blackleopard.myvnc.com^
 ||blacknurse.lib^
 ||blockbitcoin.com^
 ||blockchain-newtech.com^
@@ -474,7 +468,6 @@
 ||carder.bit^
 ||carima2012.site90.com^
 ||carleasingguru.com^
-||carsfootyelo.com^
 ||catalog.micrisoftdrivers.com^
 ||catchddkxozvp.shop^
 ||catreenpr.is^
@@ -489,6 +482,7 @@
 ||cdnapis.com^
 ||cdnimages.xyz^
 ||cdnjscloudnetwork.co^
+||cdnpps.us^
 ||cejecuu4.xyz^
 ||celebsinformation.com^
 ||censys.xyz^
@@ -774,7 +768,6 @@
 ||fairu-schnellvpn.com^
 ||fairu-schnellvpn.xyz^
 ||fans.smalladventureguide.com^
-||farstream.org^
 ||fastify.elfaker.workers.dev^
 ||fastify.sbs^
 ||fastjscdn.org^
@@ -815,6 +808,7 @@
 ||font.backuplogs.xyz^
 ||foodypannyjsud.shop^
 ||forgame.bazar^
+||forumpatners.com^
 ||frameworksupport.net^
 ||frances-thomas.com^
 ||frck.xyz^
@@ -851,6 +845,7 @@
 ||gamestockxchange.com^
 ||gamework.ddns.net^
 ||gandcrab.bit^
+||gayionsd.com^
 ||gc.wb51.com^
 ||gdcb.bit^
 ||gelatosg.com^
@@ -1122,10 +1117,10 @@
 ||lightpillar.lat^
 ||lightsteper.com^
 ||like4u.ru^
-||likratoka.com^
 ||limeerror.org^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
+||lineferaline.com^
 ||linestoget.com^
 ||link-protection.com^
 ||linkedim.in^
@@ -1172,14 +1167,11 @@
 ||maill-support.com^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
-||mailsecurityservice.com^
 ||mailupdate.info^
 ||majzolimka.com^
 ||malwarehunterteam.bit^
-||mamajekisrecording.com^
 ||manchestercity.work.gd^
 ||mangasiso.top^
-||manjuskploman.com^
 ||manoraonline.net^
 ||manpowerfeedapi.azurewebsites.net^
 ||manpowerfeedapijson.azurewebsites.net^
@@ -1188,7 +1180,6 @@
 ||marvin-occentus.net^
 ||marwapetersson.info^
 ||matchingsingles.net^
-||maufusjiop.com^
 ||mavin21c.dothome.co.kr^
 ||mazedecrypt.top^
 ||mcrsfts-passwdupdate.com^
@@ -1220,7 +1211,6 @@
 ||mihannevis.com^
 ||mikkelbourke.pro^
 ||milf.house^
-||mineskateroff.com^
 ||mining711.com^
 ||mint-c2.top^
 ||mirw.wf^
@@ -1291,7 +1281,6 @@
 ||natoint.com^
 ||natopress.com^
 ||naver-storage.com^
-||naveralert.com^
 ||navigation.cc^
 ||navy-mil-bd.jmicc.xyz^
 ||nbvber.makeup^
@@ -1333,10 +1322,9 @@
 ||nowordshere.org^
 ||np3.jkub.com^
 ||ns.rtechs.org^
-||ns1.ccccc.work^
 ||ns1.xssr.org^
-||ns2.ccccc.work^
 ||ns2.xssr.org^
+||ns8.ddns1.com^
 ||nt3.xyz^
 ||nuinetec.store^
 ||nwz.li^
@@ -1568,7 +1556,6 @@
 ||safe-car.ru^
 ||safetyfactor.online^
 ||saharabo.ru^
-||saintelzearlava.com^
 ||sake.mozillaupdates.us^
 ||salesappliances.com^
 ||salt1ending.com^
@@ -1602,7 +1589,6 @@
 ||secure.netsolhost.com^
 ||securecrt.cc^
 ||securecrt.vip^
-||seedkraproboy.com^
 ||selectchoise.com^
 ||selectofmychoices.com^
 ||seobundlekit.com^
@@ -1615,6 +1601,7 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
+||servicesystem.serveirc.com^
 ||sessions4life.pw^
 ||setapp.ink^
 ||setmic.shop^
@@ -1634,6 +1621,7 @@
 ||shelves-design.com^
 ||sherwoodhomeshow.com^
 ||shopweb95.xyz^
+||short-urling.live^
 ||shorturling.live^
 ||sifucanva.com^
 ||signalpremium.com^
@@ -1643,7 +1631,6 @@
 ||simplexoj.com^
 ||sip.2access.xyz^
 ||sip.nsogroup.com^
-||sip.qtechnologies.com^
 ||sipapp.lat^
 ||sistemikan.com^
 ||sivpici.php5.sk^
@@ -1662,7 +1649,6 @@
 ||societyf500.ddns.net^
 ||sofahuntingslidedine.shop^
 ||soft.mssysinfo.xyz^
-||softupdate.xyz^
 ||softwarepays.com^
 ||solargroup.xyz^
 ||solartrackingsystem.net^
@@ -1695,7 +1681,6 @@
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
 ||sseekk.xyz^
-||ssl.dyn-dns.com^
 ||ssl.explorecell.com^
 ||stabit.click^
 ||stablelightway.com^
@@ -1719,6 +1704,7 @@
 ||subsidiaryohio.linkpc.net^
 ||sudtech.online^
 ||sun876954.space^
+||suport.worldupdate.site^
 ||support.cisco-webex.online^
 ||support.helpkaspersky.top^
 ||supportteam.lingrevelat.com^
@@ -1985,6 +1971,7 @@
 ||www.58sky.com^
 ||www.about.jkub.com^
 ||www.akrsnamchi.com^
+||www.anlway.com^
 ||www.brioche-amsterdam.com^
 ||www.carelessnessing.com^
 ||www.cnaweb.mrslove.com^
@@ -1995,6 +1982,7 @@
 ||www.googmail.org^
 ||www.gorlan.cloudns.pro^
 ||www.growind.info^
+||www.hatch.computer^
 ||www.hosting.tempors.com^
 ||www.infonew.dubya.net^
 ||www.kemostarlogistics.co.ke^
@@ -2010,7 +1998,6 @@
 ||x-trust.net^
 ||xjam.hk^
 ||xn--tradgsvews-0ubd3y.com^
-||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
@@ -2030,7 +2017,6 @@
 ||yuiw.xyz^
 ||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
-||z2adigital.cloud^
 ||z7s.org^
 ||zacharryblogs.com^
 ||zakit.quest^
