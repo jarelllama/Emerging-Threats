@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 07.21.180821.2024
+! Version: 07.22.180903.2024
 ! Expires: 1 day
-! Last modified: Sun Jul 21 18:08:21 UTC 2024
+! Last modified: Mon Jul 22 18:09:03 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2027
+! Number of entries: 1994
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -77,7 +77,6 @@
 ||0w.pm^
 ||1-update-soft.com^
 ||10xshares.com^
-||119-tim.info^
 ||11k.online^
 ||123online.uk^
 ||133-tre.info^
@@ -289,19 +288,12 @@
 ||api.kakn.li^
 ||api.loanbee.tech^
 ||api.lookupmanager.com^
-||api.mughthesec.com^
 ||api.productivebrowser.com^
 ||api.resultssys.com^
 ||api.rotatorbuffer.com^
 ||api.typicalconfig.com^
 ||api.youdarlingme.com^
 ||apicachebot.com^
-||apidevst.com^
-||apidevwa.com^
-||apieventemitter.com^
-||apifetchmethod.com^
-||apiframeworknode.com^
-||apifunctioncall.com^
 ||apiujpnkbrhsdn57oi0ns0qmbaj0wcdzjhblj6frlh1tr.eur.lc^
 ||apkapps.site^
 ||app.dynamicrosoft.com^
@@ -323,9 +315,6 @@
 ||associate.freeonlinelearning.com^
 ||astope.xyz^
 ||asushotfix.com^
-||asyncawaitapi.com^
-||asyncfunctionapi.com^
-||asyncprogramminghub.com^
 ||atssassian.com^
 ||audiomanagerapi.azurewebsites.net^
 ||audioservicetestapi.azurewebsites.net^
@@ -379,7 +368,6 @@
 ||beetelson.xyz^
 ||benchillppwo.shop^
 ||beonlineboo.com^
-||bestbuy.zapto.org^
 ||bestcomputeradvisor.com^
 ||bestgame.bazar^
 ||bestresulttostart.com^
@@ -415,6 +403,7 @@
 ||bitscrunch.co^
 ||bitscrunch.deck.linkpc.net^
 ||bitscrunch.im.linkpc.net^
+||bitscrunch.myvnc.com^
 ||bitscrunch.pd.linkpc.net^
 ||bitscrunch.presentations.life^
 ||bitscrunnch.linkpc.net^
@@ -508,7 +497,6 @@
 ||centralizebd.com^
 ||ceycarb.com^
 ||cfg.jipinwan.com^
-||charmander.xyz^
 ||chat-gpt-pc.online^
 ||chat2hire.net^
 ||chatsecure.uk.to^
@@ -567,6 +555,7 @@
 ||cmps.58sky.com^
 ||cnn-africa.co^
 ||cnwx.58ad.cn^
+||coastnews.darktech.org^
 ||coffeecrumbs.com^
 ||coffeeonlineshop.azurewebsites.net^
 ||coffeeonlineshoping.azurewebsites.net^
@@ -648,7 +637,6 @@
 ||deltastealer.xyz^
 ||demon.4irc.com^
 ||dervinko.biz^
-||devicebug.com^
 ||diagnostic-resolver.com^
 ||digiboxes.us^
 ||digitalcodecrafters.com^
@@ -678,7 +666,6 @@
 ||doug.org^
 ||download.agency^
 ||downloadlog.linkpc.net^
-||downloadmyhost.zapto.org^
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||downwarding.com^
@@ -690,7 +677,6 @@
 ||drgibit.click^
 ||drilledgas.org^
 ||drinkeatgood.space^
-||drivethrough.top^
 ||droidback.com^
 ||drometic.suroot.com^
 ||drop-box.cloud^
@@ -719,7 +705,6 @@
 ||edrefo.com^
 ||edupoliceam.info^
 ||edveha.com^
-||eeatgoodx.com^
 ||eenbvb.sbs^
 ||efaxmakeronline.com^
 ||egihaehefiejfjo.ws^
@@ -730,6 +715,7 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
+||ekb.tanzedrom.ru^
 ||elamoto.com^
 ||elasticbeanstalk.tech^
 ||electron-bot.s3.eu-central-1.amazonaws.com^
@@ -742,6 +728,7 @@
 ||emshedulersvc.com^
 ||encrypt-email.online^
 ||encryptit.qc.to^
+||engine.ninja^
 ||enigma.net.in^
 ||enigmase.xyz^
 ||enpport.com^
@@ -785,7 +772,6 @@
 ||fairu-schnellvpn.com^
 ||fairu-schnellvpn.xyz^
 ||fans.smalladventureguide.com^
-||farstream.org^
 ||fastify.elfaker.workers.dev^
 ||fastify.sbs^
 ||fastjscdn.org^
@@ -838,13 +824,11 @@
 ||frgk.xyz^
 ||frightysever.org^
 ||frjk.xyz^
-||frontendcodingtips.com^
 ||frpk.xyz^
 ||frsk.xyz^
 ||ftpserverit.otzo.com^
 ||fucksaudi.ddns.net^
 ||fullcircleteam.com^
-||funcallback.com^
 ||futuremedias.info^
 ||fxb.tw^
 ||fz.ms^
@@ -868,7 +852,6 @@
 ||germanclics.com^
 ||getfreshnews.com^
 ||getmygateway.com^
-||getsmallcount.com^
 ||getyourapi.site^
 ||gggatat456.com^
 ||gh.dsaj2a1.org^
@@ -877,7 +860,6 @@
 ||giaoanso.com^
 ||giftbox4u.com^
 ||giga.gnisoft.com^
-||gitbrancher.com^
 ||github.ignorelist.com^
 ||glcloudservice.com^
 ||glnj.nl^
@@ -907,10 +889,8 @@
 ||greensky27.vicp.net^
 ||group-meeting.online^
 ||group-meeting.team^
-||group.evalaskatours.com^
 ||growthtransport.com^
 ||grutic.store^
-||gspiceyl.com^
 ||gtag.site^
 ||guest-access.net^
 ||gulf-news.info^
@@ -925,6 +905,7 @@
 ||hanagram.jp^
 ||handyxczos.shop^
 ||hanotip.ru^
+||happy.gitweb.cloudns.nz^
 ||hardwarenet.cc^
 ||havan.qhigh.com^
 ||hawkshaw-cae48.firebaseio.com^
@@ -963,7 +944,6 @@
 ||humorumbi.ru^
 ||hunza-project-default-rtdb.firebaseio.com^
 ||hwqloan.com^
-||hyperservice.ddns.net^
 ||i-love-evilnominatuscrypt.000webhostapp.com^
 ||i0.wf^
 ||i0up.com^
@@ -988,6 +968,7 @@
 ||ilnk.xyz^
 ||image.jamespage.net^
 ||imbriumbi.ru^
+||imfeurope-aml.org^
 ||imprintcenter.com^
 ||inclusive-economy.com^
 ||incomeupdate.com^
@@ -1005,6 +986,7 @@
 ||insta-mod-d820a-default-rtdb.firebaseio.com^
 ||instructor.giize.com^
 ||intagrefedcircuitchip.com^
+||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||intelserviceupdate.com^
 ||intensedefense300.com^
@@ -1034,7 +1016,6 @@
 ||j8.si^
 ||jaicvc.com^
 ||jaipurstylo.com^
-||jaknet.my.id^
 ||javaruntime.azurewebsites.net^
 ||javascrip12.com^
 ||jeepcarlease.com^
@@ -1130,16 +1111,13 @@
 ||letentinfo.info^
 ||lgf.pw^
 ||li1iv.com^
-||liabilityarrangemenyit.shop^
 ||lib.hostareas.com^
 ||libjs.inquirerjs.com^
 ||liernessfornicsa.shop^
 ||lifehelper.kr^
 ||lightalex.ru^
 ||lightpillar.lat^
-||lightsteper.com^
 ||like4u.ru^
-||likratoka.com^
 ||limeerror.org^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
@@ -1164,7 +1142,6 @@
 ||logupdatemanagementapijson.azurewebsites.net^
 ||lorriratzlaff.com^
 ||lovingallupdates.life^
-||lucashnancy.com^
 ||lumiapps.io^
 ||luxurycaborental.com^
 ||lwip.re^
@@ -1173,6 +1150,7 @@
 ||lwxa.eu^
 ||lyddemper.com^
 ||lyingchemicow.shop^
+||m.topiccore.com^
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
@@ -1310,14 +1288,13 @@
 ||natopress.com^
 ||naver-storage.com^
 ||naveralert.com^
-||naverk.myvnc.com^
+||navercafe.info^
 ||navigation.cc^
 ||navy-mil-bd.jmicc.xyz^
 ||nbvber.makeup^
 ||nbvbwe.monster^
 ||ndapromovideoslittle.pro^
 ||ndm2398asdlw.shop^
-||nestnewhome.com^
 ||net-certificate.services^
 ||nethosting.viewdns.net^
 ||netstreamag.publicvm.com^
@@ -1326,18 +1303,17 @@
 ||new.filetea.me^
 ||new.odgarsupport.world^
 ||newgame.bazar^
+||newhost.hopto.org^
 ||newmarketofficecleaning.com^
 ||news-now.co^
 ||news.alberto2011.com^
 ||newsbizshow.net^
 ||newsfeeds-microsoft.press^
 ||newsmailnet.com^
-||nexcesscdh.net^
 ||nextroundst.com^
 ||neznlink.store^
 ||nf-e.pro^
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
-||nfe-digital.top^
 ||nicsan.ru^
 ||nightlybuild.mozillaupdates.com^
 ||nitrokod.com^
@@ -1358,7 +1334,6 @@
 ||ns1.xssr.org^
 ||ns2.ccccc.work^
 ||ns2.xssr.org^
-||ns8.ddns1.com^
 ||nt3.xyz^
 ||nuinetec.store^
 ||nwz.li^
@@ -1495,11 +1470,9 @@
 ||procellarumbi.ru^
 ||product2020.mrbasic.com^
 ||profiit.fiit.stuba.sk^
-||progressivewebappsdev.com^
 ||progsupdate.com^
 ||promsmotion.com^
 ||propertyclosings.com^
-||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||protothema.live^
@@ -1528,7 +1501,6 @@
 ||qu3.cc^
 ||quadrantbd.com^
 ||questionsdatabases.azurewebsites.net^
-||quwa-paf.servehttp.com^
 ||qwepoi123098.com^
 ||r0.pm^
 ||r0.wf^
@@ -1565,7 +1537,6 @@
 ||resergvearyinitiani.shop^
 ||reshnot.quest^
 ||respectabledpcs.shop^
-||responsiveuikit.com^
 ||reuters-press.com^
 ||rginfotechnology.com^
 ||rijtech.shop^
@@ -1615,7 +1586,6 @@
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||sealingshop.click^
-||searchgear.pro^
 ||seasonsbackup.xyz^
 ||secdns.site^
 ||secretionsuitcasenioise.shop^
@@ -1682,6 +1652,7 @@
 ||smser.net^
 ||snapfire.xyz^
 ||snoweeanalytics.com^
+||societyf500.ddns.net^
 ||sofahuntingslidedine.shop^
 ||soft.mssysinfo.xyz^
 ||softupdate.xyz^
@@ -1690,7 +1661,6 @@
 ||solartrackingsystem.net^
 ||solevisible.com^
 ||soligro.com^
-||solo-hoy.com^
 ||solutionhub.cc^
 ||sophosfirewallupdate.com^
 ||sophosproductupdate.com^
@@ -1702,7 +1672,6 @@
 ||specialtaskevents.com^
 ||specs.dnsrd.com^
 ||speedbind.com^
-||speedchaoptimise.com^
 ||speedygonzales.xyz^
 ||spitfirepanel.firebaseio.com^
 ||sponsored-ate.gl.at.ply.gg^
@@ -1754,7 +1723,6 @@
 ||symantke.com^
 ||symoty.com^
 ||systemwin.linkpc.net^
-||sysupdates.org^
 ||t0.wf^
 ||t2z0n9.microsoftappstore.com^
 ||t7.nz^
@@ -1838,7 +1806,6 @@
 ||trans1ategooglecom.com^
 ||trecube.com^
 ||treegreeny.org^
-||trendignews.com^
 ||trendmicro-update.org^
 ||triangleseasonbenchwj.shop^
 ||trkc.online^
@@ -1850,6 +1817,7 @@
 ||tu6p.com^
 ||turkishairines.info^
 ||tutic.click^
+||twiter.statics.info^
 ||tz6.org^
 ||u0.nz^
 ||u0.pm^
@@ -1868,6 +1836,7 @@
 ||uiekjxw.net^
 ||uknwn.linkpc.net^
 ||ukrprivatesite.frge.io^
+||ultraedit.info^
 ||ultraedit.vip^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
@@ -1884,7 +1853,6 @@
 ||upd32-secure-serv4.com^
 ||update-brower.com^
 ||update-rnicrosoft.mooo.com^
-||update.craftx.biz^
 ||update.delldrivers.in^
 ||update.facebookint.workers.dev^
 ||update.microsoft-setting.com^
@@ -1904,6 +1872,7 @@
 ||upportteam.lingrevelat.com^
 ||uqw.futbol^
 ||uriupdate.newsbs.net^
+||urlpush.net^
 ||userfeedsync.com^
 ||uteroma.ru^
 ||v0.cx^
@@ -1935,7 +1904,6 @@
 ||vscode.digital^
 ||vscodeupdater.azurewebsites.net^
 ||vsliveagent.com^
-||vtboss.yolox.net^
 ||vvavesltd.servebeer.com^
 ||w0.pm^
 ||w0iq.com^
@@ -1953,7 +1921,6 @@
 ||web-trackers.com^
 ||web.mapperstate.com^
 ||web.miscrosaft.com^
-||webapidevelopment.com^
 ||webcodez.com^
 ||webdatacache.com^
 ||webdataspace.com^
@@ -2038,10 +2005,10 @@
 ||www.spv88.online^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
+||wwwgooglecom.sytes.net^
 ||x-trust.net^
 ||xinhuanet.nihaoucloud.org^
 ||xjam.hk^
-||xmindcn.cc^
 ||xn--tradgsvews-0ubd3y.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
