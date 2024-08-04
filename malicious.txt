@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 08.03.180949.2024
+! Version: 08.04.181224.2024
 ! Expires: 1 day
-! Last modified: Sat Aug  3 18:09:49 UTC 2024
+! Last modified: Sun Aug  4 18:12:24 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1986
+! Number of entries: 1967
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -78,7 +78,6 @@
 ||11k.online^
 ||123online.uk^
 ||146-fastweb.info^
-||155-wind.info^
 ||159-windtre.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1e100.tech^
@@ -396,7 +395,6 @@
 ||bitscrunch.co^
 ||bitscrunch.deck.linkpc.net^
 ||bitscrunch.im.linkpc.net^
-||bitscrunch.myvnc.com^
 ||bitscrunch.pd.linkpc.net^
 ||bitscrunnch.linkpc.net^
 ||bitscrunnch.run.place^
@@ -496,7 +494,6 @@
 ||chatwithme.store^
 ||check-fix.com^
 ||checkmalware.info^
-||chemdl.gangtao.live^
 ||chemdl.ioskaishi.live^
 ||chhimi.com^
 ||christopher.fun^
@@ -515,7 +512,6 @@
 ||citroen.gr.com^
 ||cityloss.com^
 ||civilizzzationo.shop^
-||claimconcessionrebe.shop^
 ||cleanshot.ink^
 ||cleanway.5asec.fr^
 ||click2chat.org^
@@ -536,7 +532,6 @@
 ||cloudflarecdn.com^
 ||cloudjs.live^
 ||cloudown.store^
-||cloudsponcer.com^
 ||cloudupdatesss.com^
 ||clsass.ddns.net^
 ||clubhouse.site^
@@ -599,7 +594,6 @@
 ||daslkjfhi2.shop^
 ||daslkjfhi2.xyz^
 ||data-backup.online^
-||data-dev.helpkaspersky.top^
 ||databasegalore.com^
 ||datalink.one^
 ||datamarketplace.net^
@@ -703,7 +697,6 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
-||ekb.tanzedrom.ru^
 ||elamoto.com^
 ||elasticbeanstalk.tech^
 ||electron-bot.s3.eu-central-1.amazonaws.com^
@@ -716,7 +709,6 @@
 ||emshedulersvc.com^
 ||encrypt-email.online^
 ||encryptit.qc.to^
-||engine.ninja^
 ||enigma.net.in^
 ||enpport.com^
 ||enrollmentdm.com^
@@ -855,7 +847,6 @@
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
 ||google-searching.com^
-||googlechromehost.ddns.net^
 ||googlecloudns.com^
 ||googlecloudstream.com^
 ||googleonlinee.com^
@@ -898,7 +889,6 @@
 ||helicopterahtest.azurewebsites.net^
 ||helicopterahtests.azurewebsites.net^
 ||helicoptersahtests.azurewebsites.net^
-||hellocookies.ddns.net^
 ||helloehoes.com^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
@@ -983,13 +973,13 @@
 ||istakechau.autos^
 ||italy700.blogspot.com^
 ||itter.me^
-||itunes-helper.net^
 ||iugur.live^
 ||ixware.xyz^
 ||iyw5.com^
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
+||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1121,7 +1111,6 @@
 ||lorriratzlaff.com^
 ||lovingallupdates.life^
 ||loyalty.hienphucuanhanloai.org^
-||lucashnancy.com^
 ||lumiapps.io^
 ||luxurycaborental.com^
 ||lwip.re^
@@ -1130,6 +1119,7 @@
 ||lwxa.eu^
 ||lyddemper.com^
 ||lyingchemicow.shop^
+||m.topiccore.com^
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
@@ -1213,7 +1203,6 @@
 ||mode.encagil.com^
 ||moderncssframeworks.com^
 ||modestessayevenmilwek.shop^
-||mofamail.shop^
 ||mojobiden.com^
 ||mokamob.site^
 ||motherlodebulldogclub.com^
@@ -1250,11 +1239,10 @@
 ||mylogisoft.com^
 ||mynetenergy.com^
 ||mynetwork.ddns.net^
+||myoptimasunlab.com^
 ||mypsh.ddns.net^
 ||myrappid.com^
-||myself.hopto.org^
 ||myservicessapps.com^
-||mystrylust.pw^
 ||mysweeterbk.ddns.net^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
@@ -1263,7 +1251,6 @@
 ||n3tc4t.hopto.com^
 ||n5.ms^
 ||n9fz.com^
-||nameserver.win^
 ||nanocore2023.duckdns.org^
 ||napws.biz^
 ||nassosblog.gr.com^
@@ -1633,7 +1620,6 @@
 ||skagenyoga.com^
 ||skqv.eu^
 ||skrgerona.com^
-||skyboxdrive.cloud^
 ||skyeda.vip^
 ||skylum.store^
 ||skype.se.net^
@@ -1676,6 +1662,7 @@
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
 ||sseekk.xyz^
+||ssl.dyn-dns.com^
 ||ssl.explorecell.com^
 ||stabit.click^
 ||stablelightway.com^
@@ -1725,7 +1712,6 @@
 ||team-meeting.pro^
 ||team-meeting.xyz^
 ||team.jessicabarrett.com^
-||teamnj.ddns.net^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||techwach.com^
@@ -1741,7 +1727,6 @@
 ||tencentchat.net^
 ||teraspace.co.in^
 ||teslali.com^
-||test.3322.org.cn^
 ||testdomen.xyz^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
@@ -1797,7 +1782,6 @@
 ||trafficmanager.live^
 ||trans1ategooglecom.com^
 ||trecube.com^
-||trendignews.com^
 ||trendmicro-update.org^
 ||triangleseasonbenchwj.shop^
 ||trkc.online^
@@ -1879,7 +1863,6 @@
 ||vikompalion.ru^
 ||vipchattingonline.com^
 ||virtualdataserver.com^
-||virtuallaughing.com^
 ||visitscloud.com^
 ||visualstudiofactory.com^
 ||viterwin.club^
@@ -1929,6 +1912,7 @@
 ||whyers.io^
 ||wildhorses.awardspace.info^
 ||win-rar.co^
+||win01.xyz^
 ||win02.xyz^
 ||win7-update.com^
 ||wind-h3g.info^
@@ -1975,8 +1959,6 @@
 ||www.58sky.com^
 ||www.about.jkub.com^
 ||www.akrsnamchi.com^
-||www.anlway.com^
-||www.ap8898.com^
 ||www.brioche-amsterdam.com^
 ||www.carelessnessing.com^
 ||www.cnaweb.mrslove.com^
@@ -1997,10 +1979,9 @@
 ||www.raveready.shop^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
-||wwwgooglecom.sytes.net^
 ||x-trust.net^
 ||xjam.hk^
-||xmindcn.cc^
+||xp101.dyn-dns.com^
 ||xpopup.pe.kr^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
