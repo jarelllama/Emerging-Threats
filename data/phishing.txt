@@ -65,10 +65,13 @@ changequestiontypesapi.azurewebsites.net
 checkapicountryquestions.azurewebsites.net
 checkapicountryquestionsjson.azurewebsites.net
 checkservicecustomerapi.azurewebsites.net
+click-choose-figured.cfd
+click-manage-room.cfd
 cloudnetsofe.com
 coffeeonlineshop.azurewebsites.net
 coffeeonlineshoping.azurewebsites.net
 compact-miracle-abounds.top
+complete-telecom-operation.top
 connectairapijson.azurewebsites.net
 connectionhandlerapi.azurewebsites.net
 countrybasedquestions.azurewebsites.net
@@ -92,7 +95,9 @@ engineeringssfeed.azurewebsites.net
 exchtestcheckingapi.azurewebsites.net
 exchtestcheckingapihealth.azurewebsites.net
 flighthelicopterahtest.azurewebsites.net
+flow-exulltation-uplift.top
 foundit.asia
+frame-roar-retire.top
 funeral-engineering-expression.top
 getyourapi.site
 group-meeting.online
@@ -105,6 +110,7 @@ helpset123.site
 hiringarabicregion.azurewebsites.net
 hombreymaquina.com
 homefurniture.azurewebsites.net
+house-server-digital.xyz
 hrapplicationtest.azurewebsites.net
 humanresourcesapi.azurewebsites.net
 humanresourcesapijson.azurewebsites.net
@@ -177,6 +183,7 @@ mod-mil.site
 mvhelp.cc
 my.secure-protonmail.com
 myself.hopto.org
+nail-forward-valid.lol
 naverk.myvnc.com
 node-dashboard.site
 node-panel.site
@@ -229,6 +236,8 @@ refaeldevrssfeed.centralus.cloudapp.azure.com
 regionuaequestions.azurewebsites.net
 registerinsurance.azurewebsites.net
 registration-adnoc.com
+request-human-received.xyz
+review-continue-entered.cfd
 roadmapselector.azurewebsites.net
 roadmapselectorapi.azurewebsites.net
 safemeeting.online
