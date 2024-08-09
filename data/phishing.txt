@@ -25,6 +25,7 @@ arquestions.azurewebsites.net
 arquestionsapi.azurewebsites.net
 audiomanagerapi.azurewebsites.net
 audioservicetestapi.azurewebsites.net
+audko.store
 b36cname.site
 bc1q0hcvl2p88zdv4dj97mfwtwv4usxm.com
 bc1q6crq62w2sclm0cwwk6m2wugr6jkh.com
@@ -87,6 +88,7 @@ datatrail.xyz
 desktool.buzz
 doc.global-link.run.place
 docshared.col-link.linkpc.net
+dorray.site
 dubai.network.cloud.doc-shared.linkpc.net
 emiratescheckapi.azurewebsites.net
 emiratescheckapijson.azurewebsites.net
@@ -100,6 +102,8 @@ foundit.asia
 frame-roar-retire.top
 funeral-engineering-expression.top
 getyourapi.site
+gkjoiup.site
+gkjoiup.store
 group-meeting.online
 group-meeting.team
 group.evalaskatours.com
@@ -185,12 +189,15 @@ my.secure-protonmail.com
 myself.hopto.org
 nail-forward-valid.lol
 naverk.myvnc.com
+nlsie.store
 node-dashboard.site
 node-panel.site
 notebooktextchecking.azurewebsites.net
 notebooktextcheckings.azurewebsites.net
 notebooktextcheckings.com
 notebooktexts.azurewebsites.net
+nsonlines.store
+nusiu.live
 on-global.xyz
 onelao.line.pm
 onequestions.azurewebsites.net
@@ -201,6 +208,7 @@ online-processing.online
 onlinehome.us
 openapplicationcheck.azurewebsites.net
 optionalapplication.azurewebsites.net
+osihi.store
 ovcloud.online
 pdf.cisco-webex.online
 personalitytestquestionapi.azurewebsites.net
@@ -245,8 +253,10 @@ sb8.co
 schseels.com
 secure-protonmail.com
 secure.netsolhost.com
+simos.online
 skyboxdrive.cloud
 snxn298y5brpxd67rbntynb6p4qupuuv.com
+sorsi.online
 sportblogs.azurewebsites.net
 stellar-stable-faith.top
 support.cisco-webex.online
@@ -286,6 +296,8 @@ walidacja-poczty.space
 walidacja-uzytkownika.space
 weryfikacja-konta.space
 weryfikacja-poczty.space
+wodods.online
+wodods.xyz
 workersquestions.azurewebsites.net
 workersquestionsapi.azurewebsites.net
 workersquestionsjson.azurewebsites.net
