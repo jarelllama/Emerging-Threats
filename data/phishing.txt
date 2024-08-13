@@ -85,6 +85,7 @@ customercareservice.azurewebsites.net
 customercareserviceapi.azurewebsites.net
 d75.site
 datatrail.xyz
+deepspaceocean.info
 desktool.buzz
 doc.global-link.run.place
 docshared.col-link.linkpc.net
