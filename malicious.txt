@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 08.31.181000.2024
+! Version: 09.01.180953.2024
 ! Expires: 1 day
-! Last modified: Sat Aug 31 18:10:00 UTC 2024
+! Last modified: Sun Sep  1 18:09:53 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2095
+! Number of entries: 2100
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -77,6 +77,7 @@
 ||11k.online^
 ||123online.uk^
 ||146-fastweb.info^
+||155-wind.info^
 ||159-windtre.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1cbit.org^
@@ -394,7 +395,6 @@
 ||bigboatreps.pw^
 ||bigboss.x24hr.com^
 ||biggerfun.org^
-||biginfo.xyz^
 ||bigtext.club^
 ||bigtimeassets.s3.amazonaws.com^
 ||bikessport.com^
@@ -465,6 +465,7 @@
 ||c13a856f4a879a89e9a638207efd6c94.biz^
 ||c4z.pl^
 ||c7.lc^
+||cabinet-division-pk.fia-gov.com^
 ||caduff-sa.ch^
 ||cafeespeciales.com^
 ||caffegclasiqwp.shop^
@@ -623,7 +624,6 @@
 ||cvyatop.online^
 ||cylenceprotect.com^
 ||d0.wf^
-||dailteeau.com^
 ||dailybuild.mozillaupdates.com^
 ||dailydews.com^
 ||dailyfasterauto.info^
@@ -641,6 +641,8 @@
 ||datasend.linkpc.net^
 ||dataserver.cmonkey3.com^
 ||dateyourlove.live^
+||daveiz.top^
+||dayspringdesk.xyz^
 ||dazhiruoyu.org^
 ||dcrat.ru^
 ||ddnservice10.ru^
@@ -826,6 +828,7 @@
 ||finallshell.cc^
 ||finalshell.me^
 ||financialinvestmentsgrp.com^
+||financialnewsonline.pw^
 ||finconsult.cc^
 ||firebaseupdater.com^
 ||fixgroupfactor.com^
@@ -914,6 +917,7 @@
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
 ||google-searching.com^
+||googlechromehost.ddns.net^
 ||googlecloudns.com^
 ||googlecloudstream.com^
 ||googleonlinee.com^
@@ -960,13 +964,13 @@
 ||hawkshaw-cae48.firebaseio.com^
 ||hdfc-point.web.app^
 ||healthcaretip.info^
+||heatwave.paknavy.store^
 ||helicopterahtest.azurewebsites.net^
 ||helicopterahtests.azurewebsites.net^
 ||helicoptersahtests.azurewebsites.net^
 ||helloehoes.com^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
-||hero-files.com^
 ||hhic.top^
 ||hidden-chat-e58d7.appspot.com^
 ||hidden-chat-e58d7.firebaseio.com^
@@ -1064,7 +1068,6 @@
 ||jobintro.linkpc.net^
 ||jocoly.esvnpe.com^
 ||joekairbos.com^
-||jojo-files.com^
 ||jojoa.mypressonline.com^
 ||jonathanbartz.com^
 ||journalide.org^
@@ -1073,6 +1076,7 @@
 ||jqscr.com^
 ||jquery-js.com^
 ||jquery-node.com^
+||jquery-web.com^
 ||jqueryh.org^
 ||jqueryns.com^
 ||jrtz.re^
@@ -1100,6 +1104,7 @@
 ||kakiosk.adsparkdev.com^
 ||kaspresksy.com^
 ||katesacker.club^
+||katie.party^
 ||kc-3.ru^
 ||kciap.pw^
 ||kcyvxytog.biz^
@@ -1152,7 +1157,6 @@
 ||lightalex.ru^
 ||lightpillar.lat^
 ||like4u.ru^
-||likratoka.com^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
 ||linedgreen.org^
@@ -1179,12 +1183,14 @@
 ||loki-locker.one^
 ||lorriratzlaff.com^
 ||losttwister.com^
+||lovers.semara.ru^
 ||lovingallupdates.life^
 ||loyalty.hienphucuanhanloai.org^
 ||luckipath.shop^
 ||luckkystar.shop^
 ||luckycharm.website^
 ||lumiapps.io^
+||lump.semara.ru^
 ||luxurycaborental.com^
 ||lwip.re^
 ||lwoekouututeuoo.ws^
@@ -1277,11 +1283,12 @@
 ||mobdemo.info^
 ||mobilegamerstats.com^
 ||mobilepays.info^
+||mod-gov-bd.dowmload.co^
 ||mode.encagil.com^
 ||modestessayevenmilwek.shop^
-||moemaldives.pmd-office.com^
 ||mofa-gov-pk.directt888.com^
 ||mofadividion.ptcl-gov.com^
+||mofamail.shop^
 ||mojobiden.com^
 ||mokamob.site^
 ||motoristo.ru^
@@ -1361,7 +1368,6 @@
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
 ||nightlybuild.mozillaupdates.com^
 ||nigx2a-msp.itsm-us1.comodo.com^
-||nijanse.com^
 ||nitrokod.com^
 ||njrat12.ddns.net^
 ||nlsie.store^
@@ -1662,7 +1668,6 @@
 ||secure.netsolhost.com^
 ||securecrt.cc^
 ||securecrt.vip^
-||security-microsoft.net^
 ||seedkraproboy.com^
 ||seilsmart.shop^
 ||selectchoise.com^
@@ -1703,7 +1708,6 @@
 ||sherwoodhomeshow.com^
 ||shopweb95.xyz^
 ||shorturling.live^
-||sideindexfollowragelrew.pw^
 ||sifucanva.com^
 ||signalpremium.com^
 ||silentlegion.duckdns.org^
@@ -1797,7 +1801,6 @@
 ||sulphurhsum.shop^
 ||sun876954.space^
 ||supfoundrysettlers.us^
-||suport.worldupdate.site^
 ||support.cisco-webex.online^
 ||support.helpkaspersky.top^
 ||supportteam.lingrevelat.com^
@@ -1867,6 +1870,7 @@
 ||tinyurl.ink^
 ||titaniumx.co.in^
 ||tivents.de^
+||tjtmovers.com^
 ||tksrpdl.atwebpages.com^
 ||tldrbox.ws^
 ||tldrnet.top^
@@ -1942,6 +1946,7 @@
 ||upd32-secure-serv4.com^
 ||update-rnicrosoft.mooo.com^
 ||update.centos-yum.com^
+||update.craftx.biz^
 ||update.delldrivers.in^
 ||update.facebookint.workers.dev^
 ||update.microsoft-setting.com^
@@ -2113,7 +2118,6 @@
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
-||xxxatat456.com^
 ||y0.pm^
 ||y0.wf^
 ||yachtbars.fun^
@@ -2130,6 +2134,7 @@
 ||yuiw.xyz^
 ||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
+||z2adigital.cloud^
 ||z7s.org^
 ||zacharryblogs.com^
 ||zakaria-chotzen.info^
