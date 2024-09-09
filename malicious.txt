@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 09.08.180937.2024
+! Version: 09.09.181004.2024
 ! Expires: 1 day
-! Last modified: Sun Sep  8 18:09:37 UTC 2024
+! Last modified: Mon Sep  9 18:10:04 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 2110
+! Number of entries: 2108
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -77,7 +77,6 @@
 ||119-tim.info^
 ||11k.online^
 ||123online.uk^
-||133-tre.info^
 ||146-fastweb.info^
 ||155-wind.info^
 ||159-windtre.info^
@@ -104,6 +103,7 @@
 ||2t.wf^
 ||2xdepp.com^
 ||2yd.eu^
+||300005.ru^
 ||322ffbbc7c1b312c2f9d942f20422f8d.com^
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
@@ -246,7 +246,6 @@
 ||akamaitechnology.com^
 ||akamaized.live^
 ||al-enayah.com^
-||alharbitelecom.co^
 ||alifemap.com^
 ||aljazeera-news.com^
 ||aloyadakmashin.com^
@@ -334,7 +333,6 @@
 ||awindakizend.com^
 ||awsamazon.cc^
 ||awsstatics.com^
-||awwardwiqi.shop^
 ||aytobusesre.com^
 ||azureonlinecloud.com^
 ||b36cname.site^
@@ -351,6 +349,7 @@
 ||bald-panel.firebaseio.com^
 ||ballottynsjm.shop^
 ||bamo.ocry.com^
+||banca-movil.com^
 ||bandabonga.fr^
 ||bannngwko.shop^
 ||bargainnykwo.shop^
@@ -382,7 +381,6 @@
 ||bestdoctornearme.com^
 ||bestgame.bazar^
 ||bestresulttostart.com^
-||bestselllerservice.com^
 ||beztech.site^
 ||bfiuaebeufbefbo.ws^
 ||bic.xdk03.fun^
@@ -625,6 +623,7 @@
 ||cuturl.app^
 ||cvix.live^
 ||cvyatop.online^
+||cybermon.fortigatecloud.com^
 ||cylenceprotect.com^
 ||d0.wf^
 ||dailybuild.mozillaupdates.com^
@@ -715,7 +714,6 @@
 ||dragon.lib^
 ||drgibit.click^
 ||drinnkysoapmzv.shop^
-||drivethrough.top^
 ||drmadhurao.com^
 ||drometic.suroot.com^
 ||dsi.mk^
@@ -900,6 +898,7 @@
 ||getyourapi.site^
 ||gg2024.com^
 ||gg2024.info^
+||gggatat456.com^
 ||ghost.blueecho88.com^
 ||gia.3utilities.com^
 ||giaoanso.com^
@@ -946,6 +945,7 @@
 ||guest-access.net^
 ||guide.borden-carleton.ca^
 ||guuynsqpwsima.shop^
+||gybritanalytsesystem.com^
 ||gyzu.mozillaupdates.us^
 ||gz3.nl^
 ||h0.pm^
@@ -1009,6 +1009,7 @@
 ||identifycheckingapplications.azurewebsites.net^
 ||idfinfo.pw^
 ||iina-app.lat^
+||iliad.info^
 ||importancedopz.shop^
 ||imprintcenter.com^
 ||inclusive-economy.com^
@@ -1024,7 +1025,6 @@
 ||insistytriro.shop^
 ||insta-mod-d820a-default-rtdb.firebaseio.com^
 ||instructor.giize.com^
-||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||interactiedovspm.shop^
 ||internal.group.link-net.publicvm.com^
@@ -1037,6 +1037,7 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itstrq.itsm-us1.comodo.com^
+||iugur.live^
 ||ixware.xyz^
 ||iyw5.com^
 ||iz.gy^
@@ -1141,6 +1142,7 @@
 ||lcomputers.com^
 ||ldnr.net^
 ||leadsblue.com^
+||ledger-cloud.com^
 ||legions.win^
 ||legit.onelink.me^
 ||leprotestant.com^
@@ -1153,12 +1155,10 @@
 ||lightalex.ru^
 ||lightpillar.lat^
 ||like4u.ru^
-||likratoka.com^
 ||limitadmitiwo.shop^
 ||limousine-service.cz^
 ||linda-callaghan.icu^
 ||linedgreen.org^
-||lineferaline.com^
 ||linestoget.com^
 ||link-protection.com^
 ||linkedopports.com^
@@ -1284,10 +1284,8 @@
 ||mobilepays.info^
 ||mode.encagil.com^
 ||modestessayevenmilwek.shop^
-||moemaldives.pmd-office.com^
 ||mofa-gov-pk.directt888.com^
 ||mofadividion.ptcl-gov.com^
-||mofamail.shop^
 ||mojobiden.com^
 ||mokamob.site^
 ||motoristo.ru^
@@ -1362,6 +1360,7 @@
 ||newsbizshow.net^
 ||newsfeeds-microsoft.press^
 ||newsmailnet.com^
+||nextera.capital^
 ||neznlink.store^
 ||nf-e.pro^
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
@@ -1665,7 +1664,6 @@
 ||secdns.site^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
-||secshow.online^
 ||secunnet.shop^
 ||secure.netsolhost.com^
 ||securecrt.cc^
@@ -1774,6 +1772,7 @@
 ||stabit.click^
 ||stablelightway.com^
 ||stagedchheiqwo.shop^
+||stake.libertariancounterpoint.com^
 ||stamppreewntnq.shop^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
@@ -1797,7 +1796,6 @@
 ||store-apple.info^
 ||strainservice.com^
 ||stratosbody.com^
-||string2me.com^
 ||strongbox.in^
 ||study---hard.medianewsonline.com^
 ||subsidiaryohio.linkpc.net^
@@ -1805,7 +1803,6 @@
 ||sulphurhsum.shop^
 ||sun876954.space^
 ||supfoundrysettlers.us^
-||suport.worldupdate.site^
 ||support.cisco-webex.online^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
@@ -1988,6 +1985,7 @@
 ||verble.software^
 ||verif.dlvideosfre.click^
 ||veronicabal.com^
+||vibnere.com^
 ||vidbent.shop^
 ||vidkimob.quest^
 ||viedechretien.org^
