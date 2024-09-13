@@ -134,7 +134,6 @@ igconsulting.pe
 iimjobs.asia
 ilengineeringrssfeed.azurewebsites.net
 imfeurope-aml.org
-info-getting-eu.com
 infollnes-r-us.co.uk
 integratedblognewfeed.azurewebsites.net
 integratedblognews.azurewebsites.net
