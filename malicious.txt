@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 10.05.181243.2024
+! Version: 10.06.181304.2024
 ! Expires: 1 day
-! Last modified: Sat Oct  5 18:12:43 UTC 2024
+! Last modified: Sun Oct  6 18:13:04 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1772
+! Number of entries: 1769
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -322,9 +322,7 @@
 ||bb3u9.com^
 ||bc2k.xyz^
 ||bcomb.net^
-||bdmil.alit.live^
 ||bearrytankkewo.shop^
-||beatifulllhistory.com^
 ||benefits.melanatedbloodlinesrestoration.com^
 ||beonlineboo.com^
 ||bestcomputeradvisor.com^
@@ -355,9 +353,7 @@
 ||bitscrunch.co^
 ||bitscrunch.deck.linkpc.net^
 ||bitscrunch.im.linkpc.net^
-||bitscrunch.pd.linkpc.net^
 ||bitscrunnch.linkpc.net^
-||bitscrunnch.run.place^
 ||bity.ws^
 ||bk.957wan.com^
 ||blabla.apl-com.icu^
@@ -460,6 +456,7 @@
 ||citi-bank.ru^
 ||citroen.gr.com^
 ||cityloss.com^
+||civilizations.store^
 ||classifieds.workers.dev^
 ||cleanshot.ink^
 ||cleanway.5asec.fr^
@@ -521,11 +518,11 @@
 ||cryptsen7f043rr6.onion^
 ||crystalfiles.ru^
 ||cssmagic.shop^
-||cstc-spares-vip-163.dowmload.net^
 ||ctotech.store^
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
+||cvix.live^
 ||cvyatop.online^
 ||cylenceprotect.com^
 ||d0.wf^
@@ -595,12 +592,12 @@
 ||docsend.linkpc.net^
 ||docsenddata.linkpc.net^
 ||docsendinfo.linkpc.net^
+||docshared.col-link.linkpc.net^
 ||document-publisher.org^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
 ||doggroomingnews.com^
-||dogotungtam.com^
 ||donors.eucharisticjesus.net^
 ||dorray.site^
 ||doug.org^
@@ -631,6 +628,7 @@
 ||eaougheofhuoaeo.ws^
 ||eaougheofhuoaer.ws^
 ||east-healthy-dress.glitch.me^
+||easyuploadservice.com^
 ||ebook.port25.biz^
 ||ebooks.ferrelljoe.com^
 ||edenparkweddings.com^
@@ -708,7 +706,6 @@
 ||financialinvestmentsgrp.com^
 ||finconsult.cc^
 ||firebaseupdater.com^
-||fixgroupfactor.com^
 ||fja.com.mx^
 ||flapawer.com^
 ||flashffl.com^
@@ -765,7 +762,6 @@
 ||get-verified2.b-cdn.net^
 ||getfreshnews.com^
 ||getmygateway.com^
-||getsmallcount.com^
 ||getstylify.com^
 ||getyourapi.site^
 ||gg2024.com^
@@ -803,7 +799,6 @@
 ||guest-access.net^
 ||guide.borden-carleton.ca^
 ||guuynsqpwsima.shop^
-||gybritanalytsesystem.com^
 ||gyzu.mozillaupdates.us^
 ||gz3.nl^
 ||h0.pm^
@@ -890,8 +885,6 @@
 ||iyw5.com^
 ||iz.gy^
 ||izezggefgegfzto.ws^
-||j-ic.co.intneral-document-he-gr-me.run.place^
-||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1120,6 +1113,7 @@
 ||mountainseagroup3.top^
 ||mozilaupgrade.com^
 ||mozilla.apl-org.online^
+||msacn.ntcpk.net^
 ||msas.ws^
 ||msfw.store^
 ||msix.pm^
@@ -1143,6 +1137,7 @@
 ||myexpertforum.com^
 ||mygift.site^
 ||mygift.website^
+||myhomemusic.com^
 ||mykessef.com^
 ||mylog.icu^
 ||mylogisoft.com^
@@ -1377,13 +1372,13 @@
 ||reuters-press.com^
 ||rginfotechnology.com^
 ||rijtech.shop^
+||rimrun.com^
 ||rize.lat^
 ||rn9v.com^
 ||roadrunnersell.com^
 ||robshippings.cloud^
 ||rockcreekdds.com^
 ||rojavanetwork.info^
-||rotter2.publicvm.com^
 ||rouji.xssr.org^
 ||roundpleaddso.shop^
 ||ruciplbrxwjscyhtapvlfskoqqgnxevw.name^
@@ -1398,6 +1393,7 @@
 ||sake.mozillaupdates.us^
 ||salesappliances.com^
 ||salesguru.online^
+||salt1ending.com^
 ||samehnew-10a7c.appspot.com^
 ||samehnew-10a7c.firebaseio.com^
 ||saponline.site^
@@ -1410,6 +1406,7 @@
 ||scada.paradizeconstruction.com^
 ||scancenter.trendrealtime.com^
 ||schooltillhungryprocess.com^
+||sd1-bin.net^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||sealingshop.click^
@@ -1423,7 +1420,6 @@
 ||seedkraproboy.com^
 ||seilsmart.shop^
 ||selectchoise.com^
-||selectofmychoices.com^
 ||sellifypro.com^
 ||selllify.shop^
 ||selloria.shop^
@@ -1749,6 +1745,7 @@
 ||windowssup.in^
 ||windowsupup.com^
 ||windowsx.sytes.net^
+||wininit.myq-see.com^
 ||wmail-blog.com^
 ||wmail-blog.xyz^
 ||wmail-cdn.xyz^
