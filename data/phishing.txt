@@ -39,7 +39,6 @@ bc1qm34lsc65zpw79lxes69zkqmk6ee3ew.com
 bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h.com
 bc1qp2we64k79237y0npqehprfgynlz02fwpktlwte.com
 bc1qr0kxc4gcqt2lcpkdnz8ehs02u9n2xkgz89rwpr.com
-bidders-enoc.com
 bigmir.space
 birngthemhomenow.co.il
 bitscrunch.co
@@ -226,7 +225,6 @@ qaquestionapi.azurewebsites.net
 qaquestions.azurewebsites.net
 qaquestionsapi.azurewebsites.net
 qaquestionsapijson.azurewebsites.net
-qatarenergys.com
 qu3.cc
 queryfindquestions.azurewebsites.net
 queryquestions.azurewebsites.net
@@ -237,11 +235,9 @@ questionsdatabases.azurewebsites.net
 questionsurveyapp.azurewebsites.net
 questionsurveyappserver.azurewebsites.net
 quiztestapplication.azurewebsites.net
-rambolloil.com
 refaeldevrssfeed.centralus.cloudapp.azure.com
 regionuaequestions.azurewebsites.net
 registerinsurance.azurewebsites.net
-registration-adnoc.com
 request-human-received.xyz
 review-continue-entered.cfd
 roadmapselector.azurewebsites.net
