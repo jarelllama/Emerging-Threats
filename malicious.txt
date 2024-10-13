@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 10.12.181045.2024
+! Version: 10.13.180951.2024
 ! Expires: 1 day
-! Last modified: Sat Oct 12 18:10:45 UTC 2024
+! Last modified: Sun Oct 13 18:09:51 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1917
+! Number of entries: 1911
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -76,6 +76,7 @@
 ||119-tim.info^
 ||123online.uk^
 ||146-fastweb.info^
+||155-wind.info^
 ||159-windtre.info^
 ||168-gov.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
@@ -103,6 +104,7 @@
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
 ||3h.wf^
+||3h1.xyz^
 ||3lzj.com^
 ||3p.ms^
 ||3y.nu^
@@ -255,7 +257,6 @@
 ||answerssurveytest.azurewebsites.net^
 ||antelec.click^
 ||aoacugmutagkwctu.onion^
-||aoisudoisadn.kkb.tv^
 ||api-lofy.xyz^
 ||api.alphaconsoles.com^
 ||api.commondevice.com^
@@ -275,6 +276,7 @@
 ||app.documentoffice.club^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
+||app.tomelife.com^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
 ||appleupdate.com^
@@ -339,7 +341,6 @@
 ||bearrytankkewo.shop^
 ||benefits.melanatedbloodlinesrestoration.com^
 ||beonlineboo.com^
-||bestbuy.zapto.org^
 ||bestcomputeradvisor.com^
 ||bestgame.bazar^
 ||bestresulttostart.com^
@@ -433,7 +434,7 @@
 ||carleasingguru.com^
 ||carnivalsale.com^
 ||carsfootyelo.com^
-||catreenpr.is^
+||carstirgapcheatdeposwte.pw^
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
 ||ccbaminumpot.ru^
@@ -521,7 +522,6 @@
 ||comodo.world^
 ||compdate.my03.com^
 ||condifendteu.sbs^
-||confenos.shop^
 ||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
 ||connectivitycheck.live^
@@ -548,6 +548,7 @@
 ||crystalmaker.pro^
 ||cssmagic.shop^
 ||cstc-spares-vip-163.dowmload.net^
+||ctl.msedgeapi.net^
 ||ctotech.store^
 ||customer.thewayofmoney.us^
 ||cut.red^
@@ -606,7 +607,6 @@
 ||digiboxes.us^
 ||digitalcollege.org^
 ||direct-trojan.com^
-||disknxt.com^
 ||dison.live^
 ||diyefosterfeeds.com^
 ||dji-msi.2waky.com^
@@ -643,7 +643,6 @@
 ||dragon.lib^
 ||drawwyobstacw.sbs^
 ||drgibit.click^
-||drivethrough.top^
 ||drmadhurao.com^
 ||drometic.suroot.com^
 ||drv2ms.com^
@@ -684,6 +683,7 @@
 ||eleed.cloud^
 ||elite-hacks.ru^
 ||elmipardaz.com^
+||elon2xmusk.com^
 ||elpais.me^
 ||emiratescheckapi.azurewebsites.net^
 ||emshedulersvc.com^
@@ -739,7 +739,6 @@
 ||fictionnykwop.shop^
 ||figma.lat^
 ||fileshare.direct^
-||filesoftdownload.shop^
 ||finallshell.cc^
 ||finalshell.me^
 ||financialinvestmentsgrp.com^
@@ -889,6 +888,7 @@
 ||human-verify02.b-cdn.net^
 ||humanresourcesapijson.azurewebsites.net^
 ||hunza-project-default-rtdb.firebaseio.com^
+||hurr.zapto.org^
 ||hwqloan.com^
 ||i-love-evilnominatuscrypt.000webhostapp.com^
 ||i0.wf^
@@ -906,7 +906,6 @@
 ||identifycheckingapplications.azurewebsites.net^
 ||idfinfo.pw^
 ||iina-app.lat^
-||iliad.info^
 ||ilogicflow.com^
 ||images-11d.workers.dev^
 ||imprintcenter.com^
@@ -936,13 +935,13 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
+||itunes-helper.net^
 ||iugur.live^
 ||ixware.xyz^
 ||iyw5.com^
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
-||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1086,7 +1085,6 @@
 ||m0.yt^
 ||m85.online^
 ||macbartender.lat^
-||machinetext.org^
 ||macyy.cn^
 ||mafw.store^
 ||magento-analytics.com^
@@ -1097,9 +1095,9 @@
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
 ||mail.pakistangov.com^
-||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
 ||mailh.alit.live^
+||mailmofagovmm.mofa.email^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
@@ -1136,6 +1134,7 @@
 ||mediqhealthcare.com^
 ||megaarmshop.com^
 ||melodymate.co.in^
+||mennyudosirso.shop^
 ||menucore.com^
 ||merchifly.shop^
 ||mert.my03.com^
@@ -1155,6 +1154,7 @@
 ||microsofthelpcenter.info^
 ||microsoftonline-secure-login.com^
 ||microsoftonline.services^
+||microsofts.top^
 ||microsoftsupp.com^
 ||microsoftt-teams-download.com^
 ||microsoftt-teams.com^
@@ -1491,7 +1491,6 @@
 ||s51.online^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
-||safara.sytes.net^
 ||saintelzearlava.com^
 ||sake.mozillaupdates.us^
 ||salesappliances.com^
@@ -1500,7 +1499,6 @@
 ||samehnew-10a7c.appspot.com^
 ||samehnew-10a7c.firebaseio.com^
 ||saponline.site^
-||sara2011.no-ip.biz^
 ||saveweb.wink.ws^
 ||savitabhabi.co.in^
 ||savoystocks.com^
@@ -1510,6 +1508,7 @@
 ||scada.paradizeconstruction.com^
 ||scancenter.trendrealtime.com^
 ||schooltillhungryprocess.com^
+||scsnewstoday.com^
 ||sd1-bin.net^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
@@ -1539,7 +1538,6 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
-||servicesystem.serveirc.com^
 ||setapp.ink^
 ||setmic.shop^
 ||settlores.com^
@@ -1562,6 +1560,7 @@
 ||shortcuts.b-cdn.net^
 ||shorting-urling.live^
 ||shorturling.live^
+||sideindexfollowragelrew.pw^
 ||siekis.com^
 ||sifucanva.com^
 ||signalpremium.com^
@@ -1638,7 +1637,6 @@
 ||storagedsolutions.azurefd.net^
 ||store-apple.info^
 ||streamvideox.b-cdn.net^
-||string2me.com^
 ||strongbox.in^
 ||study---hard.medianewsonline.com^
 ||subsidiaryohio.linkpc.net^
@@ -1656,12 +1654,10 @@
 ||t0.wf^
 ||t7.nz^
 ||takebad1.com^
-||taskscompletedlists.com^
 ||team-meet.online^
 ||team-meet.xyz^
 ||team-meeting.pro^
 ||team-meeting.xyz^
-||teamnj.ddns.net^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||techtnee.com^
@@ -1676,7 +1672,6 @@
 ||teraspace.co.in^
 ||teslali.com^
 ||test-1627838.shop^
-||test.3322.org.cn^
 ||testdomen.xyz^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
@@ -1707,7 +1702,6 @@
 ||tinyurl.cloud^
 ||titaniumx.co.in^
 ||tivents.de^
-||tjtmovers.com^
 ||tksrpdl.atwebpages.com^
 ||tldrbox.ws^
 ||tldrnet.top^
