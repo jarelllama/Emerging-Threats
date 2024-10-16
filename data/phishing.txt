@@ -1,8 +1,5 @@
-13fzyjcfqhnryc4dkxkykbaawkzwrmhcfc.com
-1kmtet1wyig94bxbcke45nivfx1w3m3hth.com
 1stemployer.com
 300005.ru
-3aqulcx8xkg6qxrhxgmisecrt98kxlenzj.com
 7o.ae
 8r.ae
 8t.ae
@@ -27,18 +24,6 @@ audiomanagerapi.azurewebsites.net
 audioservicetestapi.azurewebsites.net
 audko.store
 b36cname.site
-bc1q0hcvl2p88zdv4dj97mfwtwv4usxm.com
-bc1q6crq62w2sclm0cwwk6m2wugr6jkh.com
-bc1q6zd25jmkfh5x24ymp60tq99xdugpq.com
-bc1q8hn7d0uhpspz9xcp3hl9e5erddlew.com
-bc1q922jh6d3zk0aelqdfc7yygzjr29sle.com
-bc1qc230lt32ey73qlaj9rkujm0ujtv090.com
-bc1qjywr9cpsm5u7e4yrmnx2jsahgzzmm7.com
-bc1qm34lmk6eesc65zpw79lxes69zkq3ew.com
-bc1qm34lsc65zpw79lxes69zkqmk6ee3ew.com
-bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h.com
-bc1qp2we64k79237y0npqehprfgynlz02fwpktlwte.com
-bc1qr0kxc4gcqt2lcpkdnz8ehs02u9n2xkgz89rwpr.com
 bigmir.space
 birngthemhomenow.co.il
 bitscrunch.co
@@ -249,7 +234,6 @@ secure-protonmail.com
 secure.netsolhost.com
 simos.online
 skyboxdrive.cloud
-snxn298y5brpxd67rbntynb6p4qupuuv.com
 sorsi.online
 sportblogs.azurewebsites.net
 stellar-stable-faith.top
