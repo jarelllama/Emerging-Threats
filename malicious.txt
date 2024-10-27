@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 10.26.181016.2024
+! Version: 10.27.181357.2024
 ! Expires: 1 day
-! Last modified: Sat Oct 26 18:10:16 UTC 2024
+! Last modified: Sun Oct 27 18:13:57 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1917
+! Number of entries: 1881
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -74,10 +74,8 @@
 ||0v.wf^
 ||0w.pm^
 ||10086623.top^
-||119-tim.info^
 ||123online.uk^
 ||146-fastweb.info^
-||155-wind.info^
 ||159-windtre.info^
 ||168-gov.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
@@ -105,7 +103,6 @@
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
 ||3h.wf^
 ||3h1.xyz^
-||3hhr8h2hx.top^
 ||3p.ms^
 ||3y.nu^
 ||3z.nu^
@@ -272,12 +269,10 @@
 ||app.documentoffice.club^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
-||app.tomelife.com^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
 ||appleupdate.com^
 ||aptonic.xyz^
-||arenbootk.sbs^
 ||aroundtheworld123.net^
 ||arquestions.azurewebsites.net^
 ||artickon.shop^
@@ -312,7 +307,6 @@
 ||avsvmcloud.com^
 ||aws-data.cloud^
 ||aws-il.cloud^
-||aws-join.cloud^
 ||aws-meetings.cloud^
 ||aws-online.cloud^
 ||aws-s3.cloud^
@@ -338,10 +332,8 @@
 ||bailingla.com^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
-||banca-movil.com^
 ||bandabonga.fr^
 ||bb3u9.com^
-||bc2k.xyz^
 ||bcomb.net^
 ||bdmil.alit.live^
 ||bearrytankkewo.shop^
@@ -543,7 +535,6 @@
 ||crystalmaker.pro^
 ||cssmagic.shop^
 ||cstc-spares-vip-163.dowmload.net^
-||ctl.msedgeapi.net^
 ||ctotech.store^
 ||cuansurga.cam^
 ||customer.thewayofmoney.us^
@@ -673,7 +664,6 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
-||ekb.tanzedrom.ru^
 ||elaboretib.sbs^
 ||eleed.cloud^
 ||elite-hacks.ru^
@@ -682,7 +672,6 @@
 ||emiratescheckapi.azurewebsites.net^
 ||encrypt-email.online^
 ||encryptit.qc.to^
-||engine.ninja^
 ||enigma.net.in^
 ||enikos.news^
 ||enpport.com^
@@ -734,7 +723,6 @@
 ||finallshell.cc^
 ||finalshell.me^
 ||financialinvestmentsgrp.com^
-||financialnewsonline.pw^
 ||finconsult.cc^
 ||firebaseupdater.com^
 ||firscountryours.eu^
@@ -755,7 +743,6 @@
 ||followcache.com^
 ||font.backuplogs.xyz^
 ||forgame.bazar^
-||frame-roar-retire.top^
 ||frameworksupport.net^
 ||frances-thomas.com^
 ||frck.xyz^
@@ -823,14 +810,11 @@
 ||googleupdate.co^
 ||googlo-analytics.com^
 ||gov-au.cloud^
-||gov-aws.cloud^
-||gov-fi.cloud^
 ||gov-gr.cloud^
 ||gov-lt.cloud^
 ||gov-lv.cloud^
 ||gov-pl.cloud^
 ||gov-sk.cloud^
-||gov-trust.cloud^
 ||gov-ua.cloud^
 ||govps.cloud^
 ||govtr.cloud^
@@ -846,6 +830,7 @@
 ||greensky27.vicp.net^
 ||group-meeting.online^
 ||group-meeting.team^
+||group.evalaskatours.com^
 ||growthtransport.com^
 ||grutic.store^
 ||gtag.site^
@@ -897,7 +882,6 @@
 ||humanresourcesapijson.azurewebsites.net^
 ||hunza-project-default-rtdb.firebaseio.com^
 ||hwqloan.com^
-||hyperservice.ddns.net^
 ||i0.wf^
 ||i0up.com^
 ||i1.pm^
@@ -913,9 +897,9 @@
 ||identifycheckingapplications.azurewebsites.net^
 ||idfinfo.pw^
 ||iina-app.lat^
+||iliad.info^
 ||ilogicflow.com^
 ||images-11d.workers.dev^
-||imfeurope-aml.org^
 ||imprintcenter.com^
 ||inclusive-economy.com^
 ||incomeupdate.com^
@@ -928,6 +912,7 @@
 ||innerglowjourney.com^
 ||insider.gr.com^
 ||insta-mod-d820a-default-rtdb.firebaseio.com^
+||instegram.co^
 ||instructor.giize.com^
 ||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
@@ -945,6 +930,7 @@
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
+||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1093,9 +1079,7 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
-||mail.pakistangov.com^
 ||mailcantonfair.cssc.info^
-||mailh.alit.live^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
@@ -1173,12 +1157,10 @@
 ||mizuhogroup.us^
 ||mlinks.ws^
 ||mnem.wf^
-||mo-gov.cloud^
 ||mobdemo.info^
 ||mobilegamerstats.com^
 ||mobilepays.info^
 ||modestessayevenmilwek.shop^
-||moemaldives.pmd-office.com^
 ||mofa-gov-sa.direct888.net^
 ||mofadividion.ptcl-gov.com^
 ||mojobiden.com^
@@ -1190,13 +1172,10 @@
 ||mozilaupgrade.com^
 ||mozilla.apl-org.online^
 ||mozilla.tftpd.net^
-||mpo-gov.cloud^
-||mpsv-gov.cloud^
 ||msacn.ntcpk.net^
 ||msas.ws^
 ||msfw.store^
 ||msix.pm^
-||msmt-gov.cloud^
 ||msstorageazure.com^
 ||msstorageboxes.com^
 ||msstore.io^
@@ -1206,11 +1185,9 @@
 ||mufg.us.org^
 ||muse.krazzykriss.com^
 ||musl.lib^
-||mv-gov.cloud^
 ||mvhelp.cc^
 ||mwasro.com^
 ||mwgq.net^
-||my-gov.cloud^
 ||my-homework.890m.com^
 ||myanmarnewsonline.org^
 ||myapt67.s3.amazonaws.com^
@@ -1226,7 +1203,6 @@
 ||mynetenergy.com^
 ||mynetwork.ddns.net^
 ||mypsh.ddns.net^
-||myself.hopto.org^
 ||myservicessapps.com^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
@@ -1236,7 +1212,6 @@
 ||n3tc4t.hopto.com^
 ||n5.ms^
 ||n9fz.com^
-||nakit-gov.cloud^
 ||nameserver.win^
 ||nanocore2023.duckdns.org^
 ||napws.biz^
@@ -1247,7 +1222,6 @@
 ||naver-storage.com^
 ||naveralert.com^
 ||navercafe.info^
-||naverk.myvnc.com^
 ||navigation.cc^
 ||navy-lk.direct888.net^
 ||navy-mil-bd.jmicc.xyz^
@@ -1274,7 +1248,6 @@
 ||nnlcrosaftteams-download.pro^
 ||nnzf1.cc^
 ||nordicmademedia.com^
-||noredirecto.redirectme.net^
 ||north-residence.com^
 ||nortonupdates.online^
 ||notablelibrary.com^
@@ -1288,13 +1261,10 @@
 ||np3.jkub.com^
 ||ns-client.net^
 ||ns.rtechs.org^
-||ns1.ccccc.work^
 ||ns1.xssr.org^
-||ns2.ccccc.work^
 ||ns2.xssr.org^
 ||nt3.xyz^
 ||nuinetec.store^
-||nukib-gov.cloud^
 ||nusiu.live^
 ||nvidiacenter.com^
 ||nwz.li^
@@ -1349,7 +1319,6 @@
 ||p9.tel^
 ||packedbrick.com^
 ||packetbite.live^
-||pafwa.info^
 ||paknavy.jmicc.xyz^
 ||pandorasong.com^
 ||panhardware.com^
@@ -1479,6 +1448,7 @@
 ||reviveincapablewew.pw^
 ||rginfotechnology.com^
 ||rijtech.shop^
+||rimrun.com^
 ||rize.lat^
 ||rn9v.com^
 ||roadrunnersell.com^
@@ -1500,7 +1470,6 @@
 ||s3-blackberry.cloud^
 ||s3-csis.cloud^
 ||s3-dgap.cloud^
-||s3-dk.cloud^
 ||s3-dnc.cloud^
 ||s3-esa.cloud^
 ||s3-fbi.cloud^
@@ -1597,7 +1566,6 @@
 ||simos.online^
 ||simplymecosmetics.com^
 ||sip.nsogroup.com^
-||sip.qtechnologies.com^
 ||sipapp.lat^
 ||sistemikan.com^
 ||sitepanel.top^
@@ -1664,14 +1632,12 @@
 ||subsidiaryohio.linkpc.net^
 ||sudtech.online^
 ||supfoundrysettlers.us^
-||suport.worldupdate.site^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
 ||surelytheme.org^
 ||svn-dns.ahnlabinc.com^
 ||svnservices.com^
 ||swiftflicks.com^
-||symoty.com^
 ||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
@@ -1679,7 +1645,6 @@
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||techtnee.com^
-||techwach.com^
 ||tecnojournals.com^
 ||teentytinyjeo.shop^
 ||teledyneflir.com.de^
@@ -1746,6 +1711,7 @@
 ||transparency.b-cdn.net^
 ||trendgurupro.com^
 ||trendmicro-update.org^
+||trendmicro.tech^
 ||trendori.shop^
 ||trendpronet.com^
 ||triangleseasonbenchwj.shop^
@@ -1837,7 +1803,6 @@
 ||vscode.digital^
 ||vscodeupdater.azurewebsites.net^
 ||vsliveagent.com^
-||vtboss.yolox.net^
 ||vvavesltd.servebeer.com^
 ||w0.pm^
 ||w4.nz^
@@ -1908,7 +1873,6 @@
 ||worried-eastern-salto.glitch.me^
 ||wpksi.mefound.com^
 ||wpsup.daj8.me^
-||www-army-mil-bd.dirctt88.co^
 ||www-moha-gov-lk.direct888.net^
 ||www-wpx.net^
 ||www.37513.cn^
