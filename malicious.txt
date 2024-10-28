@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 10.27.181357.2024
+! Version: 10.28.181032.2024
 ! Expires: 1 day
-! Last modified: Sun Oct 27 18:13:57 UTC 2024
+! Last modified: Mon Oct 28 18:10:32 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1881
+! Number of entries: 1858
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -76,6 +76,7 @@
 ||10086623.top^
 ||123online.uk^
 ||146-fastweb.info^
+||155-wind.info^
 ||159-windtre.info^
 ||168-gov.info^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
@@ -305,14 +306,11 @@
 ||avaddonbotrxmuyl.onion.pet^
 ||avitech.site^
 ||avsvmcloud.com^
-||aws-data.cloud^
 ||aws-il.cloud^
 ||aws-meetings.cloud^
-||aws-online.cloud^
 ||aws-s3.cloud^
 ||aws-secure.cloud^
 ||awsamazon.cc^
-||awsplatform.online^
 ||awsstatics.com^
 ||aytobusesre.com^
 ||azureonlinecloud.com^
@@ -506,6 +504,7 @@
 ||com-adm.in^
 ||com-ho.me^
 ||combinedresidency.org^
+||comeinbaby.com^
 ||commonline.space^
 ||communicalink.com^
 ||compdate.my03.com^
@@ -664,6 +663,7 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
+||ekb.tanzedrom.ru^
 ||elaboretib.sbs^
 ||eleed.cloud^
 ||elite-hacks.ru^
@@ -677,9 +677,9 @@
 ||enpport.com^
 ||epaper.dawn-323.workers.dev^
 ||erdotntexplore.info^
-||eru-gov.cloud^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
+||esilet.com^
 ||establisheddisappearefe.site^
 ||estafetaofj.top^
 ||eternitypr.net^
@@ -802,6 +802,7 @@
 ||golddisco.top^
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
+||google-download.com^
 ||google-searching.com^
 ||googlecloudns.com^
 ||googlecloudstream.com^
@@ -816,9 +817,7 @@
 ||gov-pl.cloud^
 ||gov-sk.cloud^
 ||gov-ua.cloud^
-||govps.cloud^
 ||govtr.cloud^
-||govua.cloud^
 ||gpoaccess.com^
 ||gpufps.com^
 ||grafoce.com^
@@ -852,7 +851,6 @@
 ||hcttmail.com^
 ||hdfc-point.web.app^
 ||healthcaretip.info^
-||heatwave.paknavy.store^
 ||helicopterahtest.azurewebsites.net^
 ||helicopterahtests.azurewebsites.net^
 ||helicoptersahtests.azurewebsites.net^
@@ -892,6 +890,7 @@
 ||iaidevrssfeed.cloudapp.azure.com^
 ||iaidevrssfeedp.cloudapp.azure.com^
 ||icloudeu.com^
+||ideasofbusiness.com^
 ||identifycheckapplication.azurewebsites.net^
 ||identifycheckapplications.azurewebsites.net^
 ||identifycheckingapplications.azurewebsites.net^
@@ -934,6 +933,7 @@
 ||j2.gy^
 ||j68.info^
 ||j8.si^
+||jaknet.my.id^
 ||javadevssdk.com^
 ||javaninja.shop^
 ||javaruntime.azurewebsites.net^
@@ -1001,7 +1001,6 @@
 ||kolabdown.sytes.net^
 ||kpt-pk.net^
 ||kpupdate.amz80.com^
-||kr4.xyz^
 ||kristinee.com^
 ||krrz.pm^
 ||krtkrt.ru^
@@ -1074,12 +1073,12 @@
 ||magento-analytics.com^
 ||magesource.su^
 ||mail-help.com^
-||mail-islamabadpolice-gov-pk.ntc-telecommunication-safecity.workers.dev^
 ||mail-issue.top^
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
 ||mailcantonfair.cssc.info^
+||mailh.alit.live^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
@@ -1166,7 +1165,6 @@
 ||mojobiden.com^
 ||mokamob.site^
 ||moneymoj.com^
-||mora.pdfadobe.com^
 ||motherlodebulldogclub.com^
 ||mountainseagroup3.top^
 ||mozilaupgrade.com^
@@ -1207,7 +1205,6 @@
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
 ||mziep.pw^
-||mzv-gov.cloud^
 ||n3.wf^
 ||n3tc4t.hopto.com^
 ||n5.ms^
@@ -1319,6 +1316,7 @@
 ||p9.tel^
 ||packedbrick.com^
 ||packetbite.live^
+||pafwa.info^
 ||paknavy.jmicc.xyz^
 ||pandorasong.com^
 ||panhardware.com^
@@ -1363,7 +1361,6 @@
 ||pool.supportxmr.com^
 ||pooreveningfuseor.pw^
 ||portgame.bazar^
-||poste-it.info^
 ||postmastersoriginals.com^
 ||postnews.club^
 ||potexo.b-cdn.net^
@@ -1390,7 +1387,6 @@
 ||privatproxy-schnellvpn.xyz^
 ||product2020.mrbasic.com^
 ||propller.b-cdn.net^
-||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||protothema.live^
@@ -1464,24 +1460,10 @@
 ||s.adslinkup.com^
 ||s0.pm^
 ||s3-acronis.cloud^
-||s3-army.cloud^
 ||s3-atlassian.cloud^
-||s3-bah.cloud^
-||s3-blackberry.cloud^
-||s3-csis.cloud^
-||s3-dgap.cloud^
 ||s3-dnc.cloud^
 ||s3-esa.cloud^
-||s3-fbi.cloud^
-||s3-hudson.cloud^
-||s3-ida.cloud^
-||s3-iri.cloud^
-||s3-knowbe4.cloud^
-||s3-monitoring.cloud^
-||s3-nato.cloud^
 ||s3-nsa.cloud^
-||s3-proofpoint.cloud^
-||s3-pt.cloud^
 ||s3-rackspace.cloud^
 ||s3-spacex.cloud^
 ||s3-stig.cloud^
@@ -1507,7 +1489,6 @@
 ||scada.paradizeconstruction.com^
 ||scancenter.trendrealtime.com^
 ||schooltillhungryprocess.com^
-||scsnewstoday.com^
 ||sd1-bin.net^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
@@ -1645,6 +1626,7 @@
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||techtnee.com^
+||techwach.com^
 ||tecnojournals.com^
 ||teentytinyjeo.shop^
 ||teledyneflir.com.de^
@@ -1730,7 +1712,6 @@
 ||u8wp.com^
 ||ua-aws.army^
 ||ua-gov.cloud^
-||ua-mil.cloud^
 ||uaeaircheckon.azurewebsites.net^
 ||uaeairchecks.azurewebsites.net^
 ||ube.gr.com^
@@ -1742,8 +1723,6 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
-||ukrtelecom.cloud^
-||ultraedit.vip^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1753,7 +1732,6 @@
 ||uniqueupdatesfrtetheupdateing.live^
 ||unlimitedteacup.com^
 ||uoej.net^
-||uoou-gov.cloud^
 ||upd32-secure-serv4.com^
 ||update-rnicrosoft.mooo.com^
 ||update.centos-yum.com^
@@ -1830,7 +1808,6 @@
 ||weekdanys.com^
 ||wesco.live^
 ||wesharex.net^
-||wheatari.cyou^
 ||whereverhomebe.com^
 ||whizability.com^
 ||wildhorses.awardspace.info^
@@ -1894,13 +1871,13 @@
 ||www.rninhsss.com^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
+||wx.go890.com^
 ||x-trust.net^
 ||xeontime.com^
 ||xjam.hk^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
-||xxxatat456.com^
 ||y0.pm^
 ||y0.wf^
 ||y553488469.top^
