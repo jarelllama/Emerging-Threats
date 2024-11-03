@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.02.181002.2024
+! Version: 11.03.181034.2024
 ! Expires: 1 day
-! Last modified: Sat Nov  2 18:10:02 UTC 2024
+! Last modified: Sun Nov  3 18:10:34 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1855
+! Number of entries: 1860
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -76,7 +76,6 @@
 ||10086623.top^
 ||119-tim.info^
 ||123online.uk^
-||133-tre.info^
 ||146-fastweb.info^
 ||155-wind.info^
 ||159-windtre.info^
@@ -278,6 +277,7 @@
 ||artickon.shop^
 ||asdasd08.com^
 ||associate.freeonlinelearning.com^
+||associate.freeonlinelearningtech.com^
 ||assumedtribsosp.shop^
 ||audiomanagerapi.azurewebsites.net^
 ||audioservicetestapi.azurewebsites.net^
@@ -353,6 +353,7 @@
 ||bigtopweb.com^
 ||bikessport.com^
 ||binder-sa.com^
+||bistbotsproxies.ddns.net^
 ||bit-li.ws^
 ||bit-ly.org^
 ||biteupdates.live^
@@ -397,7 +398,6 @@
 ||bulk.fun^
 ||bundanesia.com^
 ||burgerprince.us^
-||businessvideonews.com^
 ||buy-new-car.com^
 ||buydotclearlynet.com^
 ||by007.cn^
@@ -409,7 +409,6 @@
 ||c13a856f4a879a89e9a638207efd6c94.biz^
 ||c4z.pl^
 ||c7.lc^
-||cabinet-division-pk.fia-gov.com^
 ||caduff-sa.ch^
 ||caixa.cx^
 ||cakecoldsplurgrewe.pw^
@@ -480,6 +479,7 @@
 ||cloud-document-edit.onrender.com^
 ||cloud-sources.com^
 ||cloud.keepasses.com^
+||cloud.mufg.uk^
 ||cloud.tptf.ltd^
 ||cloudcreative.digital^
 ||cloudflarecdn.com^
@@ -500,7 +500,6 @@
 ||com-ho.me^
 ||combinedresidency.org^
 ||comeinbaby.com^
-||commerce-gov-pk.directt888.com^
 ||commonline.space^
 ||communicalink.com^
 ||compdate.my03.com^
@@ -529,7 +528,6 @@
 ||crystalmaker.pro^
 ||cstc-spares-vip-163.dowmload.net^
 ||ctotech.store^
-||cuansurga.cam^
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
@@ -547,6 +545,7 @@
 ||dash-chat-c02b3.firebaseio.com^
 ||daslkjfhi2.shop^
 ||data-backup.online^
+||data-dev.helpkaspersky.top^
 ||databasegalore.com^
 ||datalink.one^
 ||datamarketplace.net^
@@ -623,7 +622,6 @@
 ||dragon.lib^
 ||drgibit.click^
 ||drilledgas.org^
-||drivethrough.top^
 ||drometic.suroot.com^
 ||drv2ms.com^
 ||drvmcprotect.com^
@@ -715,6 +713,7 @@
 ||finconsult.cc^
 ||firebaseupdater.com^
 ||firscountryours.eu^
+||fixgroupfactor.com^
 ||fja.com.mx^
 ||flapawer.com^
 ||flashffl.com^
@@ -869,8 +868,8 @@
 ||human-verify02.b-cdn.net^
 ||humanresourcesapijson.azurewebsites.net^
 ||hunza-project-default-rtdb.firebaseio.com^
-||hurlywolky.cyou^
 ||hwqloan.com^
+||hyperservice.ddns.net^
 ||i0.wf^
 ||i0up.com^
 ||i1.pm^
@@ -881,6 +880,7 @@
 ||iaidevrssfeed.cloudapp.azure.com^
 ||iaidevrssfeedp.cloudapp.azure.com^
 ||icloudeu.com^
+||ideasofbusiness.com^
 ||identifycheckapplication.azurewebsites.net^
 ||identifycheckapplications.azurewebsites.net^
 ||identifycheckingapplications.azurewebsites.net^
@@ -1145,11 +1145,11 @@
 ||mobdemo.info^
 ||mobilegamerstats.com^
 ||mobilepays.info^
+||mod-gov-bd.dowmload.co^
 ||modestessayevenmilwek.shop^
-||mofa-gov-pk.directt888.com^
-||mofa-gov-pk.dowmload.info^
 ||mofa-gov-sa.direct888.net^
 ||mofadividion.ptcl-gov.com^
+||mofamail.shop^
 ||mojobiden.com^
 ||mokamob.site^
 ||moneymoj.com^
@@ -1198,6 +1198,8 @@
 ||n3tc4t.hopto.com^
 ||n5.ms^
 ||n9fz.com^
+||nail-forward-valid.lol^
+||namelessserver.com^
 ||nameserver.win^
 ||nanocore2023.duckdns.org^
 ||napws.biz^
@@ -1226,6 +1228,7 @@
 ||newsfeeds-microsoft.press^
 ||newsmailnet.com^
 ||nextera.capital^
+||nextroundst.com^
 ||neznlink.store^
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
 ||nightchat.fun^
@@ -1523,6 +1526,7 @@
 ||shopweb95.xyz^
 ||shortcuts.b-cdn.net^
 ||shorturling.live^
+||sideindexfollowragelrew.pw^
 ||siekis.com^
 ||sifucanva.com^
 ||signalpremium.com^
@@ -1537,6 +1541,7 @@
 ||skagenyoga.com^
 ||skqv.eu^
 ||skreatortemp.site^
+||skyboxdrive.cloud^
 ||skylum.store^
 ||sl-navy.office-drive.live^
 ||smolcatkgi.shop^
@@ -1578,7 +1583,6 @@
 ||srvrfontsdrive.xyz^
 ||sseekk.xyz^
 ||stabit.click^
-||stake.libertariancounterpoint.com^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
 ||start-anew.net^
@@ -1710,9 +1714,7 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
-||ultraedit.info^
 ||umousteraton.com^
-||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
 ||uni-files.com^
 ||unioncrypto.vip^
@@ -1773,7 +1775,6 @@
 ||vscode.digital^
 ||vscodeupdater.azurewebsites.net^
 ||vsliveagent.com^
-||vtboss.yolox.net^
 ||vvavesltd.servebeer.com^
 ||w0.pm^
 ||w4.nz^
@@ -1782,6 +1783,7 @@
 ||wak.rocks^
 ||walla.link^
 ||wallanews.publicvm.com^
+||wallanews.sytes.net^
 ||wallymac.com^
 ||wangzongfacai.com^
 ||waqers.duckdns.org^
@@ -1801,6 +1803,7 @@
 ||weekdanys.com^
 ||wesco.live^
 ||wesharex.net^
+||westmedicalgroup.net^
 ||whereverhomebe.com^
 ||whizability.com^
 ||wildhorses.awardspace.info^
@@ -1843,7 +1846,6 @@
 ||worried-eastern-salto.glitch.me^
 ||wpksi.mefound.com^
 ||wpsup.daj8.me^
-||wpsupdate.luckfafa.com^
 ||www-moha-gov-lk.direct888.net^
 ||www-wpx.net^
 ||www.37513.cn^
@@ -1865,6 +1867,7 @@
 ||www.rninhsss.com^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
+||wwwgooglecom.sytes.net^
 ||x-trust.net^
 ||xeontime.com^
 ||xjam.hk^
@@ -1873,6 +1876,7 @@
 ||xssok.blogspot.com^
 ||xtabr.com^
 ||xtreme.hopto.org^
+||xxxatat456.com^
 ||y0.pm^
 ||y0.wf^
 ||y553488469.top^
@@ -1904,6 +1908,7 @@
 ||zirabuo.bazar^
 ||zjc.bz^
 ||zk.qa^
+||zk4.me^
 ||znanielec.online^
 ||zone02.b-cdn.net^
 ||zonealarm.bit^
