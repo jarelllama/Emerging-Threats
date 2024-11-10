@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.09.181046.2024
+! Version: 11.10.181059.2024
 ! Expires: 1 day
-! Last modified: Sat Nov  9 18:10:46 UTC 2024
+! Last modified: Sun Nov 10 18:10:59 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1905
+! Number of entries: 1895
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -199,7 +199,6 @@
 ||aefofhhfouahugr.ws^
 ||aerofly.live^
 ||aeufhnfueunfnuo.ws^
-||afcat.xyz^
 ||afrepublic.xyz^
 ||africa.thesmalladventureguide.com^
 ||afriquenouvelle.com^
@@ -250,7 +249,6 @@
 ||answerssurveytest.azurewebsites.net^
 ||antelec.click^
 ||aoacugmutagkwctu.onion^
-||aoisudoisadn.kkb.tv^
 ||api-lofy.xyz^
 ||api.alphaconsoles.com^
 ||api.commondevice.com^
@@ -487,6 +485,7 @@
 ||cloud-document-edit.onrender.com^
 ||cloud-sources.com^
 ||cloud.keepasses.com^
+||cloud.mufg.uk^
 ||cloud.tptf.ltd^
 ||cloudcreative.digital^
 ||cloudflarecdn.com^
@@ -565,7 +564,6 @@
 ||daveiz.top^
 ||dawn.apl-org.online^
 ||dawnnews.workers.dev^
-||dayspringdesk.xyz^
 ||dcrat.ru^
 ||ddl.safone.dev^
 ||ddnservice10.ru^
@@ -749,7 +747,6 @@
 ||followcache.com^
 ||font.backuplogs.xyz^
 ||forgame.bazar^
-||founpiuer.store^
 ||frameworksupport.net^
 ||frances-thomas.com^
 ||frck.xyz^
@@ -976,7 +973,6 @@
 ||jp.imonitorsoft.com^
 ||jqscr.com^
 ||jquery-js.com^
-||jquery-node.com^
 ||jquery-web.com^
 ||jqueryh.org^
 ||jqueryns.com^
@@ -1176,6 +1172,7 @@
 ||mobdemo.info^
 ||mobilegamerstats.com^
 ||mobilepays.info^
+||mod-gov-bd.dowmload.co^
 ||modestessayevenmilwek.shop^
 ||moemaldives.pmd-office.com^
 ||mofa-gov-pk.directt888.com^
@@ -1236,6 +1233,7 @@
 ||n3tc4t.hopto.com^
 ||n5.ms^
 ||n9fz.com^
+||nail-forward-valid.lol^
 ||namelessserver.com^
 ||nameserver.win^
 ||nanocore2023.duckdns.org^
@@ -1244,7 +1242,6 @@
 ||nato-news.com^
 ||natoint.com^
 ||natopress.com^
-||naver-storage.com^
 ||naveralert.com^
 ||navercafe.info^
 ||naverk.myvnc.com^
@@ -1261,10 +1258,12 @@
 ||new.filetea.me^
 ||new.odgarsupport.world^
 ||newgame.bazar^
+||newhost.hopto.org^
 ||news-now.co^
 ||newsfeeds-microsoft.press^
 ||newsmailnet.com^
 ||nextera.capital^
+||nextroundst.com^
 ||neznlink.store^
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
 ||nidnaver.info^
@@ -1331,7 +1330,6 @@
 ||openapplicationcheck.azurewebsites.net^
 ||opposesicknessopw.pw^
 ||opswat.info^
-||optasko.com^
 ||orangevault.net^
 ||orhangazitur.com^
 ||originpro.me^
@@ -1502,7 +1500,6 @@
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
-||s51.online^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
 ||saintelzearlava.com^
@@ -1526,7 +1523,6 @@
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||sealingshop.click^
-||seasonsbackup.xyz^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
 ||secshow.online^
@@ -1615,8 +1611,6 @@
 ||srrys.pw^
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
-||srvrfontsdrive.xyz^
-||sseekk.xyz^
 ||stabit.click^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
@@ -1624,7 +1618,6 @@
 ||start-anew.net^
 ||startservicefounds.com^
 ||statscodicefiscale.xyz^
-||steamdesktop.com^
 ||steamdesktopauthenticator.com^
 ||storage-e13.sharepoint-e13.workers.dev^
 ||storage.webfiledata.com^
@@ -1645,6 +1638,7 @@
 ||svnservices.com^
 ||swiftflicks.com^
 ||swissaccount.ddns.net^
+||symoty.com^
 ||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
@@ -1653,7 +1647,6 @@
 ||teamnj.ddns.net^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
-||techwach.com^
 ||tecnojournals.com^
 ||tecstify.com^
 ||teentytinyjeo.shop^
@@ -1703,7 +1696,6 @@
 ||tnlsowki.westus3.cloudapp.azure.com^
 ||tnlsowkis.westus3.cloudapp.azure.com^
 ||tnsc.webredirect.org^
-||tobaccosafe.xyz^
 ||tolotor.com^
 ||toni132.pen.io^
 ||topographyupdates.com^
@@ -1751,6 +1743,7 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
+||ultraedit.vip^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1783,7 +1776,6 @@
 ||uriupdate.newsbs.net^
 ||urlpush.net^
 ||userfeedsync.com^
-||uvfr4ep.com^
 ||v0.cx^
 ||vacationtogotravels.net^
 ||vahlallha.duckdns.org^
@@ -1804,7 +1796,6 @@
 ||virtualdataserver.com^
 ||virtuallaughing.com^
 ||visualstudiofactory.com^
-||viterwin.club^
 ||vn6.co^
 ||vntososupplsos.live^
 ||vpcpnet.mooo.com^
@@ -1947,7 +1938,6 @@
 ||zarelec.quest^
 ||zeleitex.com^
 ||zen.mozillaupdates.us^
-||zer9g.com^
 ||zexodown-2.b-cdn.net^
 ||zie5.com^
 ||zirabuo.bazar^
