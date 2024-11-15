@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.14.181343.2024
+! Version: 11.15.181044.2024
 ! Expires: 1 day
-! Last modified: Thu Nov 14 18:13:43 UTC 2024
+! Last modified: Fri Nov 15 18:10:44 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1877
+! Number of entries: 1868
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -73,8 +73,6 @@
 ||0t.yt^
 ||0v.wf^
 ||0w.pm^
-||10086623.top^
-||119-tim.info^
 ||123online.uk^
 ||146-fastweb.info^
 ||155-wind.info^
@@ -100,7 +98,6 @@
 ||2t.wf^
 ||2xdepp.com^
 ||2yd.eu^
-||300snails.sbs^
 ||322ffbbc7c1b312c2f9d942f20422f8d.com^
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
@@ -109,7 +106,6 @@
 ||3hhr8h2hx.top^
 ||3number.employerdbz.icu^
 ||3p.ms^
-||3xc1aimbl0w.sbs^
 ||3y.nu^
 ||3z.nu^
 ||455686.c1.biz^
@@ -214,7 +210,6 @@
 ||ahoravideo-chat.xyz^
 ||ahoravideo-endpoint.com^
 ||ahoravideo-schnellvpn.com^
-||ahoravideo-schnellvpn.xyz^
 ||aij.hk^
 ||airconnectionapi.azurewebsites.net^
 ||airconnectionsapijson.azurewebsites.net^
@@ -237,6 +232,7 @@
 ||aljazeerak.online^
 ||aloyadakmashin.com^
 ||amex-co.info^
+||amnestyhk.org^
 ||amos-malware.ru^
 ||amynx.com^
 ||analystuysowp.shop^
@@ -346,7 +342,6 @@
 ||bideo-chat.com^
 ||bideo-chat.xyz^
 ||bideo-endpoint.com^
-||bideo-endpoint.xyz^
 ||bideo-schnellvpn.com^
 ||big-windowss.com^
 ||bigboatreps.pw^
@@ -356,6 +351,7 @@
 ||bigtopweb.com^
 ||bikessport.com^
 ||binder-sa.com^
+||bistbotsproxies.ddns.net^
 ||bit-li.ws^
 ||bit-ly.org^
 ||biteupdates.live^
@@ -364,6 +360,7 @@
 ||bitscrunch.co^
 ||bitscrunch.deck.linkpc.net^
 ||bitscrunch.im.linkpc.net^
+||bitscrunch.myvnc.com^
 ||bitscrunch.pd.linkpc.net^
 ||bitscrunch.presentations.life^
 ||bitscrunnch.linkpc.net^
@@ -382,7 +379,6 @@
 ||bo2sv.com^
 ||boeisurveyapplications.azurewebsites.net^
 ||bollywoods.co.in^
-||boltycoupeln.cyou^
 ||books.friendsofthefolsomlibrary.org^
 ||books.mrface.com^
 ||bored-light.sbs^
@@ -480,7 +476,6 @@
 ||click4chatting.com^
 ||clifolink.online^
 ||clipbutton.com.br^
-||clipper.guru^
 ||cloud-apple.info^
 ||cloud-apt.net^
 ||cloud-document-edit.onrender.com^
@@ -525,7 +520,6 @@
 ||crec-bd.site^
 ||credits.offices-analytics.com^
 ||crib-endanger.sbs^
-||crisisrottenyjs.xyz^
 ||cryptopro-download.one^
 ||cryptowave.capital^
 ||cryptsen7f043rr6.onion^
@@ -541,7 +535,6 @@
 ||cuturl.app^
 ||cvix.live^
 ||cvyatop.online^
-||cybermon.fortigatecloud.com^
 ||cylenceprotect.com^
 ||d0.wf^
 ||dailybuild.mozillaupdates.com^
@@ -584,6 +577,7 @@
 ||dervinko.biz^
 ||desynlabtech.com^
 ||deteriotraiwo.shop^
+||devicebug.com^
 ||dgms.paknavy-gov.com^
 ||diadok-documentscdn.c688de.com^
 ||diadok.net^
@@ -593,7 +587,6 @@
 ||direct-trojan.com^
 ||dison.live^
 ||divewanntwj.biz^
-||dividenntyss.shop^
 ||diyefosterfeeds.com^
 ||dji-msi.2waky.com^
 ||dl6yfsl.com^
@@ -612,6 +605,7 @@
 ||docsfromthewest.com^
 ||docshared.col-link.linkpc.net^
 ||document-publisher.org^
+||document-viewer.live^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
@@ -654,7 +648,6 @@
 ||edenparkweddings.com^
 ||edupoliceam.info^
 ||efaxmakeronline.com^
-||efes-mindef-gov-pk.dowmload.org^
 ||egihaehefiejfjo.ws^
 ||egihaehefiejfjr.ws^
 ||egisela.com^
@@ -700,16 +693,13 @@
 ||face-your-dreams.com^
 ||factor1right.com^
 ||fainstec.com^
-||faintbl0w.sbs^
 ||fairu-blog.com^
 ||fairu-blog.xyz^
 ||fairu-cdn.com^
 ||fairu-cdn.xyz^
 ||fairu-chat.xyz^
 ||fairu-endpoint.com^
-||fairu-endpoint.xyz^
 ||fairu-schnellvpn.com^
-||fairu-schnellvpn.xyz^
 ||fastjscdn.org^
 ||fb-techsupport.com^
 ||fbstatic-a.space^
@@ -767,6 +757,7 @@
 ||fz.ms^
 ||g-analytics.com^
 ||g0.pm^
+||g4.nu^
 ||g4.tel^
 ||g4.wf^
 ||g5wcesdfjzne7255.onion.to^
@@ -776,7 +767,6 @@
 ||gamework.ddns.net^
 ||gandcrab.bit^
 ||gang-force.com^
-||ganharcomblog.com^
 ||gc.wb51.com^
 ||gdcb.bit^
 ||gentexman37.xyz^
@@ -812,7 +802,6 @@
 ||googleonlinee.com^
 ||googlesheet.info^
 ||googlespeedtest33.com^
-||googleupdate.co^
 ||googlo-analytics.com^
 ||gov-au.cloud^
 ||gov-gr.cloud^
@@ -887,7 +876,6 @@
 ||humanresourcesapijson.azurewebsites.net^
 ||hunza-project-default-rtdb.firebaseio.com^
 ||hwqloan.com^
-||hyperservice.ddns.net^
 ||i0.wf^
 ||i0up.com^
 ||i1.pm^
@@ -1026,6 +1014,7 @@
 ||lcomputers.com^
 ||ldnr.net^
 ||leadsblue.com^
+||leatherbook.org^
 ||ledger-cloud.com^
 ||legions.win^
 ||leprotestant.com^
@@ -1081,6 +1070,7 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
+||mail.pakistangov.com^
 ||mailcantonfair.cssc.info^
 ||mailh.alit.live^
 ||mailnavybd.govpk.net^
@@ -1114,10 +1104,12 @@
 ||mazedecrypt.top^
 ||mcrsfts-passwdupdate.com^
 ||md928zs.shop^
+||mecrhacnbth.cyou^
 ||mediamic.info^
 ||mediqhealthcare.com^
 ||meeting.equitaligaiustizia.it^
 ||melodymate.co.in^
+||mennyudosirso.shop^
 ||mercro.com^
 ||mert.my03.com^
 ||message.ooguy.com^
@@ -1168,7 +1160,6 @@
 ||mofadividion.ptcl-gov.com^
 ||mojobiden.com^
 ||mokamob.site^
-||moneymoj.com^
 ||motherlodebulldogclub.com^
 ||mountainseagroup3.top^
 ||mozilaupgrade.com^
@@ -1206,6 +1197,7 @@
 ||mynetenergy.com^
 ||mynetwork.ddns.net^
 ||mypsh.ddns.net^
+||myself.hopto.org^
 ||myservicessapps.com^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
@@ -1215,6 +1207,7 @@
 ||n5.ms^
 ||n9fz.com^
 ||nail-forward-valid.lol^
+||namelessserver.com^
 ||nameserver.win^
 ||nanocore2023.duckdns.org^
 ||napws.biz^
@@ -1225,6 +1218,7 @@
 ||naver-storage.com^
 ||naveralert.com^
 ||navercafe.info^
+||naverk.myvnc.com^
 ||navigation.cc^
 ||navy-lk.direct888.net^
 ||navy-mil-bd.jmicc.xyz^
@@ -1253,8 +1247,6 @@
 ||nnlcrosaftteams-download.pro^
 ||nnzf1.cc^
 ||nordicmademedia.com^
-||noredirecto.redirectme.net^
-||north-residence.com^
 ||nortonupdates.online^
 ||notablelibrary.com^
 ||notebooktextchecking.azurewebsites.net^
@@ -1266,7 +1258,9 @@
 ||np3.jkub.com^
 ||ns-client.net^
 ||ns.rtechs.org^
+||ns1.ccccc.work^
 ||ns1.xssr.org^
+||ns2.ccccc.work^
 ||ns2.xssr.org^
 ||nsignal.net^
 ||nt3.xyz^
@@ -1388,7 +1382,6 @@
 ||privatehd.us.to^
 ||privatemessage.net^
 ||privatproxy-blog.com^
-||privatproxy-blog.xyz^
 ||privatproxy-cdn.com^
 ||privatproxy-cdn.xyz^
 ||privatproxy-chat.com^
@@ -1436,7 +1429,6 @@
 ||range.cccinvolve.org^
 ||ransomware.bit^
 ||rapidcomments.com^
-||raptwinter.shop^
 ||rchosts.com^
 ||rdesktopconnect.com^
 ||rdesktophub.com^
@@ -1451,10 +1443,10 @@
 ||refaeldevrssfeed.centralus.cloudapp.azure.com^
 ||reftop.click^
 ||registerinsurance.azurewebsites.net^
+||rel1gitiger.cyou^
 ||relaxatiyon.cyou^
 ||remote-server.ddns.net^
 ||remserver.ddns.net^
-||reports.dgps-govtpk.com^
 ||reputationb.com^
 ||reshnot.quest^
 ||restbycalm.com^
@@ -1524,6 +1516,7 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
+||servicesystem.serveirc.com^
 ||sery.brushupdata.com^
 ||setapp.ink^
 ||setmic.shop^
@@ -1550,7 +1543,6 @@
 ||silentlegion.duckdns.org^
 ||silver-dates.com^
 ||simos.online^
-||simplymecosmetics.com^
 ||sip.nsogroup.com^
 ||sipapp.lat^
 ||sistemikan.com^
@@ -1597,6 +1589,7 @@
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
 ||sseekk.xyz^
+||ssl.dyn-dns.com^
 ||stabit.click^
 ||stake.libertariancounterpoint.com^
 ||stand-by-97c5c.appspot.com^
@@ -1623,8 +1616,6 @@
 ||surelytheme.org^
 ||svn-dns.ahnlabinc.com^
 ||svnservices.com^
-||swiftflicks.com^
-||symoty.com^
 ||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
@@ -1642,6 +1633,7 @@
 ||tempest.lib^
 ||teraspace.co.in^
 ||teslali.com^
+||test.3322.org.cn^
 ||testdomen.xyz^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
@@ -1683,6 +1675,7 @@
 ||tnlsowkis.westus3.cloudapp.azure.com^
 ||tnsc.webredirect.org^
 ||tobaccosafe.xyz^
+||toleratedbaybo.cyou^
 ||tolotor.com^
 ||toni132.pen.io^
 ||topographyupdates.com^
@@ -1693,7 +1686,6 @@
 ||tpcontact.co.uk^
 ||tpddata.com^
 ||tptf.fund^
-||tqshoes.shop^
 ||tr069.pw^
 ||trademark.iglesiaelarca.com^
 ||trafficmanager.live^
@@ -1777,6 +1769,7 @@
 ||vikompalion.ru^
 ||villageskaier.com^
 ||vinsaca.com^
+||vip.rm028.cn^
 ||vipchattingonline.com^
 ||virtana-tech.com^
 ||virtual.urban-orthodontics.com^
@@ -1815,7 +1808,6 @@
 ||web-trackers.com^
 ||web.mapperstate.com^
 ||web.miscrosaft.com^
-||webapiintegration.cloud^
 ||webcodez.com^
 ||webdatacache.com^
 ||webdataspace.com^
@@ -1850,11 +1842,8 @@
 ||windowsx.sytes.net^
 ||wininit.myq-see.com^
 ||wmail-blog.com^
-||wmail-blog.xyz^
 ||wmail-cdn.com^
-||wmail-cdn.xyz^
 ||wmail-chat.com^
-||wmail-chat.xyz^
 ||wmail-endpoint.com^
 ||wmail-endpoint.xyz^
 ||wmail-schnellvpn.com^
@@ -1894,6 +1883,7 @@
 ||xcdd1003.com^
 ||xeontime.com^
 ||xjam.hk^
+||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
@@ -1904,10 +1894,12 @@
 ||yellowblog.flnet.org^
 ||yhdmb.xyz^
 ||yhgrffndvzbtoilmundkmvbaxrjtqsew.com^
+||yimuzds.com^
 ||ynns.uk^
 ||youarefired.xyz^
 ||youcansay.s3.us-east-2.amazonaws.com^
 ||youmiuri.com^
+||younesadams.ddns.net^
 ||youtube.voto^
 ||youtubepremiumapp.com^
 ||ysl.jxwan.com^
@@ -1918,7 +1910,6 @@
 ||zacharryblogs.com^
 ||zakit.quest^
 ||zarelec.quest^
-||zeleitex.com^
 ||zen.mozillaupdates.us^
 ||zexodown-2.b-cdn.net^
 ||zie5.com^
