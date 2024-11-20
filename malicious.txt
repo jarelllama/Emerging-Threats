@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.19.181055.2024
+! Version: 11.20.181155.2024
 ! Expires: 1 day
-! Last modified: Tue Nov 19 18:10:55 UTC 2024
+! Last modified: Wed Nov 20 18:11:55 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1875
+! Number of entries: 1879
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -194,6 +194,7 @@
 ||aefieiaehfiaehr.ws^
 ||aefieiaehfiaehz.top^
 ||aefofhhfouahugo.ws^
+||aefofhhfouahugr.top^
 ||aefofhhfouahugr.ws^
 ||aerofly.live^
 ||aeufhnfueunfnuo.ws^
@@ -254,7 +255,6 @@
 ||api.flexiblelocator.com^
 ||api.kakn.li^
 ||api.lookupmanager.com^
-||api.mughthesec.com^
 ||api.productivebrowser.com^
 ||api.resultssys.com^
 ||api.rotatorbuffer.com^
@@ -276,6 +276,7 @@
 ||asdasd08.com^
 ||asianchow.com^
 ||associate.freeonlinelearning.com^
+||associate.freeonlinelearningtech.com^
 ||assumedtribsosp.shop^
 ||asureupdate.pro^
 ||audiomanagerapi.azurewebsites.net^
@@ -297,7 +298,6 @@
 ||authentificcatorgoolgle.com^
 ||authetificator-gogle.com^
 ||autocar.serveuser.com^
-||automatic-meaty.sbs^
 ||auttodessk.com^
 ||avaddonbotrxmuyl.onion.pet^
 ||avitech.site^
@@ -537,11 +537,9 @@
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
-||cvix.live^
 ||cvyatop.online^
 ||cylenceprotect.com^
 ||d0.wf^
-||daily.windowsupdates.eu^
 ||dailybuild.mozillaupdates.com^
 ||dailydews.com^
 ||dailyfasterauto.info^
@@ -594,7 +592,6 @@
 ||direct-trojan.com^
 ||dison.live^
 ||divewanntwj.biz^
-||dividenntyss.shop^
 ||diyefosterfeeds.com^
 ||dji-msi.2waky.com^
 ||dl6yfsl.com^
@@ -629,6 +626,7 @@
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||doxy.ws^
+||dpsu-gov-ua.com^
 ||dragon.lib^
 ||dreamecho.shop^
 ||drilledgas.org^
@@ -654,7 +652,9 @@
 ||ebooks.ferrelljoe.com^
 ||edenparkweddings.com^
 ||edupoliceam.info^
+||eegqzvxd.shop^
 ||efaxmakeronline.com^
+||efes-mindef-gov-pk.dowmload.org^
 ||egihaehefiejfjo.ws^
 ||egihaehefiejfjr.ws^
 ||egisela.com^
@@ -673,6 +673,7 @@
 ||emiratescheckapi.azurewebsites.net^
 ||encrypt-email.online^
 ||encryptit.qc.to^
+||engine.ninja^
 ||enigma.net.in^
 ||enikos.news^
 ||enpport.com^
@@ -680,7 +681,6 @@
 ||erdotntexplore.info^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
-||esilet.com^
 ||establisheddisappearefe.site^
 ||eternitypr.net^
 ||eterprx.net^
@@ -722,6 +722,7 @@
 ||finallshell.cc^
 ||finalshell.me^
 ||finconsult.cc^
+||firebaseupdater.com^
 ||firscountryours.eu^
 ||fixgroupfactor.com^
 ||fja.com.mx^
@@ -777,6 +778,7 @@
 ||gazanew.com^
 ||gc.wb51.com^
 ||gdcb.bit^
+||genhil.com^
 ||gentexman37.xyz^
 ||geradcontsad.pro^
 ||germanclics.com^
@@ -901,6 +903,7 @@
 ||ilogicflow.com^
 ||images-11d.workers.dev^
 ||imprintcenter.com^
+||inayatullah.com^
 ||inclusive-economy.com^
 ||incomeupdate.com^
 ||indoprimitiveart.com^
@@ -1037,7 +1040,6 @@
 ||linetoslice.com^
 ||link-protection.com^
 ||linkit.digital^
-||linuxrelease.org^
 ||litby.us^
 ||liumingzhen.myftp.org^
 ||livehost.live^
@@ -1081,7 +1083,6 @@
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
 ||mailcantonfair.cssc.info^
-||mailh.alit.live^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
@@ -1149,6 +1150,7 @@
 ||mil-pl.cloud^
 ||mil-pt.cloud^
 ||milf.house^
+||millitarytocorp.com^
 ||mining711.com^
 ||ministry-pk.net^
 ||mint-c2.top^
@@ -1241,7 +1243,6 @@
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
 ||nidnaver.info^
 ||nightchat.fun^
-||nightly.windowsupdates.eu^
 ||nightlybuild.mozillaupdates.com^
 ||nitrokod.com^
 ||njrat12.ddns.net^
@@ -1261,9 +1262,7 @@
 ||np3.jkub.com^
 ||ns-client.net^
 ||ns.rtechs.org^
-||ns1.ccccc.work^
 ||ns1.xssr.org^
-||ns2.ccccc.work^
 ||ns2.xssr.org^
 ||nsignal.net^
 ||nt3.xyz^
@@ -1477,7 +1476,7 @@
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
-||s51.online^
+||s3-nsa.cloud^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
 ||saintelzearlava.com^
@@ -1520,7 +1519,6 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
-||servicesystem.serveirc.com^
 ||sery.brushupdata.com^
 ||setapp.ink^
 ||setmic.shop^
@@ -1539,6 +1537,7 @@
 ||sharify.co.in^
 ||shcserv.com^
 ||shelves-design.com^
+||shopapppro.com^
 ||shopweb95.xyz^
 ||short-urling.live^
 ||shortcuts.b-cdn.net^
@@ -1552,7 +1551,6 @@
 ||simple-life.lol^
 ||sip.nsogroup.com^
 ||sipapp.lat^
-||sistemikan.com^
 ||sitepanel.top^
 ||skagenyoga.com^
 ||skqv.eu^
@@ -1573,12 +1571,14 @@
 ||solartrackingsystem.net^
 ||solevisible.com^
 ||soligro.com^
+||solo-hoy.com^
 ||sophosfirewallupdate.com^
 ||sophosproductupdate.com^
 ||sorsi.online^
 ||soundedge.live^
 ||sourceslabs.com^
 ||specs.dnsrd.com^
+||speedbind.com^
 ||speedygonzales.xyz^
 ||spffusa.org^
 ||spitfirepanel.firebaseio.com^
@@ -1620,6 +1620,7 @@
 ||summer-breathing.motorcycles^
 ||superaccumulate.mom^
 ||supfoundrysettlers.us^
+||suport.worldupdate.site^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
 ||surelytheme.org^
@@ -1630,6 +1631,7 @@
 ||t7.nz^
 ||takebad1.com^
 ||tax-gov-ua.com^
+||teamnj.ddns.net^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||techwach.com^
@@ -1662,6 +1664,7 @@
 ||thundernews.org^
 ||thyssenkrupp-marinesystems.org^
 ||tiappschecktest.azurewebsites.net^
+||tickerwell.com^
 ||tiena.einei.line.pm^
 ||time-check-broker.com^
 ||time-loss.dns05.com^
@@ -1728,6 +1731,7 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
+||ultraedit.info^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1761,7 +1765,6 @@
 ||urlpush.net^
 ||userfeedsync.com^
 ||uteromaniacal.makeup^
-||uvfr4ep.com^
 ||v0.cx^
 ||vacationtogotravels.net^
 ||vahlallha.duckdns.org^
@@ -1776,6 +1779,7 @@
 ||villageskaier.com^
 ||vinsaca.com^
 ||vipchattingonline.com^
+||viralnavigator.com^
 ||virtana-tech.com^
 ||virtual.urban-orthodontics.com^
 ||virtualdataserver.com^
@@ -1804,6 +1808,7 @@
 ||wak.rocks^
 ||walla.link^
 ||wallanews.publicvm.com^
+||wallanews.sytes.net^
 ||wallymac.com^
 ||wanderlust-gadgetnews.shop^
 ||wangzongfacai.com^
@@ -1848,6 +1853,7 @@
 ||windowsupdates.shop^
 ||windowsupup.com^
 ||windowsx.sytes.net^
+||windpull.cyou^
 ||wininit.myq-see.com^
 ||wmail-blog.com^
 ||wmail-cdn.com^
@@ -1866,7 +1872,6 @@
 ||worldhomeoutlet.com^
 ||worried-eastern-salto.glitch.me^
 ||wpksi.mefound.com^
-||wps.daj8.me^
 ||wpsup.daj8.me^
 ||www-wpx.net^
 ||www.about.jkub.com^
@@ -1887,7 +1892,6 @@
 ||www.rninhsss.com^
 ||www.uyghur.25u.com^
 ||www729448908.f3322.org^
-||wx.go890.com^
 ||x-trust.net^
 ||xeontime.com^
 ||xjam.hk^
