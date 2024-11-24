@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.23.181116.2024
+! Version: 11.24.181107.2024
 ! Expires: 1 day
-! Last modified: Sat Nov 23 18:11:16 UTC 2024
+! Last modified: Sun Nov 24 18:11:07 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1892
+! Number of entries: 1893
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -261,7 +261,6 @@
 ||apkapps.site^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
-||app.tomelife.com^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
 ||appleupdate.com^
@@ -319,7 +318,6 @@
 ||bailingla.com^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
-||banca-movil.com^
 ||bandabonga.fr^
 ||bb3u9.com^
 ||bcomb.net^
@@ -360,6 +358,7 @@
 ||bitscrunch.co^
 ||bitscrunch.deck.linkpc.net^
 ||bitscrunch.im.linkpc.net^
+||bitscrunch.myvnc.com^
 ||bitscrunch.pd.linkpc.net^
 ||bitscrunnch.linkpc.net^
 ||bitscrunnch.run.place^
@@ -422,7 +421,6 @@
 ||carder.bit^
 ||carleasingguru.com^
 ||carsfootyelo.com^
-||carstirgapcheatdeposwte.pw^
 ||cases.pcohenlaw.com^
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
@@ -505,6 +503,7 @@
 ||comeinbaby.com^
 ||commonline.space^
 ||compdate.my03.com^
+||complete-telecom-operation.top^
 ||concurrences.makeup^
 ||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
@@ -611,7 +610,6 @@
 ||docsfromthewest.com^
 ||docshared.col-link.linkpc.net^
 ||document-publisher.org^
-||document-viewer.live^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
@@ -664,6 +662,7 @@
 ||eidk.hopto.org^
 ||ejk.bz^
 ||ejk.li^
+||ekb.tanzedrom.ru^
 ||eleed.cloud^
 ||elite-hacks.ru^
 ||elitedwari.cyou^
@@ -683,7 +682,6 @@
 ||errorreporting.net^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
-||esilet.com^
 ||establisheddisappearefe.site^
 ||eternitypr.net^
 ||eterprx.net^
@@ -943,6 +941,7 @@
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
+||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1060,7 +1059,6 @@
 ||login.apl-org.online^
 ||logoff.ddns.info^
 ||logupdatemanagementapi.azurewebsites.net^
-||logupdatemanagementapijson.azurewebsites.net^
 ||loki-locker.one^
 ||loopconstruct.com^
 ||lorriratzlaff.com^
@@ -1088,8 +1086,10 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
+||mail.pakistangov.com^
 ||mailcantonfair.cssc.info^
 ||mailh.alit.live^
+||mailmofagovmm.mofa.email^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
@@ -1122,11 +1122,12 @@
 ||mavin21c.dothome.co.kr^
 ||mazedecrypt.top^
 ||mcrsfts-passwdupdate.com^
-||md928zs.shop^
 ||mediamic.info^
 ||mediqhealthcare.com^
+||meeting.equitaligaiustizia.it^
 ||megaarmshop.com^
 ||melodymate.co.in^
+||mennyudosirso.shop^
 ||mercro.com^
 ||mert.my03.com^
 ||message.ooguy.com^
@@ -1210,6 +1211,7 @@
 ||mynetenergy.com^
 ||mynetwork.ddns.net^
 ||mypsh.ddns.net^
+||myself.hopto.org^
 ||myservicessapps.com^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
@@ -1228,6 +1230,7 @@
 ||naver-storage.com^
 ||naveralert.com^
 ||navercafe.info^
+||naverk.myvnc.com^
 ||navigation.cc^
 ||navy-mil-bd.jmicc.xyz^
 ||ndapromovideoslittle.pro^
@@ -1400,7 +1403,6 @@
 ||product2020.mrbasic.com^
 ||promiseresolverdev.com^
 ||propller.b-cdn.net^
-||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||protothema.live^
@@ -1479,12 +1481,10 @@
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
-||s3-nsa.cloud^
 ||s51.online^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
 ||safigdata.com^
-||saintelzearlava.com^
 ||sake.mozillaupdates.us^
 ||salary-cutting.session-out.com^
 ||salesappliances.com^
@@ -1557,7 +1557,9 @@
 ||silver-dates.com^
 ||simos.online^
 ||simple-life.lol^
+||sip.2access.xyz^
 ||sip.nsogroup.com^
+||sip.qtechnologies.com^
 ||sipapp.lat^
 ||sistemikan.com^
 ||sitepanel.top^
@@ -1714,7 +1716,6 @@
 ||trans1ategooglecom.com^
 ||transparency.b-cdn.net^
 ||traveljournal-techinsights.shop^
-||trendignews.com^
 ||trendmicro-update.org^
 ||trendpronet.com^
 ||triangleseasonbenchwj.shop^
@@ -1764,7 +1765,6 @@
 ||updateinfos.com^
 ||updater-pro.com^
 ||updates.mintylinux.com^
-||updates.win32.live^
 ||updatesync.com^
 ||updatesystems.net^
 ||updatezone.org^
@@ -1837,6 +1837,7 @@
 ||webfile.myq-see.com^
 ||webnar.info^
 ||websitetheme.com^
+||webtimeapi.com^
 ||weekdanys.com^
 ||wellnesshub-chefparadise.shop^
 ||wesco.live^
@@ -1933,6 +1934,7 @@
 ||zakit.quest^
 ||zarelec.quest^
 ||zen.mozillaupdates.us^
+||zer9g.com^
 ||zexodown-2.b-cdn.net^
 ||zie5.com^
 ||zirabuo.bazar^
@@ -1946,7 +1948,6 @@
 ||zoneofzenith.com^
 ||zonestatistic.com^
 ||zoom-video.org^
-||zoom.osutuga7.workers.dev^
 ||zpwibfsmoowehdsm.onion^
 ||zupertech.com^
 ||zxn.fyi^
