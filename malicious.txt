@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.24.181107.2024
+! Version: 11.25.181109.2024
 ! Expires: 1 day
-! Last modified: Sun Nov 24 18:11:07 UTC 2024
+! Last modified: Mon Nov 25 18:11:09 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1893
+! Number of entries: 1895
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -73,7 +73,6 @@
 ||0t.yt^
 ||0v.wf^
 ||0w.pm^
-||119-tim.info^
 ||1212tank.activitydmy.icu^
 ||123online.uk^
 ||146-fastweb.info^
@@ -100,7 +99,6 @@
 ||2t.wf^
 ||2xdepp.com^
 ||2yd.eu^
-||300005.ru^
 ||322ffbbc7c1b312c2f9d942f20422f8d.com^
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
@@ -190,8 +188,8 @@
 ||aefieiaehfiaeho.ws^
 ||aefieiaehfiaehr.top^
 ||aefieiaehfiaehr.ws^
+||aefieiaehfiaehz.top^
 ||aefofhhfouahugo.ws^
-||aefofhhfouahugr.top^
 ||aefofhhfouahugr.ws^
 ||aerofly.live^
 ||aeufhnfueunfnuo.ws^
@@ -264,7 +262,6 @@
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
 ||appleupdate.com^
-||appr0dress.cyou^
 ||approvfoor.com^
 ||aptonic.xyz^
 ||aroundtheworld123.net^
@@ -468,7 +465,6 @@
 ||citroen.gr.com^
 ||cityloss.com^
 ||civilizations.store^
-||claimconcessionrebe.shop^
 ||classifieds.workers.dev^
 ||cleanshot.ink^
 ||cleanway.5asec.fr^
@@ -501,6 +497,7 @@
 ||com-ho.me^
 ||combinedresidency.org^
 ||comeinbaby.com^
+||commerce-gov-pk.directt888.com^
 ||commonline.space^
 ||compdate.my03.com^
 ||complete-telecom-operation.top^
@@ -537,7 +534,6 @@
 ||cuturl.app^
 ||cvix.live^
 ||cvyatop.online^
-||cybermon.fortigatecloud.com^
 ||cylenceprotect.com^
 ||d0.wf^
 ||dailybuild.mozillaupdates.com^
@@ -551,6 +547,7 @@
 ||dash-chat-c02b3.firebaseio.com^
 ||dashnex.plexusmarket.fund^
 ||data-backup.online^
+||data-dev.helpkaspersky.top^
 ||databasegalore.com^
 ||datalink.one^
 ||datamarketplace.net^
@@ -582,6 +579,7 @@
 ||dervinko.biz^
 ||desynlabtech.com^
 ||deteriotraiwo.shop^
+||devicebug.com^
 ||dgms.paknavy-gov.com^
 ||diadok-documentscdn.c688de.com^
 ||diadok.net^
@@ -622,10 +620,12 @@
 ||download.instructionclubs.com^
 ||downloadfile.b-cdn.net^
 ||downloadlog.linkpc.net^
+||downloadmyhost.zapto.org^
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||doxy.ws^
 ||dpsu-gov-ua.com^
+||draggedline.org^
 ||dragon.lib^
 ||dreamecho.shop^
 ||drilledgas.org^
@@ -663,6 +663,7 @@
 ||ejk.bz^
 ||ejk.li^
 ||ekb.tanzedrom.ru^
+||elasticbeanstalk.tech^
 ||eleed.cloud^
 ||elite-hacks.ru^
 ||elitedwari.cyou^
@@ -712,7 +713,6 @@
 ||fairu-schnellvpn.com^
 ||fastjscdn.org^
 ||fbstatic-a.space^
-||fbstatic-akamaihd.com^
 ||fclouddown.co^
 ||feigoton.store^
 ||feitec.online^
@@ -744,7 +744,6 @@
 ||font.backuplogs.xyz^
 ||forgame.bazar^
 ||frameworksupport.net^
-||frances-thomas.com^
 ||franklinida.com^
 ||frck.xyz^
 ||frdk.xyz^
@@ -903,7 +902,6 @@
 ||identifycheckingapplications.azurewebsites.net^
 ||idfinfo.pw^
 ||iina-app.lat^
-||iliad.info^
 ||ilnk.xyz^
 ||ilogicflow.com^
 ||images-11d.workers.dev^
@@ -936,6 +934,7 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
+||itunes-helper.net^
 ||iugur.live^
 ||ixware.xyz^
 ||iz.gy^
@@ -977,6 +976,7 @@
 ||js88.ag^
 ||jscloud.live^
 ||jsincloud.com^
+||jslibc.com^
 ||jsqur.com^
 ||jswebcloud.com^
 ||junk-bros.com^
@@ -1173,6 +1173,7 @@
 ||mobilepays.info^
 ||mod-gov-bd.dowmload.co^
 ||modestessayevenmilwek.shop^
+||mofa-gov-pk.directt888.com^
 ||mofadividion.ptcl-gov.com^
 ||mojobiden.com^
 ||mokamob.site^
@@ -1258,7 +1259,6 @@
 ||nnzf1.cc^
 ||noncancerous.beauty^
 ||nordicmademedia.com^
-||noredirecto.redirectme.net^
 ||nortonupdates.online^
 ||notebooktextchecking.azurewebsites.net^
 ||notebooktextcheckings.azurewebsites.net^
@@ -1375,6 +1375,7 @@
 ||pool.supportxmr.com^
 ||pooreveningfuseor.pw^
 ||portgame.bazar^
+||poste-it.info^
 ||postmastersoriginals.com^
 ||postnews.club^
 ||potexo.b-cdn.net^
@@ -1481,6 +1482,7 @@
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
+||s20.site^
 ||s51.online^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
@@ -1527,6 +1529,7 @@
 ||servhost.hopto.org^
 ||serviceicloud.com^
 ||servicescraft.buzz^
+||servicesystem.serveirc.com^
 ||sery.brushupdata.com^
 ||setapp.ink^
 ||setmic.shop^
@@ -1550,7 +1553,6 @@
 ||shopweb95.xyz^
 ||shortcuts.b-cdn.net^
 ||shorturling.live^
-||sideindexfollowragelrew.pw^
 ||siekis.com^
 ||sifucanva.com^
 ||silentlegion.duckdns.org^
@@ -1632,12 +1634,13 @@
 ||summer-breathing.motorcycles^
 ||superaccumulate.mom^
 ||supfoundrysettlers.us^
+||suport.worldupdate.site^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
 ||surelytheme.org^
 ||svn-dns.ahnlabinc.com^
 ||svnservices.com^
-||swaceapp.com^
+||symantke.com^
 ||symoty.com^
 ||sync.webappclick.net^
 ||t0.wf^
@@ -1672,6 +1675,7 @@
 ||therapy.emergencepsychservices.com^
 ||thestar.serveblog.net^
 ||theyardservice.com^
+||throatpills.org^
 ||thundernews.org^
 ||thyssenkrupp-marinesystems.org^
 ||tiappschecktest.azurewebsites.net^
@@ -1745,6 +1749,7 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
+||ultraedit.vip^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1789,7 +1794,6 @@
 ||vikompalion.ru^
 ||villageskaier.com^
 ||vinsaca.com^
-||vip.rm028.cn^
 ||vipchattingonline.com^
 ||viralnavigator.com^
 ||virtual.urban-orthodontics.com^
@@ -1842,6 +1846,7 @@
 ||wellnesshub-chefparadise.shop^
 ||wesco.live^
 ||wesharex.net^
+||westmedicalgroup.net^
 ||whereverhomebe.com^
 ||whitedrill.org^
 ||wildhorses.awardspace.info^
@@ -1862,7 +1867,6 @@
 ||windowsupdates.shop^
 ||windowsupup.com^
 ||windowsx.sytes.net^
-||windpull.cyou^
 ||wininit.myq-see.com^
 ||wmail-blog.com^
 ||wmail-cdn.com^
@@ -1883,8 +1887,6 @@
 ||wpksi.mefound.com^
 ||wpsup.daj8.me^
 ||wpsupdate.luckfafa.com^
-||www-army-mil-bd.dirctt88.co^
-||www-wpx.net^
 ||www.about.jkub.com^
 ||www.aexhausts.com^
 ||www.anlway.com^
