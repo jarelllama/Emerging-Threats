@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 11.28.181117.2024
+! Version: 11.29.181100.2024
 ! Expires: 1 day
-! Last modified: Thu Nov 28 18:11:17 UTC 2024
+! Last modified: Fri Nov 29 18:11:00 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1895
+! Number of entries: 1879
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -228,10 +228,8 @@
 ||alawaeltech.com^
 ||alienlol.com^
 ||alifemap.com^
-||aljazeera-news.com^
 ||aljazeerak.online^
 ||aloyadakmashin.com^
-||amnestyhk.org^
 ||amos-malware.ru^
 ||amynx.com^
 ||analystuysowp.shop^
@@ -441,10 +439,7 @@
 ||chat-gpt-pc.online^
 ||chat2cams.com^
 ||chat2hire.net^
-||chatsecure.uk.to^
-||chatsecurelite.uk.to^
 ||chatsecurelite.us.to^
-||check-fix.com^
 ||checkmalware.info^
 ||christopher.fun^
 ||chrom3.net^
@@ -521,13 +516,11 @@
 ||crystal-maker.com^
 ||crystalfiles.ru^
 ||crystalmaker.pro^
-||cstc-spares-vip-163.dowmload.net^
 ||ctotech.store^
 ||culinarycanvasgrilling.com^
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
-||cvix.live^
 ||cvyatop.online^
 ||cwise.store^
 ||cylenceprotect.com^
@@ -555,6 +548,7 @@
 ||dawn.apl-org.online^
 ||dawnnews.workers.dev^
 ||dayeyerhb.cyou^
+||dayspringdesk.xyz^
 ||dcrat.ru^
 ||ddnservice10.ru^
 ||ddnservice11.ru^
@@ -604,7 +598,6 @@
 ||docsfromthewest.com^
 ||docshared.col-link.linkpc.net^
 ||document-publisher.org^
-||document-viewer.live^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
@@ -633,7 +626,6 @@
 ||dsk.5636.com^
 ||dubai.network.cloud.doc-shared.linkpc.net^
 ||ducacorp.com^
-||dudtybresah.cyou^
 ||duke6.tk^
 ||dumpliportiwo.shop^
 ||dunamistrd.com^
@@ -743,6 +735,7 @@
 ||fnx.wf^
 ||followcache.com^
 ||forgame.bazar^
+||frame-roar-retire.top^
 ||frameworksupport.net^
 ||franklinida.com^
 ||frck.xyz^
@@ -803,6 +796,7 @@
 ||gloa.in^
 ||gofinancesolutions.com^
 ||golddisco.top^
+||gonamod.com^
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
 ||google-searching.com^
@@ -891,7 +885,6 @@
 ||iaidevrssfeed.cloudapp.azure.com^
 ||iaidevrssfeedp.cloudapp.azure.com^
 ||icloudeu.com^
-||ideasofbusiness.com^
 ||identifycheckapplication.azurewebsites.net^
 ||identifycheckapplications.azurewebsites.net^
 ||identifycheckingapplications.azurewebsites.net^
@@ -901,7 +894,6 @@
 ||ilogicflow.com^
 ||ilsotto.com^
 ||images-11d.workers.dev^
-||imfeurope-aml.org^
 ||imprintcenter.com^
 ||inayatullah.com^
 ||inclusive-economy.com^
@@ -931,6 +923,7 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
+||itunes-helper.net^
 ||iugur.live^
 ||ixware.xyz^
 ||iz.gy^
@@ -1117,7 +1110,6 @@
 ||mcrsfts-passwdupdate.com^
 ||mediamic.info^
 ||mediqhealthcare.com^
-||meeting.equitaligaiustizia.it^
 ||meetingverse.app^
 ||megaarmshop.com^
 ||melodymate.co.in^
@@ -1167,6 +1159,7 @@
 ||mod-gov-bd.dowmload.co^
 ||modandcrackedapk.com^
 ||modestessayevenmilwek.shop^
+||moemaldives.pmd-office.com^
 ||mofadividion.ptcl-gov.com^
 ||mojobiden.com^
 ||mokamob.site^
@@ -1279,7 +1272,6 @@
 ||obituary.workers.dev^
 ||objmapper.com^
 ||obuhov2k.beget.tech^
-||occupy-blushi.sbs^
 ||occupytapsessijk.pw^
 ||offerimagefancine.shop^
 ||office-crash.ddns.net^
@@ -1340,7 +1332,6 @@
 ||pdfviewer.app^
 ||pdfxml.org^
 ||pdjwebrfgdyzljmwtxcoyomapxtzchvn.com^
-||peacefulmind.shop^
 ||peco.b-cdn.net^
 ||pegasusdate.com^
 ||penspen.org^
@@ -1372,13 +1363,13 @@
 ||postmastersoriginals.com^
 ||postnews.club^
 ||potexo.b-cdn.net^
-||powerful-avoids.sbs^
 ||powers.b-cdn.net^
 ||pp6r1.com^
 ||ppidn.net^
 ||pre.alwayswait.site^
 ||premiosdosul.com^
 ||premium.davidabostic.com^
+||preston.melaniebest.com^
 ||printerjobs.xyz^
 ||printerupdates.online^
 ||prism-west-candy.glitch.me^
@@ -1393,13 +1384,11 @@
 ||privatproxy-endpoint.xyz^
 ||privatproxy-schnellvpn.com^
 ||privatproxy-schnellvpn.xyz^
-||privymeet.com^
 ||product2020.mrbasic.com^
 ||promiseresolverdev.com^
 ||propller.b-cdn.net^
 ||protonmail.support^
 ||protonmail.systems^
-||protothema.live^
 ||proupload.xyz^
 ||provide.yourtrap.com^
 ||prtn.xyz^
@@ -1407,7 +1396,6 @@
 ||public.clickstat360.com^
 ||pupuputu.blogspot.com^
 ||purple.itraffic.click^
-||push-hook.cyou^
 ||pushcg.com^
 ||pwresetcisco.com^
 ||q0.pm^
@@ -1465,7 +1453,6 @@
 ||rginfotechnology.com^
 ||rhinophidae.bond^
 ||rijtech.shop^
-||rimrun.com^
 ||rize.lat^
 ||rn9v.com^
 ||roadrunnersell.com^
@@ -1503,14 +1490,13 @@
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||sealingshop.click^
-||seasonsbackup.xyz^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
 ||secshow.online^
-||sector-essay.cyou^
 ||secure.netsolhost.com^
 ||securecrt.cc^
 ||securecrt.vip^
+||securednsservice.net^
 ||segurofinalizar.shop^
 ||selllify.shop^
 ||sellwisehub.com^
@@ -1596,7 +1582,6 @@
 ||sportblogs.azurewebsites.net^
 ||sportsgame.mypressonline.com^
 ||sputnik-news.com^
-||sqlnetcat.com^
 ||srcip.com^
 ||srcips.com^
 ||srftjwrty6kew.shop^
@@ -1604,7 +1589,6 @@
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
-||ssl.dyn-dns.com^
 ||stabit.click^
 ||staff.plenarykcg.com^
 ||stand-by-97c5c.appspot.com^
@@ -1622,6 +1606,7 @@
 ||streamvideox.b-cdn.net^
 ||string2me.com^
 ||strongbox.in^
+||studio.lacrenshawcrossing.com^
 ||studioclic53.com^
 ||study---hard.medianewsonline.com^
 ||stupid-edsee.cyou^
@@ -1644,7 +1629,6 @@
 ||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
-||tail-cease.cyou^
 ||takebad1.com^
 ||tax-gov-ua.com^
 ||teamtnt.red^
@@ -1659,6 +1643,7 @@
 ||tempest.lib^
 ||teraspace.co.in^
 ||teslali.com^
+||test-1627838.shop^
 ||testdomen.xyz^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
@@ -1735,7 +1720,6 @@
 ||u0.nz^
 ||u0.pm^
 ||u8wp.com^
-||ua-aws.army^
 ||ua-gov.cloud^
 ||uaeaircheckon.azurewebsites.net^
 ||uaeairchecks.azurewebsites.net^
@@ -1791,6 +1775,7 @@
 ||vikompalion.ru^
 ||villageskaier.com^
 ||vinsaca.com^
+||vip.rm028.cn^
 ||vipchattingonline.com^
 ||viralnavigator.com^
 ||virtual.urban-orthodontics.com^
@@ -1909,7 +1894,6 @@
 ||xinxx.allsoulu.com^
 ||xjam.hk^
 ||xmindcn.cc^
-||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
