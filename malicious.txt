@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.01.181032.2024
+! Version: 12.02.181107.2024
 ! Expires: 1 day
-! Last modified: Sun Dec  1 18:10:32 UTC 2024
+! Last modified: Mon Dec  2 18:11:07 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1845
+! Number of entries: 1852
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -102,6 +102,7 @@
 ||2t.wf^
 ||2xdepp.com^
 ||2yd.eu^
+||300005.ru^
 ||322ffbbc7c1b312c2f9d942f20422f8d.com^
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
@@ -146,6 +147,7 @@
 ||800french.blogspot.com^
 ||800germany.blogspot.com^
 ||8161.uk^
+||8t.ae^
 ||8t.pm^
 ||8t.wf^
 ||900cap.blogspot.com^
@@ -192,6 +194,7 @@
 ||aefieiaehfiaeho.ws^
 ||aefieiaehfiaehr.top^
 ||aefieiaehfiaehr.ws^
+||aefieiaehfiaehz.top^
 ||aefofhhfouahugo.ws^
 ||aefofhhfouahugr.top^
 ||aefofhhfouahugr.ws^
@@ -227,8 +230,8 @@
 ||alifemap.com^
 ||aljazeerak.online^
 ||aloyadakmashin.com^
+||amex-co.info^
 ||amos-malware.ru^
-||amynx.com^
 ||analystuysowp.shop^
 ||analytics-google.org^
 ||andrewka6.pythonanywhere.com^
@@ -421,7 +424,6 @@
 ||cdnimages.xyz^
 ||cdnpps.us^
 ||celebsinformation.com^
-||censys.xyz^
 ||centling.nihaoucloud.org^
 ||certifysop.com^
 ||cethernet.com^
@@ -484,6 +486,7 @@
 ||commonline.space^
 ||comodo.world^
 ||compdate.my03.com^
+||complete-telecom-operation.top^
 ||concurrences.makeup^
 ||confenos.shop^
 ||confusion-cerulean-samba.glitch.me^
@@ -513,6 +516,7 @@
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
+||cvix.live^
 ||cvyatop.online^
 ||cwise.store^
 ||cylenceprotect.com^
@@ -527,7 +531,6 @@
 ||dash-chat-c02b3.appspot.com^
 ||dash-chat-c02b3.firebaseio.com^
 ||dashnex.plexusmarket.fund^
-||data-backup.online^
 ||data-dev.helpkaspersky.top^
 ||databasegalore.com^
 ||datalink.one^
@@ -540,7 +543,7 @@
 ||dawn.apl-org.online^
 ||dawnnews.workers.dev^
 ||dayeyerhb.cyou^
-||dayspringdesk.xyz^
+||dcb5684707f6c66492aaa9f7d9bfb5a6.biz^
 ||dcrat.ru^
 ||ddnservice10.ru^
 ||ddnservice11.ru^
@@ -580,7 +583,6 @@
 ||dnscloudservice.com^
 ||dnslookup.services^
 ||dnsnamefinder.com^
-||doc.apple.com.premienoe.aidl.eonw.line.pm^
 ||doc.global-link.run.place^
 ||docs-send.cloud^
 ||docs.apl-com.icu^
@@ -608,7 +610,7 @@
 ||downloadsecurity.info^
 ||doxy.ws^
 ||dpf.fm^
-||draggedline.org^
+||dpsu-gov-ua.com^
 ||dragon.lib^
 ||dreamecho.shop^
 ||drilledgas.org^
@@ -725,7 +727,6 @@
 ||fnx.wf^
 ||followcache.com^
 ||forgame.bazar^
-||frame-roar-retire.top^
 ||frameworksupport.net^
 ||franklinida.com^
 ||frck.xyz^
@@ -902,6 +903,7 @@
 ||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||intelserviceupdate.com^
+||internal.bounceme.net^
 ||internal.group.link-net.publicvm.com^
 ||internalsecurity.us^
 ||internationalcricketboard.com^
@@ -914,7 +916,6 @@
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
 ||itunes-helper.net^
-||ixware.xyz^
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
@@ -969,6 +970,7 @@
 ||k6j.pw^
 ||kakiosk.adsparkdev.com^
 ||kaspresksy.com^
+||katie.party^
 ||kazaboldu.net^
 ||kc-3.ru^
 ||kciap.pw^
@@ -987,7 +989,6 @@
 ||kristinee.com^
 ||krrz.pm^
 ||krtkrt.ru^
-||ksew.org^
 ||kted56erhg.dynssl.com^
 ||ktlvz.dnsfailover.net^
 ||kubecloud.com^
@@ -1043,10 +1044,12 @@
 ||lumdreamyskies.shop^
 ||lumiapps.io^
 ||luminosity.lol^
+||lump.semara.ru^
 ||lwip.re^
 ||lwoekouututeuoo.ws^
 ||lwoekouututeuor.ws^
 ||lwxa.eu^
+||m.topiccore.com^
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
@@ -1059,8 +1062,10 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
+||mail.pakistangov.com^
 ||mailcantonfair.cssc.info^
 ||mailh.alit.live^
+||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
 ||mailsecurityservice.com^
@@ -1145,11 +1150,11 @@
 ||mod-gov-bd.dowmload.co^
 ||modandcrackedapk.com^
 ||modestessayevenmilwek.shop^
-||moemaldives.pmd-office.com^
 ||mofadividion.ptcl-gov.com^
 ||mojobiden.com^
 ||mokamob.site^
 ||monopoliafromyou.ru^
+||mora.pdfadobe.com^
 ||motherlodebulldogclub.com^
 ||mountainseagroup3.top^
 ||mozilla.apl-org.online^
@@ -1181,6 +1186,7 @@
 ||mynetwork.ddns.net^
 ||mypsh.ddns.net^
 ||myservicessapps.com^
+||mysweeterbk.ddns.net^
 ||myumysmeetr.ddns.net^
 ||mywinnetwork.ddns.net^
 ||mziep.pw^
@@ -1252,6 +1258,7 @@
 ||obituary.workers.dev^
 ||objmapper.com^
 ||obuhov2k.beget.tech^
+||oceansurvey.club^
 ||offerimagefancine.shop^
 ||office-crash.ddns.net^
 ||oitool.shop^
@@ -1263,7 +1270,6 @@
 ||omenkid.top^
 ||omzk.org^
 ||ondroid.site^
-||onelao.line.pm^
 ||online-vip-dating.com^
 ||onlinechatconnections.com^
 ||onlinecloud.cloud^
@@ -1376,7 +1382,6 @@
 ||q0.wf^
 ||qaquestions.azurewebsites.net^
 ||qaquestionsapi.azurewebsites.net^
-||qd-file.com^
 ||qfsl.net^
 ||qji6.com^
 ||qmpo.art^
@@ -1612,7 +1617,6 @@
 ||tempest.lib^
 ||teraspace.co.in^
 ||teslali.com^
-||test-1627838.shop^
 ||testdomen.xyz^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
@@ -1634,7 +1638,6 @@
 ||thyssenkrupp-marinesystems.org^
 ||tiappschecktest.azurewebsites.net^
 ||tickerwell.com^
-||tiena.einei.line.pm^
 ||tieringservice.com^
 ||time-check-broker.com^
 ||time-loss.dns05.com^
@@ -1669,6 +1672,7 @@
 ||tr069.pw^
 ||trademark.iglesiaelarca.com^
 ||trafficmanager.live^
+||training.detru.info^
 ||transparency.b-cdn.net^
 ||traveljournal-techinsights.shop^
 ||trendignews.com^
@@ -1865,6 +1869,7 @@
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
+||xtreme.hopto.org^
 ||xxxatat456.com^
 ||y0.pm^
 ||y0.wf^
@@ -1883,6 +1888,7 @@
 ||yuiw.xyz^
 ||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
+||z2adigital.cloud^
 ||z7s.org^
 ||zakit.quest^
 ||zarelec.quest^
@@ -1900,6 +1906,7 @@
 ||zoneofzenith.com^
 ||zonestatistic.com^
 ||zoom-video.org^
+||zoom.osutuga7.workers.dev^
 ||zpwibfsmoowehdsm.onion^
 ||zupertech.com^
 ||zxn.fyi^
