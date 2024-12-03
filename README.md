@@ -13,12 +13,12 @@ Sourced rulesets:
 * emerging-mobile_malware.rules
 * emerging-phishing.rules
 
-The phishing ruleset is also integrated into **[Jarelllamas's Scam Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
-
 View the full list of rulesets here:
 
 * [rulesets](https://rules.emergingthreats.net/)
 * [categories](https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94)
+
+For futher scam/phishing domains, see [jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist).
 
 The rest of the README is kept mostly the same.
 
