@@ -65,7 +65,7 @@ build() {
     cat compiled.tmp >> malicious.txt
 
     # Build separate phishing list for Jarelllama's Scam Blocklist
-    get_domains rules/emerging-phishing.rules data/phishing.txt
+    #get_domains rules/emerging-phishing.rules data/phishing.txt
 }
 
 append_header() {
