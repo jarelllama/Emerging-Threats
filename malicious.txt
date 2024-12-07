@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.06.181114.2024
+! Version: 12.07.181022.2024
 ! Expires: 1 day
-! Last modified: Fri Dec  6 18:11:14 UTC 2024
+! Last modified: Sat Dec  7 18:10:22 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1895
+! Number of entries: 1884
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -250,7 +250,6 @@
 ||api.flexiblelocator.com^
 ||api.kakn.li^
 ||api.lookupmanager.com^
-||api.mughthesec.com^
 ||api.productivebrowser.com^
 ||api.resultssys.com^
 ||api.rotatorbuffer.com^
@@ -270,7 +269,6 @@
 ||arquestions.azurewebsites.net^
 ||artickon.shop^
 ||asdasd08.com^
-||asianchow.com^
 ||asidomain.com^
 ||assetoutdoor.shop^
 ||associate.freeonlinelearning.com^
@@ -312,14 +310,12 @@
 ||backuppingplanseasy.com^
 ||backuprabbit.com^
 ||bageiaiefuefuuo.ws^
-||bahriafoundation.live^
 ||bailingla.com^
 ||bald-panel.firebaseio.com^
 ||balloon-sneak.cyou^
 ||bamo.ocry.com^
 ||banca-movil.com^
 ||bandabonga.fr^
-||bankofamerica.nyc^
 ||bb3u9.com^
 ||bcomb.net^
 ||bearrytankkewo.shop^
@@ -402,6 +398,7 @@
 ||buy-new-car.com^
 ||buydotclearlynet.com^
 ||by007.cn^
+||byfleur.myftp.org^
 ||bytesbazar.com^
 ||bytlo.com^
 ||c0.wf^
@@ -424,6 +421,7 @@
 ||carleasingguru.com^
 ||carsfootyelo.com^
 ||cases.pcohenlaw.com^
+||casibom.cyou^
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
 ||ccbaminumpot.ru^
@@ -491,6 +489,7 @@
 ||codecarawan.com^
 ||codeforprofessionalusers.com^
 ||codereviewerss.com^
+||coeshor.com^
 ||coffeeonlineshop.azurewebsites.net^
 ||coffeeonlineshoping.azurewebsites.net^
 ||coffeinoffice.xyz^
@@ -503,7 +502,6 @@
 ||comodo.world^
 ||compdate.my03.com^
 ||concurrences.makeup^
-||confenos.shop^
 ||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
 ||connectivitycheck.live^
@@ -560,6 +558,7 @@
 ||dawn.apl-org.online^
 ||dawnnews.workers.dev^
 ||dayeyerhb.cyou^
+||dcaa.info^
 ||dcb5684707f6c66492aaa9f7d9bfb5a6.biz^
 ||dcrat.ru^
 ||ddnservice10.ru^
@@ -609,8 +608,8 @@
 ||docsendinfo.linkpc.net^
 ||docsfromthewest.com^
 ||docshared.col-link.linkpc.net^
-||docstorage.link^
 ||document-publisher.org^
+||document-viewer.live^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
@@ -627,11 +626,11 @@
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||doxy.ws^
+||dpf.fm^
 ||dpsu-gov-ua.com^
 ||dragon.lib^
 ||dreamecho.shop^
 ||drilledgas.org^
-||drivethrough.top^
 ||drometic.suroot.com^
 ||drv2ms.com^
 ||dsdsei.com^
@@ -688,7 +687,6 @@
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
 ||esaleerugs.com^
-||esilet.com^
 ||establisheddisappearefe.site^
 ||eternitypr.net^
 ||eterprx.net^
@@ -731,7 +729,6 @@
 ||fileshare.direct^
 ||finallshell.cc^
 ||finalshell.me^
-||financialnewsonline.pw^
 ||finconsult.cc^
 ||firebaseupdater.com^
 ||firscountryours.eu^
@@ -751,6 +748,7 @@
 ||followcache.com^
 ||forgame.bazar^
 ||formy-spill.biz^
+||frame-roar-retire.top^
 ||frameworksupport.net^
 ||franklinida.com^
 ||frck.xyz^
@@ -817,7 +815,6 @@
 ||googlecloudns.com^
 ||googlecloudstream.com^
 ||googlesheet.info^
-||googlespeedtest33.com^
 ||googlo-analytics.com^
 ||gov-au.cloud^
 ||gov-gr.cloud^
@@ -1008,7 +1005,6 @@
 ||kjaj.top^
 ||knjghuig.biz^
 ||kolabdown.sytes.net^
-||kpt-pk.net^
 ||kpupdate.amz80.com^
 ||kristinee.com^
 ||krrz.pm^
@@ -1048,6 +1044,7 @@
 ||linetoslice.com^
 ||link-protection.com^
 ||linkit.digital^
+||linuxrelease.org^
 ||litby.us^
 ||liumingzhen.myftp.org^
 ||livehost.live^
@@ -1088,7 +1085,6 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
-||mail.pakistangov.com^
 ||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
 ||mailprotonmail.ch^
@@ -1183,7 +1179,6 @@
 ||mountainseagroup3.top^
 ||mozilla.apl-org.online^
 ||mozilla.tftpd.net^
-||msacn.ntcpk.net^
 ||msas.ws^
 ||msfw.store^
 ||msix.pm^
@@ -1255,7 +1250,6 @@
 ||nnlcrosaftteams-download.pro^
 ||noncancerous.beauty^
 ||nordicmademedia.com^
-||noredirecto.redirectme.net^
 ||nortonupdates.online^
 ||notebooktextchecking.azurewebsites.net^
 ||notebooktextcheckings.azurewebsites.net^
@@ -1268,6 +1262,7 @@
 ||ns.rtechs.org^
 ||ns1.xssr.org^
 ||ns2.xssr.org^
+||ns8.ddns1.com^
 ||nsignal.net^
 ||nt3.xyz^
 ||ntpserver.xyz^
@@ -1346,7 +1341,6 @@
 ||personalizationsurvey.azurewebsites.net^
 ||petshopsg.com^
 ||phoenix-panel.firebaseio.com^
-||phonemus.net^
 ||ping.cachespace.net^
 ||pitb.gov-pkgov.workers.dev^
 ||pixalate.us^
@@ -1395,7 +1389,6 @@
 ||product2020.mrbasic.com^
 ||promiseresolverdev.com^
 ||propller.b-cdn.net^
-||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||proupload.xyz^
@@ -1477,7 +1470,6 @@
 ||s0.pm^
 ||s1gn1fyh0se.cyou^
 ||s3-eu-north-1.culture-quest.shop^
-||s3-nsa.cloud^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
 ||safara.sytes.net^
@@ -1576,7 +1568,6 @@
 ||snapfire.xyz^
 ||snoweeanalytics.com^
 ||societyf500.ddns.net^
-||softupdate.xyz^
 ||softwarepays.com^
 ||solargroup.xyz^
 ||solartrackingsystem.net^
@@ -1646,6 +1637,7 @@
 ||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
+||tasteofgoodness.info^
 ||tax-gov-ua.com^
 ||teach-shave.cyou^
 ||teamnj.ddns.net^
@@ -1730,7 +1722,6 @@
 ||trzx.eu^
 ||turkishairines.info^
 ||tutic.click^
-||tw8sl.com^
 ||tz6.org^
 ||u0.nz^
 ||u0.pm^
@@ -1748,7 +1739,6 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
-||ultraedit.vip^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1836,7 +1826,6 @@
 ||webdataspace.com^
 ||webdynamicname.com^
 ||webfile.myq-see.com^
-||webnar.info^
 ||websitetheme.com^
 ||webtimeapi.com^
 ||weeatsome.com^
@@ -1920,7 +1909,6 @@
 ||yanaloop.shop^
 ||yellowblog.flnet.org^
 ||yhdmb.xyz^
-||yhgrffndvzbtoilmundkmvbaxrjtqsew.com^
 ||ynns.uk^
 ||youarefired.xyz^
 ||youcansay.s3.us-east-2.amazonaws.com^
@@ -1935,6 +1923,7 @@
 ||zakit.quest^
 ||zarelec.quest^
 ||zen.mozillaupdates.us^
+||zer9g.com^
 ||zeroassoluto.biz^
 ||zexodown-2.b-cdn.net^
 ||zie5.com^
