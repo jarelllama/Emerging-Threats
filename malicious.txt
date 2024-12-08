@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.07.181022.2024
+! Version: 12.08.181033.2024
 ! Expires: 1 day
-! Last modified: Sat Dec  7 18:10:22 UTC 2024
+! Last modified: Sun Dec  8 18:10:33 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1884
+! Number of entries: 1876
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -77,6 +77,7 @@
 ||1212tank.activitydmy.icu^
 ||123online.uk^
 ||146-fastweb.info^
+||155-wind.info^
 ||159-windtre.info^
 ||168-gov.info^
 ||16october-etmdeposit329.top^
@@ -199,7 +200,6 @@
 ||aefofhhfouahugr.ws^
 ||aerofly.live^
 ||aeufhnfueunfnuo.ws^
-||afcat.xyz^
 ||afrepublic.xyz^
 ||africa.thesmalladventureguide.com^
 ||afriquenouvelle.com^
@@ -242,7 +242,6 @@
 ||answerssurveytest.azurewebsites.net^
 ||antelec.click^
 ||aoacugmutagkwctu.onion^
-||aoisudoisadn.kkb.tv^
 ||api-lofy.xyz^
 ||api.alphaconsoles.com^
 ||api.commondevice.com^
@@ -301,7 +300,6 @@
 ||aytobusesre.com^
 ||b36cname.site^
 ||b3vv.com^
-||b69kq.com^
 ||b8x.org^
 ||b9.pm^
 ||babaroga.lib^
@@ -314,10 +312,10 @@
 ||bald-panel.firebaseio.com^
 ||balloon-sneak.cyou^
 ||bamo.ocry.com^
-||banca-movil.com^
 ||bandabonga.fr^
 ||bb3u9.com^
 ||bcomb.net^
+||bdmil.alit.live^
 ||bearrytankkewo.shop^
 ||beastgoc.com^
 ||becreativemind.com^
@@ -327,7 +325,6 @@
 ||bestgame.bazar^
 ||bestresulttostart.com^
 ||beztech.site^
-||bfd78.biz^
 ||bfiuaebeufbefbo.ws^
 ||bideo-blog.com^
 ||bideo-blog.xyz^
@@ -592,7 +589,6 @@
 ||disknxt.com^
 ||dison.live^
 ||divewanntwj.biz^
-||diyefosterfeeds.com^
 ||dji-msi.2waky.com^
 ||dl6yfsl.com^
 ||dljmp2p.com^
@@ -811,16 +807,15 @@
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
 ||google-searching.com^
-||googlechromehost.ddns.net^
 ||googlecloudns.com^
 ||googlecloudstream.com^
 ||googlesheet.info^
+||googlespeedtest33.com^
 ||googlo-analytics.com^
 ||gov-au.cloud^
 ||gov-gr.cloud^
 ||gov-lt.cloud^
 ||gov-lv.cloud^
-||gov-pl.cloud^
 ||gov-sk.cloud^
 ||govtr.cloud^
 ||gpoaccess.com^
@@ -858,7 +853,6 @@
 ||helicopterahtest.azurewebsites.net^
 ||helicopterahtests.azurewebsites.net^
 ||helicoptersahtests.azurewebsites.net^
-||hellocookies.ddns.net^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
 ||helpzonecisco.com^
@@ -926,7 +920,6 @@
 ||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||intelserviceupdate.com^
-||internal.bounceme.net^
 ||internal.group.link-net.publicvm.com^
 ||internalsecurity.us^
 ||investigation04.session-out.com^
@@ -981,7 +974,6 @@
 ||junk-bros.com^
 ||junocis.com^
 ||jupyternotebookcollections.azurewebsites.net^
-||jupyternotebookcollections.com^
 ||jupyternotebookscollection.azurewebsites.net^
 ||jzm.pw^
 ||k0.pm^
@@ -997,7 +989,6 @@
 ||kc-3.ru^
 ||kciap.pw^
 ||kcyvxytog.biz^
-||kedbuffigfjs.online^
 ||kenlynton.com^
 ||kepw.org^
 ||kernel4windows.in^
@@ -1085,8 +1076,8 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
-||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
+||mailh.alit.live^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
 ||mailsecurityservice.com^
@@ -1232,9 +1223,7 @@
 ||netstreamag.publicvm.com^
 ||new.apl-org.online^
 ||new.filetea.me^
-||new.odgarsupport.world^
 ||newgame.bazar^
-||newhost.hopto.org^
 ||news-now.co^
 ||newsfeeds-microsoft.press^
 ||newsmailnet.com^
@@ -1294,7 +1283,7 @@
 ||onlinechatconnections.com^
 ||onlinecloud.cloud^
 ||onlinehome.us^
-||oornsduuwjli.tech^
+||ooredoodeals.com^
 ||opela.ru^
 ||openai-pc-pro.online^
 ||openapplicationcheck.azurewebsites.net^
@@ -1365,14 +1354,12 @@
 ||powers.b-cdn.net^
 ||pp6r1.com^
 ||ppidn.net^
-||ppinewsagency.live^
 ||pre.alwayswait.site^
 ||premiosdosul.com^
 ||premium.davidabostic.com^
 ||preston.melaniebest.com^
 ||print-vexer.biz^
 ||printerjobs.xyz^
-||printersolutions.live^
 ||printerupdates.online^
 ||prism-west-candy.glitch.me^
 ||privatehd.us.to^
@@ -1411,6 +1398,7 @@
 ||qmpo.art^
 ||qr1.3jd90dsj3df.website^
 ||qu3.cc^
+||querryfiles.com^
 ||questionsdatabases.azurewebsites.net^
 ||quran-books.store^
 ||r0.pm^
@@ -1472,7 +1460,6 @@
 ||s3-eu-north-1.culture-quest.shop^
 ||s8.cx^
 ||sabre-airlinesolutions.com^
-||safara.sytes.net^
 ||safigdata.com^
 ||sake.mozillaupdates.us^
 ||salary-cutting.session-out.com^
@@ -1543,15 +1530,16 @@
 ||shopapppro.com^
 ||shopping-nice.com^
 ||shopweb95.xyz^
-||short-urling.live^
 ||shortcuts.b-cdn.net^
 ||shorturling.live^
+||sideindexfollowragelrew.pw^
 ||siekis.com^
 ||sifucanva.com^
 ||silentlegion.duckdns.org^
 ||silver-dates.com^
 ||simos.online^
 ||simple-life.lol^
+||sip.2access.xyz^
 ||sip.nsogroup.com^
 ||sip.qtechnologies.com^
 ||sipapp.lat^
@@ -1568,6 +1556,7 @@
 ||snapfire.xyz^
 ||snoweeanalytics.com^
 ||societyf500.ddns.net^
+||softupdate.xyz^
 ||softwarepays.com^
 ||solargroup.xyz^
 ||solartrackingsystem.net^
@@ -1689,6 +1678,7 @@
 ||tksrpdl.atwebpages.com^
 ||tldrbox.ws^
 ||tldrnet.top^
+||tlsart.com^
 ||tnlsowki.westus3.cloudapp.azure.com^
 ||tnlsowkis.westus3.cloudapp.azure.com^
 ||tnsc.webredirect.org^
@@ -1739,6 +1729,7 @@
 ||ufhuehfuigiijdr.ws^
 ||uggboots4sale.com^
 ||uknwn.linkpc.net^
+||ultraedit.info^
 ||umousteraton.com^
 ||undjsj.duckdns.org^
 ||uneukdqaba.loca.lt^
@@ -1821,6 +1812,7 @@
 ||we-site.net^
 ||web-trackers.com^
 ||web.mapperstate.com^
+||web.miscrosaft.com^
 ||webcodez.com^
 ||webdatacache.com^
 ||webdataspace.com^
@@ -1845,7 +1837,6 @@
 ||windows-india.in^
 ||windows-kernel.in^
 ||windows-updater.com^
-||windows-updates.com^
 ||windows24-kernel.in^
 ||windowsappstore.net^
 ||windowscer.shop^
@@ -1909,6 +1900,7 @@
 ||yanaloop.shop^
 ||yellowblog.flnet.org^
 ||yhdmb.xyz^
+||yhgrffndvzbtoilmundkmvbaxrjtqsew.com^
 ||ynns.uk^
 ||youarefired.xyz^
 ||youcansay.s3.us-east-2.amazonaws.com^
