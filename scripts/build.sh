@@ -8,6 +8,8 @@ readonly URL='https://rules.emergingthreats.net/open/suricata-5.0/emerging.rules
 # https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94
 # Rulesets with no domains extracted are not included
 readonly -a RULESETS=(
+    emerging-adware_pup
+    emerging-coinminer
     emerging-exploit_kit
     emerging-malware
     emerging-mobile_malware
