@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.10.033648.2024
+! Version: 12.10.181325.2024
 ! Expires: 1 day
-! Last modified: Tue Dec 10 03:36:48 UTC 2024
+! Last modified: Tue Dec 10 18:13:25 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1893
+! Number of entries: 1908
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -253,6 +253,7 @@
 ||api.flexiblelocator.com^
 ||api.kakn.li^
 ||api.lookupmanager.com^
+||api.mughthesec.com^
 ||api.packetshare.io^
 ||api.productivebrowser.com^
 ||api.resultssys.com^
@@ -265,6 +266,7 @@
 ||apkapps.site^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
+||app.tomelife.com^
 ||app.truenaira.co^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
@@ -306,6 +308,7 @@
 ||aytobusesre.com^
 ||b36cname.site^
 ||b3vv.com^
+||b69kq.com^
 ||b8x.org^
 ||b9.pm^
 ||babaroga.lib^
@@ -351,6 +354,7 @@
 ||bit-ly.org^
 ||bit-miners.top^
 ||bitcoin-paystore.com^
+||biteupdates.live^
 ||biteupdates.site^
 ||bitgames.world^
 ||bitsbfree.com^
@@ -400,6 +404,7 @@
 ||buy-new-car.com^
 ||buydotclearlynet.com^
 ||by007.cn^
+||byfleur.myftp.org^
 ||bytesbazar.com^
 ||bytlo.com^
 ||c0.wf^
@@ -425,6 +430,7 @@
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
 ||ccbaminumpot.ru^
+||cctvv2023.9hlw.com^
 ||cdn-aws.net^
 ||cdn-dev.helpkaspersky.top^
 ||cdn.cloudfiare.workers.dev^
@@ -499,6 +505,7 @@
 ||commonline.space^
 ||comodo.world^
 ||compdate.my03.com^
+||complete-telecom-operation.top^
 ||concurrences.makeup^
 ||confusion-cerulean-samba.glitch.me^
 ||connectionhandlerapi.azurewebsites.net^
@@ -856,6 +863,7 @@
 ||hardwarenet.cc^
 ||havan.qhigh.com^
 ||hawkshaw-cae48.firebaseio.com^
+||hcttmail.com^
 ||hdfc-point.web.app^
 ||hdlclub2.cc^
 ||healthcaretip.info^
@@ -950,6 +958,7 @@
 ||j68.info^
 ||j8.si^
 ||javaruntime.azurewebsites.net^
+||jcdn.jsoid.com^
 ||jcswcd.com^
 ||jeepcarlease.com^
 ||jeitoon.quest^
@@ -1050,8 +1059,10 @@
 ||linedrv.com^
 ||linetoslice.com^
 ||link-protection.com^
+||linkit.cloud^
 ||linkit.digital^
 ||litby.us^
+||liumingzhen.myftp.org^
 ||livehost.live^
 ||liversymbwqp.shop^
 ||living.miraclesofeucharisticjesus.org^
@@ -1600,6 +1611,7 @@
 ||srrys.pw^
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
+||sseekk.xyz^
 ||stabit.click^
 ||staff.plenarykcg.com^
 ||stand-by-97c5c.appspot.com^
@@ -1631,6 +1643,7 @@
 ||sunny-beach.shop^
 ||superaccumulate.mom^
 ||supfoundrysettlers.us^
+||suport.worldupdate.site^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
 ||surelytheme.org^
@@ -1646,6 +1659,7 @@
 ||teach-shave.cyou^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
+||techwach.com^
 ||tecnojournals.com^
 ||teentytinyjeo.shop^
 ||teledyneflir.com.de^
@@ -1730,6 +1744,7 @@
 ||trzx.eu^
 ||turkishairines.info^
 ||tutic.click^
+||tw8sl.com^
 ||tz6.org^
 ||u0.nz^
 ||u0.pm^
