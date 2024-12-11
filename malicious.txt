@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.10.181325.2024
+! Version: 12.11.181148.2024
 ! Expires: 1 day
-! Last modified: Tue Dec 10 18:13:25 UTC 2024
+! Last modified: Wed Dec 11 18:11:48 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1908
+! Number of entries: 1921
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -279,6 +279,7 @@
 ||asidomain.com^
 ||assetoutdoor.shop^
 ||associate.freeonlinelearning.com^
+||associate.freeonlinelearningtech.com^
 ||assumedtribsosp.shop^
 ||asureupdate.pro^
 ||atten-supporse.biz^
@@ -321,10 +322,10 @@
 ||bald-panel.firebaseio.com^
 ||balloon-sneak.cyou^
 ||bamo.ocry.com^
+||banca-movil.com^
 ||bandabonga.fr^
 ||bb3u9.com^
 ||bcomb.net^
-||bdmil.alit.live^
 ||bearrytankkewo.shop^
 ||beastgoc.com^
 ||becreativemind.com^
@@ -412,7 +413,6 @@
 ||c13a856f4a879a89e9a638207efd6c94.biz^
 ||c4z.pl^
 ||c7.lc^
-||cabinet-division-pk.fia-gov.com^
 ||caduff-sa.ch^
 ||caixa.cx^
 ||calculator-1e016.appspot.com^
@@ -426,7 +426,6 @@
 ||carleasingguru.com^
 ||carsfootyelo.com^
 ||cases.pcohenlaw.com^
-||casibom.cyou^
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
 ||ccbaminumpot.ru^
@@ -540,8 +539,10 @@
 ||cvyatop.online^
 ||cwise.store^
 ||cy.amorcash.com^
+||cybermon.fortigatecloud.com^
 ||cylenceprotect.com^
 ||d0.wf^
+||daily.windowsupdates.eu^
 ||dailybuild.mozillaupdates.com^
 ||dailydews.com^
 ||dailyfasterauto.info^
@@ -571,6 +572,7 @@
 ||dcrat.ru^
 ||ddnservice10.ru^
 ||ddnservice11.ru^
+||dechromo.com^
 ||decorous-super-blender.glitch.me^
 ||deepspaceocean.info^
 ||deeptrickday.org^
@@ -600,6 +602,7 @@
 ||disknxt.com^
 ||dison.live^
 ||divewanntwj.biz^
+||diyefosterfeeds.com^
 ||dji-msi.2waky.com^
 ||dl6yfsl.com^
 ||dljmp2p.com^
@@ -634,7 +637,6 @@
 ||doxy.ws^
 ||dpsu-gov-ua.com^
 ||dragon.lib^
-||dreamecho.shop^
 ||drilledgas.org^
 ||driverfinderpro.com^
 ||driverturbo.com^
@@ -755,6 +757,7 @@
 ||fnx.wf^
 ||followcache.com^
 ||forgame.bazar^
+||formlaner.click^
 ||formy-spill.biz^
 ||fortect.com^
 ||frameworksupport.net^
@@ -831,6 +834,7 @@
 ||gov-lt.cloud^
 ||gov-lv.cloud^
 ||gov-sk.cloud^
+||gov-ua.cloud^
 ||govtr.cloud^
 ||gpoaccess.com^
 ||gpufps.com^
@@ -870,6 +874,7 @@
 ||helicopterahtest.azurewebsites.net^
 ||helicopterahtests.azurewebsites.net^
 ||helicoptersahtests.azurewebsites.net^
+||hellocookies.ddns.net^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
 ||helpzonecisco.com^
@@ -937,6 +942,7 @@
 ||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||intelserviceupdate.com^
+||internal.bounceme.net^
 ||internal.group.link-net.publicvm.com^
 ||internalsecurity.us^
 ||invitation-letter.govpk.info^
@@ -1034,6 +1040,7 @@
 ||l9b.org^
 ||lakeshorehomebuilders.com^
 ||lakeside-fishandchips.com^
+||lamartesana.info^
 ||lanmangraphics.com^
 ||law.kimsavagelaw.com^
 ||lcomputers.com^
@@ -1091,6 +1098,7 @@
 ||lwoekouututeuoo.ws^
 ||lwoekouututeuor.ws^
 ||lwxa.eu^
+||m.topiccore.com^
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
@@ -1105,7 +1113,6 @@
 ||mail.jaguarline.com^
 ||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
-||mailh.alit.live^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
 ||mailsecurityservice.com^
@@ -1261,6 +1268,7 @@
 ||nfcomizsdseqiomzqrxwvtprxbljkpgd.name^
 ||nidnaver.info^
 ||nightchat.fun^
+||nightly.windowsupdates.eu^
 ||nightlybuild.mozillaupdates.com^
 ||nitrokod.com^
 ||njrat12.ddns.net^
@@ -1297,6 +1305,7 @@
 ||obituary.workers.dev^
 ||objmapper.com^
 ||obuhov2k.beget.tech^
+||oceansurvey.club^
 ||offerimagefancine.shop^
 ||office-crash.ddns.net^
 ||oitool.shop^
@@ -1369,6 +1378,7 @@
 ||play-store-51182.firebaseio.com^
 ||pley.es^
 ||pluralism.themancav.com^
+||point-saunter.cyou^
 ||poko.b-cdn.net^
 ||politiaromana.bit^
 ||pool.hashvault.pro^
@@ -1385,6 +1395,7 @@
 ||pre.alwayswait.site^
 ||premiosdosul.com^
 ||premium.davidabostic.com^
+||president-gov-lk.donwloaded.net^
 ||preston.melaniebest.com^
 ||print-vexer.biz^
 ||printerjobs.xyz^
@@ -1426,7 +1437,6 @@
 ||qr1.3jd90dsj3df.website^
 ||qt.qtzhreop.com^
 ||qu3.cc^
-||querryfiles.com^
 ||questionsdatabases.azurewebsites.net^
 ||quran-books.store^
 ||r0.pm^
@@ -1560,7 +1570,6 @@
 ||shopweb95.xyz^
 ||shortcuts.b-cdn.net^
 ||shorturling.live^
-||sideindexfollowragelrew.pw^
 ||siekis.com^
 ||sifucanva.com^
 ||silentlegion.duckdns.org^
@@ -1578,6 +1587,7 @@
 ||skreatortemp.site^
 ||skyboxdrive.cloud^
 ||skylum.store^
+||sl-navy.office-drive.live^
 ||sliperyedhby.icu^
 ||smscentro.com^
 ||smser.net^
@@ -1612,6 +1622,7 @@
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
 ||sseekk.xyz^
+||ssl.dyn-dns.com^
 ||stabit.click^
 ||staff.plenarykcg.com^
 ||stand-by-97c5c.appspot.com^
@@ -1805,6 +1816,7 @@
 ||vikompalion.ru^
 ||villageskaier.com^
 ||vinsaca.com^
+||vip.rm028.cn^
 ||vipchattingonline.com^
 ||viralnavigator.com^
 ||virtual.urban-orthodontics.com^
@@ -1923,6 +1935,7 @@
 ||xjam.hk^
 ||xmr.2miners.com^
 ||xmrminingproxy.com^
+||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
