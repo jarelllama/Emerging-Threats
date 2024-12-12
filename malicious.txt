@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.11.181148.2024
+! Version: 12.12.181325.2024
 ! Expires: 1 day
-! Last modified: Wed Dec 11 18:11:48 UTC 2024
+! Last modified: Thu Dec 12 18:13:25 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1921
+! Number of entries: 1926
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -103,6 +103,7 @@
 ||2t.wf^
 ||2xdepp.com^
 ||2yd.eu^
+||300005.ru^
 ||322ffbbc7c1b312c2f9d942f20422f8d.com^
 ||3e.pm^
 ||3ec9b600789b3bacf2c72ebae142a9c3.net^
@@ -287,6 +288,7 @@
 ||audioservicetestapi.azurewebsites.net^
 ||audko.store^
 ||aurora.dawn-904.workers.dev^
+||ausameetings.com^
 ||ausq.inaver.org^
 ||aut0deskk.com^
 ||auth-owlting.com^
@@ -318,6 +320,7 @@
 ||backuppingplanseasy.com^
 ||backuprabbit.com^
 ||bageiaiefuefuuo.ws^
+||bahriafoundation.live^
 ||bailingla.com^
 ||bald-panel.firebaseio.com^
 ||balloon-sneak.cyou^
@@ -371,6 +374,7 @@
 ||blackberry-support.herokuapp.com^
 ||blackcap.ru^
 ||blackempirebuild.com^
+||blackleopard.myvnc.com^
 ||blacknurse.lib^
 ||blacksaltys.com^
 ||blackshelter.org^
@@ -423,6 +427,7 @@
 ||capitana.onthewifi.com^
 ||car-service.effers.com^
 ||carder.bit^
+||carldi.org^
 ||carleasingguru.com^
 ||carsfootyelo.com^
 ||cases.pcohenlaw.com^
@@ -536,6 +541,7 @@
 ||customer.thewayofmoney.us^
 ||cut.red^
 ||cuturl.app^
+||cvix.live^
 ||cvyatop.online^
 ||cwise.store^
 ||cy.amorcash.com^
@@ -567,6 +573,7 @@
 ||dawn.apl-org.online^
 ||dawnnews.workers.dev^
 ||dayeyerhb.cyou^
+||dbasopma.biz^
 ||dcaa.info^
 ||dcb5684707f6c66492aaa9f7d9bfb5a6.biz^
 ||dcrat.ru^
@@ -629,7 +636,6 @@
 ||doug.org^
 ||download.instructionclub.com^
 ||download.instructionclubs.com^
-||download.ns360.info^
 ||downloadfile.b-cdn.net^
 ||downloadlog.linkpc.net^
 ||downloads.bablosoft.com^
@@ -686,6 +692,7 @@
 ||emiratescheckapi.azurewebsites.net^
 ||encrypt-email.online^
 ||encryptit.qc.to^
+||enerjjoy.com^
 ||engine.ninja^
 ||enigma.net.in^
 ||enikos.news^
@@ -731,7 +738,6 @@
 ||fclouddown.co^
 ||feigoton.store^
 ||feitec.online^
-||fencingfriends.com^
 ||fgcz.net^
 ||ficinity.com^
 ||fightlsoser.click^
@@ -809,7 +815,6 @@
 ||gg2024.com^
 ||gg2024.info^
 ||gggatat456.com^
-||ggoryo.com^
 ||ghost.blueecho88.com^
 ||giftbox4u.com^
 ||girlsgifs.com^
@@ -827,7 +832,6 @@
 ||googlecloudns.com^
 ||googlecloudstream.com^
 ||googlesheet.info^
-||googlespeedtest33.com^
 ||googlo-analytics.com^
 ||gov-au.cloud^
 ||gov-gr.cloud^
@@ -891,6 +895,7 @@
 ||hinitial.com^
 ||hkxpqdtgsucylodaejmzmtnkpfvojabe.com^
 ||hl852.com^
+||homeservicephiladelphia.info^
 ||hostingforme.nl^
 ||hostpdf.co^
 ||hotmai1.com^
@@ -954,6 +959,7 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
+||itunes-helper.net^
 ||iu.iuuaufbt.com^
 ||ixware.xyz^
 ||iz.gy^
@@ -1058,6 +1064,7 @@
 ||lib.hostareas.com^
 ||lib.jsquerys.net^
 ||libjs.inquirerjs.com^
+||libjs.xyz^
 ||lightalex.ru^
 ||lightpillar.lat^
 ||like4u.ru^
@@ -1069,7 +1076,6 @@
 ||linkit.cloud^
 ||linkit.digital^
 ||litby.us^
-||liumingzhen.myftp.org^
 ||livehost.live^
 ||liversymbwqp.shop^
 ||living.miraclesofeucharisticjesus.org^
@@ -1111,8 +1117,8 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
-||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
+||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
 ||mailprotonmail.com^
 ||mailsecurityservice.com^
@@ -1130,7 +1136,6 @@
 ||marketexpert.site^
 ||marketiqhub.com^
 ||marketsoilmart.com^
-||marshal-zhukov.com^
 ||martianlol.com^
 ||marvin-occentus.net^
 ||marwapetersson.info^
@@ -1147,7 +1152,6 @@
 ||mcrsfts-passwdupdate.com^
 ||mediqhealthcare.com^
 ||meetingverse.app^
-||megaarmshop.com^
 ||melodymate.co.in^
 ||mennyudosirso.shop^
 ||meowware.ddns.net^
@@ -1328,6 +1332,7 @@
 ||openai-pc-pro.online^
 ||openapplicationcheck.azurewebsites.net^
 ||opporeno8.com^
+||opposesicknessopw.pw^
 ||opswat.info^
 ||orangevault.net^
 ||orhangazitur.com^
@@ -1380,6 +1385,7 @@
 ||pluralism.themancav.com^
 ||point-saunter.cyou^
 ||poko.b-cdn.net^
+||politefrightenpowoa.pw^
 ||politiaromana.bit^
 ||pool.hashvault.pro^
 ||pool.supportxmr.com^
@@ -1424,7 +1430,6 @@
 ||public.clickstat360.com^
 ||pupuputu.blogspot.com^
 ||purple.itraffic.click^
-||pushcg.com^
 ||pwresetcisco.com^
 ||q0.pm^
 ||q0.wf^
@@ -1489,7 +1494,6 @@
 ||rshank.com^
 ||ruciplbrxwjscyhtapvlfskoqqgnxevw.name^
 ||runfs.icu^
-||rus.feedpolicy.xyz^
 ||s-p-o-o-f-e-d.h-o-s-t.name^
 ||s.adslinkup.com^
 ||s0.pm^
@@ -1514,13 +1518,13 @@
 ||scancenter.trendrealtime.com^
 ||scarpsniffy.click^
 ||schooltillhungryprocess.com^
+||scsnewstoday.com^
 ||sd1-bin.net^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
 ||se-blurry.biz^
 ||sealingshop.click^
 ||search.feedvertizus.com^
-||secdns.site^
 ||secretionsuitcasenioise.shop^
 ||secshow.net^
 ||secure.netsolhost.com^
@@ -1576,9 +1580,7 @@
 ||silver-dates.com^
 ||simos.online^
 ||simple-life.lol^
-||sip.2access.xyz^
 ||sip.nsogroup.com^
-||sip.qtechnologies.com^
 ||sipapp.lat^
 ||sistemikan.com^
 ||sitepanel.top^
@@ -1593,7 +1595,6 @@
 ||smser.net^
 ||snapfire.xyz^
 ||snoweeanalytics.com^
-||societyf500.ddns.net^
 ||softupdate.xyz^
 ||softwarepays.com^
 ||solargroup.xyz^
@@ -1625,6 +1626,7 @@
 ||ssl.dyn-dns.com^
 ||stabit.click^
 ||staff.plenarykcg.com^
+||stake.libertariancounterpoint.com^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
 ||start-anew.net^
@@ -1748,7 +1750,6 @@
 ||triangleseasonbenchwj.shop^
 ||trkc.online^
 ||trojan1117.hopto.org^
-||trust.resourcehost.net^
 ||trxh.xyz^
 ||trxq.xyz^
 ||trxu.xyz^
@@ -1778,6 +1779,7 @@
 ||uneukdqaba.loca.lt^
 ||unfoolishly.christmas^
 ||uni-files.com^
+||unicornhub.top^
 ||unioncrypto.vip^
 ||unipreg.tumsun.com^
 ||uniqueupdatesfrtetheupdateing.live^
@@ -1788,6 +1790,7 @@
 ||update.centos-yum.com^
 ||update.facebookint.workers.dev^
 ||update.microsoft-setting.com^
+||update.microsoft-settings.com^
 ||update.windows.server-microsoft.com^
 ||updatecz.mykorean.net^
 ||updateinfos.com^
@@ -1951,6 +1954,7 @@
 ||youarefired.xyz^
 ||youcansay.s3.us-east-2.amazonaws.com^
 ||youmiuri.com^
+||youngsweays.my^
 ||youtube.voto^
 ||youtubepremiumapp.com^
 ||ysl.jxwan.com^
@@ -1958,6 +1962,7 @@
 ||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
 ||z7s.org^
+||za158155.ddns.net^
 ||zakit.quest^
 ||zarelec.quest^
 ||zen.mozillaupdates.us^
