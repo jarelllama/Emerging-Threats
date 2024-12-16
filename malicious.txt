@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.15.181432.2024
+! Version: 12.16.181146.2024
 ! Expires: 1 day
-! Last modified: Sun Dec 15 18:14:32 UTC 2024
+! Last modified: Mon Dec 16 18:11:46 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1936
+! Number of entries: 1925
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -84,6 +84,8 @@
 ||16october-etmdeposit329.top^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1cbit.org^
+||1drv.us.com^
+||1drvmicrosoft.com^
 ||1i.pm^
 ||1j.pm^
 ||1k4.xyz^
@@ -163,6 +165,7 @@
 ||ab1c403220c27.com^
 ||ab2da3d400c20.com^
 ||ab3520430c23.com^
+||ab3d685a0c37.com^
 ||ab6d54340c1a.com^
 ||ab70a139cc3a.com^
 ||ab890e964c34.com^
@@ -188,7 +191,6 @@
 ||adobeincorp.com^
 ||adservices.gr.com^
 ||adstrra.b-cdn.net^
-||adult-perfect.cyou^
 ||advertls.shop^
 ||advertrex20.xyz^
 ||advnanced-ip-scanner.com^
@@ -264,6 +266,7 @@
 ||apkapps.site^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
+||app.tomelife.com^
 ||app.truenaira.co^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
@@ -301,7 +304,6 @@
 ||avaddonbotrxmuyl.onion.pet^
 ||avitech.site^
 ||avsvmcloud.com^
-||awake-weaves.cyou^
 ||awsamazon.cc^
 ||awsstatics.com^
 ||aytobusesre.com^
@@ -354,6 +356,7 @@
 ||bit-ly.org^
 ||bit-miners.top^
 ||bitcoin-paystore.com^
+||biteupdates.live^
 ||biteupdates.site^
 ||bitgames.world^
 ||bitsbfree.com^
@@ -434,6 +437,7 @@
 ||cdn-dev.helpkaspersky.top^
 ||cdn.cloudfiare.workers.dev^
 ||cdnapis.com^
+||cdnimages.xyz^
 ||cdnpps.us^
 ||celebsinformation.com^
 ||censys.xyz^
@@ -463,6 +467,8 @@
 ||ciltrix.com^
 ||circle.innovativecsportal.com^
 ||ciscohelpcenter.com^
+||ciscovpn1.com^
+||ciscovpn2.com^
 ||ciscovpn3.com^
 ||citasatmx2023.lat^
 ||citi-bank.ru^
@@ -518,7 +524,6 @@
 ||coral-polydactyl-dragonfruit.glitch.me^
 ||corkpennywj.click^
 ||cosdfdfrefdch.best^
-||covery-mover.biz^
 ||craypot.live^
 ||creating-egg.cyou^
 ||crec-bd.site^
@@ -599,7 +604,6 @@
 ||disknxt.com^
 ||dison.live^
 ||divewanntwj.biz^
-||dividenntyss.shop^
 ||dji-msi.2waky.com^
 ||djnito.com^
 ||dl6yfsl.com^
@@ -756,7 +760,6 @@
 ||forgame.bazar^
 ||formlaner.click^
 ||fortect.com^
-||frame-roar-retire.top^
 ||frameworksupport.net^
 ||franklinida.com^
 ||frck.xyz^
@@ -831,6 +834,7 @@
 ||gov-lt.cloud^
 ||gov-lv.cloud^
 ||gov-sk.cloud^
+||gov-ua.cloud^
 ||govtr.cloud^
 ||gpoaccess.com^
 ||gpufps.com^
@@ -839,7 +843,6 @@
 ||great-codes.com^
 ||greensky27.vicp.net^
 ||groundrats.org^
-||group-meeting.online^
 ||groupdavinci.online^
 ||grow-deprive.cyou^
 ||growthtransport.com^
@@ -874,7 +877,6 @@
 ||herald-b2a.workers.dev^
 ||herominers.com^
 ||herroassebm.cyou^
-||hhic.top^
 ||hhplaytom.com^
 ||hidden-chat-e58d7.appspot.com^
 ||hidden-chat-e58d7.firebaseio.com^
@@ -899,7 +901,6 @@
 ||hunza-project-default-rtdb.firebaseio.com^
 ||hurr.zapto.org^
 ||hwqloan.com^
-||hyperservice.ddns.net^
 ||i0.wf^
 ||i0up.com^
 ||i1.pm^
@@ -942,7 +943,6 @@
 ||internal.group.link-net.publicvm.com^
 ||internalsecurity.us^
 ||investigation04.session-out.com^
-||invitation-letter.govpk.info^
 ||iognews.com^
 ||ipva2024-detransp.com^
 ||iredelltx.com^
@@ -952,7 +952,6 @@
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
 ||iu.iuuaufbt.com^
-||iugur.live^
 ||ixware.xyz^
 ||iz.gy^
 ||izezggefgegfzto.ws^
@@ -1012,6 +1011,7 @@
 ||k6j.pw^
 ||kakiosk.adsparkdev.com^
 ||kaspresksy.com^
+||katie.party^
 ||kazaboldu.net^
 ||kc-3.ru^
 ||kciap.pw^
@@ -1147,7 +1147,6 @@
 ||mazedecrypt.top^
 ||mcrsfts-passwdupdate.com^
 ||mediqhealthcare.com^
-||meetingverse.app^
 ||melodymate.co.in^
 ||mennyudosirso.shop^
 ||mentor.omgwowhq.org^
@@ -1253,7 +1252,6 @@
 ||naver-storage.com^
 ||naveralert.com^
 ||navercafe.info^
-||naverk.myvnc.com^
 ||navigation.cc^
 ||ndapromovideoslittle.pro^
 ||net-certificate.services^
@@ -1353,7 +1351,6 @@
 ||p9.tel^
 ||packedbrick.com^
 ||packetbite.live^
-||pafwa.info^
 ||pandorasong.com^
 ||panhardware.com^
 ||paradiso4.fun^
@@ -1385,9 +1382,7 @@
 ||play-store-51182.firebaseio.com^
 ||pley.es^
 ||pluralism.themancav.com^
-||point-saunter.cyou^
 ||poko.b-cdn.net^
-||politefrightenpowoa.pw^
 ||politiaromana.bit^
 ||pool.hashvault.pro^
 ||pool.supportxmr.com^
@@ -1450,7 +1445,6 @@
 ||querryfiles.com^
 ||questionsdatabases.azurewebsites.net^
 ||quran-books.store^
-||quwa-paf.servehttp.com^
 ||r0.pm^
 ||r0.wf^
 ||r2elajikcosf7zee.onion.to^
@@ -1575,6 +1569,7 @@
 ||sharepoint-microsoft.co^
 ||sharepoint-punjab.sharepoint-e13.workers.dev^
 ||sharepoint.agency^
+||sharify.co.in^
 ||shcserv.com^
 ||shelves-design.com^
 ||shopapppro.com^
@@ -1611,7 +1606,6 @@
 ||solo-hoy.com^
 ||sophosfirewallupdate.com^
 ||sophosproductupdate.com^
-||sordid-snaked.cyou^
 ||sorsi.online^
 ||soundedge.live^
 ||source.scriptsafedata.com^
@@ -1637,7 +1631,6 @@
 ||staff.plenarykcg.com^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
-||stare-roar.cyou^
 ||start-anew.net^
 ||startservicefounds.com^
 ||startupfraction.com^
@@ -1650,7 +1643,6 @@
 ||strategies.mvpstrat.com^
 ||streammain.top^
 ||streamvideox.b-cdn.net^
-||string2me.com^
 ||strongbox.in^
 ||studio.lacrenshawcrossing.com^
 ||studioclic53.com^
@@ -1755,7 +1747,6 @@
 ||trc20.kcgrocks.com^
 ||trendignews.com^
 ||trendmicro-update.org^
-||trendmicro.tech^
 ||trendpronet.com^
 ||triangleseasonbenchwj.shop^
 ||trkc.online^
@@ -1918,7 +1909,6 @@
 ||worried-eastern-salto.glitch.me^
 ||wpksi.mefound.com^
 ||wpsup.daj8.me^
-||wrathful-jammy.cyou^
 ||www-army-mil-bd.dirctt88.co^
 ||www-wpx.net^
 ||www.37513.cn^
@@ -1972,7 +1962,6 @@
 ||yuiw.xyz^
 ||ywbgrcrupasdiqxknwgceatlnbvmezti.com^
 ||z2a.digital^
-||z2adigital.cloud^
 ||z7s.org^
 ||zakit.quest^
 ||zarelec.quest^
