@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.18.181117.2024
+! Version: 12.19.181243.2024
 ! Expires: 1 day
-! Last modified: Wed Dec 18 18:11:17 UTC 2024
+! Last modified: Thu Dec 19 18:12:43 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1912
+! Number of entries: 1923
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -84,8 +84,6 @@
 ||16october-etmdeposit329.top^
 ||18bca7c5fd709ac468ba148c590ef6bf.net^
 ||1cbit.org^
-||1drv.us.com^
-||1drvmicrosoft.com^
 ||1i.pm^
 ||1j.pm^
 ||1k4.xyz^
@@ -236,6 +234,7 @@
 ||alifemap.com^
 ||aljazeerak.online^
 ||aloyadakmashin.com^
+||amnestyhk.org^
 ||amos-malware.ru^
 ||analystuysowp.shop^
 ||analytics-google.org^
@@ -265,7 +264,6 @@
 ||apkapps.site^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
-||app.tomelife.com^
 ||app.truenaira.co^
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
@@ -319,12 +317,12 @@
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
 ||bandabonga.fr^
+||bankofamerica.nyc^
 ||bb3u9.com^
 ||bcomb.net^
 ||bdmil.alit.live^
 ||bearrytankkewo.shop^
 ||beastgoc.com^
-||bellflamre.click^
 ||benefits.melanatedbloodlinesrestoration.com^
 ||beonlineboo.com^
 ||best-net.biz^
@@ -351,7 +349,6 @@
 ||bit-ly.org^
 ||bit-miners.top^
 ||bitcoin-paystore.com^
-||biteupdates.live^
 ||biteupdates.site^
 ||bitgames.world^
 ||bitsbfree.com^
@@ -370,6 +367,7 @@
 ||blacknurse.lib^
 ||blacksaltys.com^
 ||blackshelter.org^
+||bladyburger.online^
 ||blaekindustry.com^
 ||blockbitcoin.com^
 ||blognewsalphaapijson.azurewebsites.net^
@@ -401,6 +399,7 @@
 ||businessinsanjose.info^
 ||buy-new-car.com^
 ||buydotclearlynet.com^
+||buylevlen.xyz^
 ||by007.cn^
 ||byfleur.myftp.org^
 ||bytesbazar.com^
@@ -411,6 +410,7 @@
 ||c7.lc^
 ||caduff-sa.ch^
 ||caixa.cx^
+||calbbs.com^
 ||calculator-1e016.appspot.com^
 ||calculator-1e016.firebaseio.com^
 ||capclean2024may.blogspot.com^
@@ -446,7 +446,6 @@
 ||chatsecurelite.uk.to^
 ||chatsecurelite.us.to^
 ||checkmalware.info^
-||checkupdates.flashserv.net^
 ||chewels.com^
 ||christopher.fun^
 ||chrom3.net^
@@ -641,6 +640,7 @@
 ||drometic.suroot.com^
 ||drp.su^
 ||drv2ms.com^
+||dsassoc.com^
 ||dsdsei.com^
 ||dsi.mk^
 ||dsk.5636.com^
@@ -664,6 +664,7 @@
 ||edupoliceam.info^
 ||eegqzvxd.shop^
 ||efaxmakeronline.com^
+||egaolife.info^
 ||egihaehefiejfjo.ws^
 ||egihaehefiejfjr.ws^
 ||egso.net^
@@ -695,6 +696,7 @@
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
 ||esaleerugs.com^
+||esilet.com^
 ||establisheddisappearefe.site^
 ||eternitypr.net^
 ||eterprx.net^
@@ -778,7 +780,6 @@
 ||ftpserverit.otzo.com^
 ||fucksaudi.ddns.net^
 ||fullcircleteam.com^
-||futipoy.shop^
 ||fxb.tw^
 ||fz.ms^
 ||g-analytics.com^
@@ -848,7 +849,6 @@
 ||greensky27.vicp.net^
 ||groundrats.org^
 ||groupdavinci.online^
-||grow-deprive.cyou^
 ||growthtransport.com^
 ||grutic.store^
 ||gtag.site^
@@ -899,6 +899,7 @@
 ||htwqzczce.biz^
 ||hugrhusghufiiio.ws^
 ||hugrhusghufiiir.ws^
+||hulkpara.xyz^
 ||human-check.b-cdn.net^
 ||human-verify02.b-cdn.net^
 ||humanresourcesapijson.azurewebsites.net^
@@ -1059,6 +1060,7 @@
 ||lib.hostareas.com^
 ||lib.jsquerys.net^
 ||libjs.inquirerjs.com^
+||libjs.xyz^
 ||lightalex.ru^
 ||lightpillar.lat^
 ||like4u.ru^
@@ -1098,6 +1100,7 @@
 ||lwoekouututeuoo.ws^
 ||lwoekouututeuor.ws^
 ||lwxa.eu^
+||m.topiccore.com^
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
@@ -1314,6 +1317,7 @@
 ||onlinechatconnections.com^
 ||onlinecloud.cloud^
 ||onlinehome.us^
+||onnetmais.org^
 ||ooredoodeals.com^
 ||oornsduuwjli.tech^
 ||opela.ru^
@@ -1340,7 +1344,7 @@
 ||p3.ms^
 ||p9.tel^
 ||packedbrick.com^
-||packetbite.live^
+||pancakedipyps.click^
 ||pandorasong.com^
 ||panhardware.com^
 ||paradiso4.fun^
@@ -1387,7 +1391,6 @@
 ||powers.b-cdn.net^
 ||pp6r1.com^
 ||ppidn.net^
-||prajapatisamaj.info^
 ||pre.alwayswait.site^
 ||premiosdosul.com^
 ||premium.davidabostic.com^
@@ -1412,6 +1415,7 @@
 ||product2020.mrbasic.com^
 ||promiseresolverdev.com^
 ||propller.b-cdn.net^
+||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||proupload.xyz^
@@ -1452,6 +1456,7 @@
 ||realfish.bazar^
 ||realmetaldns.com^
 ||realnewstime.xyz^
+||receptivesfii.click^
 ||recordsbluemountain.com^
 ||redirconnectwise.cloud^
 ||redircorrectiv.com^
@@ -1526,6 +1531,7 @@
 ||securecrt.vip^
 ||securednsservice.net^
 ||securesways.click^
+||security-microsoft.net^
 ||seetrol.co.kr^
 ||segurofinalizar.shop^
 ||selllify.shop^
@@ -1616,6 +1622,7 @@
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
+||ssl.dyn-dns.com^
 ||stabit.click^
 ||staff.plenarykcg.com^
 ||stake.libertariancounterpoint.com^
@@ -1654,6 +1661,7 @@
 ||sweepyribs.lat^
 ||symantke.com^
 ||symoty.com^
+||sync.webappclick.net^
 ||t0.wf^
 ||t7.nz^
 ||tacitglibbr.biz^
@@ -1735,6 +1743,7 @@
 ||trc20.kcgrocks.com^
 ||trendignews.com^
 ||trendmicro-update.org^
+||trendmicro.tech^
 ||trendpronet.com^
 ||triangleseasonbenchwj.shop^
 ||trkc.online^
@@ -1870,6 +1879,7 @@
 ||windows-india.in^
 ||windows-kernel.in^
 ||windows-updater.com^
+||windows-updates.com^
 ||windows24-kernel.in^
 ||windowsappstore.net^
 ||windowscer.shop^
@@ -1927,6 +1937,7 @@
 ||xjam.hk^
 ||xmr.2miners.com^
 ||xmrminingproxy.com^
+||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
