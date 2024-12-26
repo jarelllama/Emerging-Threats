@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.25.181047.2024
+! Version: 12.26.181044.2024
 ! Expires: 1 day
-! Last modified: Wed Dec 25 18:10:47 UTC 2024
+! Last modified: Thu Dec 26 18:10:44 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1961
+! Number of entries: 1954
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -262,6 +262,7 @@
 ||api.typicalconfig.com^
 ||api.youdarlingme.com^
 ||api.yumicash.com^
+||apiujpnkbrhsdn57oi0ns0qmbaj0wcdzjhblj6frlh1tr.eur.lc^
 ||apkapps.site^
 ||app.dynamicrosoft.com^
 ||app.influmarket.org^
@@ -304,6 +305,7 @@
 ||avitech.site^
 ||avsvmcloud.com^
 ||aws-join.cloud^
+||aws-meet.cloud^
 ||aws-online.cloud^
 ||awsamazon.cc^
 ||awsplatform.online^
@@ -517,7 +519,6 @@
 ||content.garretttrails.org^
 ||contextjs.info^
 ||controlleractiveserver.com^
-||cooporatestock.com^
 ||coral-polydactyl-dragonfruit.glitch.me^
 ||corkpennywj.click^
 ||cosdfdfrefdch.best^
@@ -533,7 +534,6 @@
 ||crystalmaker.pro^
 ||ctl.msedgeapi.net^
 ||ctotech.store^
-||cuddlyready.xyz^
 ||curverpluch.lat^
 ||customer.thewayofmoney.us^
 ||cut.red^
@@ -569,7 +569,6 @@
 ||dawnnews.workers.dev^
 ||dayeyerhb.cyou^
 ||dbasopma.biz^
-||dcaa.info^
 ||dcb5684707f6c66492aaa9f7d9bfb5a6.biz^
 ||dcfei.xyz^
 ||dcrat.ru^
@@ -627,6 +626,7 @@
 ||docshared.col-link.linkpc.net^
 ||docstorage.link^
 ||document-publisher.org^
+||document-viewer.live^
 ||documentworkspace.io^
 ||docuprivacy.com^
 ||doem.re^
@@ -642,7 +642,6 @@
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||doxy.ws^
-||dpf.fm^
 ||dpsu-gov-ua.com^
 ||dragon.lib^
 ||driblbemris.lat^
@@ -751,7 +750,6 @@
 ||fileshare.direct^
 ||finallshell.cc^
 ||finalshell.me^
-||financialnewsonline.pw^
 ||finconsult.cc^
 ||firebaseupdater.com^
 ||firscountryours.eu^
@@ -811,7 +809,6 @@
 ||gazanew.com^
 ||gc.wb51.com^
 ||gdcb.bit^
-||gdprcountryrestriction.com^
 ||genhil.com^
 ||gentexman37.xyz^
 ||geradcontsad.pro^
@@ -909,7 +906,6 @@
 ||hostingforme.nl^
 ||hostpdf.co^
 ||hotmai1.com^
-||house-server-digital.xyz^
 ||house.zionanakwenze.com^
 ||hpesystem.com^
 ||htwqzczce.biz^
@@ -961,7 +957,6 @@
 ||integratedblognewsapi.azurewebsites.com^
 ||inteldrv64.com^
 ||intelserviceupdate.com^
-||internal.bounceme.net^
 ||internal.group.link-net.publicvm.com^
 ||internalsecurity.us^
 ||inventionspo.click^
@@ -1046,7 +1041,6 @@
 ||kjaj.top^
 ||knjghuig.biz^
 ||kolabdown.sytes.net^
-||kpt-pk.net^
 ||kpupdate.amz80.com^
 ||kristinee.com^
 ||krrz.pm^
@@ -1115,7 +1109,6 @@
 ||lumiapps.io^
 ||luminosity.lol^
 ||lumkecuq.shop^
-||lummunaqea.shop^
 ||lump.semara.ru^
 ||lumzacynuy.shop^
 ||lwip.re^
@@ -1136,7 +1129,6 @@
 ||mail-na-gov-pk.na-gov-pk.workers.dev^
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
-||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
 ||mailmofagovmm.mofa.email^
 ||mailprotonmail.ch^
@@ -1275,7 +1267,6 @@
 ||naveralert.com^
 ||navercafe.info^
 ||navigation.cc^
-||navy-mil-bd.jmicc.xyz^
 ||ndapromovideoslittle.pro^
 ||net-certificate.services^
 ||nethosting.viewdns.net^
@@ -1371,8 +1362,7 @@
 ||p3.ms^
 ||p9.tel^
 ||packedbrick.com^
-||pafwa.info^
-||paknavy.jmicc.xyz^
+||packetbite.live^
 ||pancakedipyps.click^
 ||pandorasong.com^
 ||panhardware.com^
@@ -1404,6 +1394,7 @@
 ||platformcati.sbs^
 ||play-store-51182.appspot.com^
 ||play-store-51182.firebaseio.com^
+||pley.es^
 ||pluralism.themancav.com^
 ||poko.b-cdn.net^
 ||politefrightenpowoa.pw^
@@ -1424,10 +1415,10 @@
 ||president-gov-lk.donwloaded.net^
 ||preston.melaniebest.com^
 ||printerjobs.xyz^
-||printersolutions.live^
 ||printerupdates.online^
 ||prism-west-candy.glitch.me^
 ||privatehd.us.to^
+||privatemake.bounceme.net^
 ||privatemessage.net^
 ||privatproxy-blog.com^
 ||privatproxy-blog.xyz^
@@ -1442,6 +1433,7 @@
 ||product2020.mrbasic.com^
 ||promiseresolverdev.com^
 ||propller.b-cdn.net^
+||protonmail.sh^
 ||protonmail.support^
 ||protonmail.systems^
 ||proupload.xyz^
@@ -1450,7 +1442,6 @@
 ||przvgke.biz^
 ||pupuputu.blogspot.com^
 ||purple.itraffic.click^
-||purple.m-ads.net^
 ||pwresetcisco.com^
 ||q0.pm^
 ||q0.wf^
@@ -1466,6 +1457,7 @@
 ||qu3.cc^
 ||questionsdatabases.azurewebsites.net^
 ||quran-books.store^
+||quwa-paf.servehttp.com^
 ||r0.pm^
 ||r0.wf^
 ||r2elajikcosf7zee.onion.to^
@@ -1503,7 +1495,6 @@
 ||retaildemo.info^
 ||reuters-press.com^
 ||reviewtypes.com^
-||reviveincapablewew.pw^
 ||rginfotechnology.com^
 ||rhel.opsecurity1.art^
 ||rhinophidae.bond^
@@ -1522,9 +1513,10 @@
 ||s.adslinkup.com^
 ||s0.pm^
 ||s1gn1fyh0se.cyou^
-||s3-be.cloud^
 ||s3-dk.cloud^
 ||s3-eu-north-1.culture-quest.shop^
+||s3-eu-north-1.travelguide-techtrends.com^
+||s3-ned.cloud^
 ||s3-nsa.cloud^
 ||s8.cx^
 ||saaadnesss.shop^
@@ -1566,7 +1558,6 @@
 ||sellwisehub.com^
 ||selmanc.com^
 ||semiconductboard.com^
-||sendypaster.xyz^
 ||seobundlekit.com^
 ||sephardimension.com^
 ||sergek.info^
@@ -1599,6 +1590,7 @@
 ||shopapppro.com^
 ||shopping-nice.com^
 ||shopweb95.xyz^
+||short-urling.live^
 ||shortcuts.b-cdn.net^
 ||shorturling.live^
 ||siekis.com^
@@ -1636,6 +1628,7 @@
 ||sophosfirewallupdate.com^
 ||sophosproductupdate.com^
 ||sorsi.online^
+||soundedge.live^
 ||source.scriptsafedata.com^
 ||specs.dnsrd.com^
 ||speedbind.com^
@@ -1653,6 +1646,7 @@
 ||srrys.pw^
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
+||ssl.dyn-dns.com^
 ||stabit.click^
 ||staff.plenarykcg.com^
 ||stand-by-97c5c.appspot.com^
@@ -1662,7 +1656,6 @@
 ||startupfraction.com^
 ||statscodicefiscale.xyz^
 ||steamdesktopauthenticator.com^
-||steppriflej.xyz^
 ||storage-e13.sharepoint-e13.workers.dev^
 ||storage.webfiledata.com^
 ||storagedsolutions.azurefd.net^
@@ -1711,7 +1704,6 @@
 ||teraspace.co.in^
 ||teslali.com^
 ||test-1627838.shop^
-||test.3322.org.cn^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
 ||testupdate.info^
@@ -1836,6 +1828,7 @@
 ||urlpush.net^
 ||userfeedsync.com^
 ||uteromaniacal.makeup^
+||uvfr4ep.com^
 ||v0.cx^
 ||vacationtogotravels.net^
 ||vahlallha.duckdns.org^
@@ -1914,7 +1907,6 @@
 ||windows-india.in^
 ||windows-kernel.in^
 ||windows-updater.com^
-||windows-updates.com^
 ||windows24-kernel.in^
 ||windowsappstore.net^
 ||windowscer.shop^
@@ -1974,6 +1966,7 @@
 ||xjam.hk^
 ||xmr.2miners.com^
 ||xmrminingproxy.com^
+||xp101.dyn-dns.com^
 ||xsecuremail.com^
 ||xssok.blogspot.com^
 ||xtabr.com^
