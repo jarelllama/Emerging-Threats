@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 12.27.181212.2024
+! Version: 12.28.141010.2024
 ! Expires: 1 day
-! Last modified: Fri Dec 27 18:12:12 UTC 2024
+! Last modified: Sat Dec 28 14:10:10 UTC 2024
 ! Syntax: Adblock Plus
-! Number of entries: 1943
+! Number of entries: 1951
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -132,7 +132,6 @@
 ||60i.nl^
 ||66j.me^
 ||6ax.nl^
-||6c.nz^
 ||6google.com^
 ||6t.nz^
 ||6t.pm^
@@ -236,6 +235,7 @@
 ||alifemap.com^
 ||aljazeerak.online^
 ||aloyadakmashin.com^
+||amcikressimleri.xyz^
 ||amos-malware.ru^
 ||analysiserjzy.click^
 ||analystuysowp.shop^
@@ -270,6 +270,7 @@
 ||apple.dynamic-dns.net^
 ||applebalanyou.com^
 ||appleupdate.com^
+||appliacnesot.buzz^
 ||aptonic.xyz^
 ||aroundtheworld123.net^
 ||arquestions.azurewebsites.net^
@@ -305,7 +306,6 @@
 ||avitech.site^
 ||avsvmcloud.com^
 ||aws-join.cloud^
-||aws-meet.cloud^
 ||aws-online.cloud^
 ||awsamazon.cc^
 ||awsplatform.online^
@@ -320,19 +320,19 @@
 ||backuppingplanseasy.com^
 ||backuprabbit.com^
 ||bageiaiefuefuuo.ws^
-||bahriafoundation.live^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
 ||bandabonga.fr^
-||bashfulacid.lat^
 ||bb3u9.com^
 ||bcomb.net^
+||bdmil.alit.live^
 ||bearrytankkewo.shop^
 ||beastgoc.com^
 ||beefshooti.click^
 ||benefits.melanatedbloodlinesrestoration.com^
 ||beonlineboo.com^
 ||best-net.biz^
+||bestbuy.zapto.org^
 ||bestgame.bazar^
 ||bestresulttostart.com^
 ||beztech.site^
@@ -395,6 +395,7 @@
 ||brendon-sharjen.biz^
 ||briefl.ink^
 ||bright-witted.skin^
+||brokenmatte.click^
 ||brownyctuwh.click^
 ||broworker10s.com^
 ||browser.apl-org.online^
@@ -428,8 +429,8 @@
 ||carldi.org^
 ||carleasingguru.com^
 ||carsfootyelo.com^
-||carstirgapcheatdeposwte.pw^
 ||cases.pcohenlaw.com^
+||cashfuzysao.buzz^
 ||cb3u.com^
 ||cba4a6e5d3c956548a337c52388473f1.com^
 ||ccbaminumpot.ru^
@@ -467,6 +468,9 @@
 ||cikivjto.biz^
 ||ciltrix.com^
 ||circle.innovativecsportal.com^
+||ciscovpn1.com^
+||ciscovpn2.com^
+||ciscovpn3.com^
 ||citasatmx2023.lat^
 ||citi-bank.ru^
 ||citroen.gr.com^
@@ -481,7 +485,6 @@
 ||clients.dedicatedservicesusa.com^
 ||clifolink.online^
 ||clipbutton.com.br^
-||cloud-apple.info^
 ||cloud-apt.net^
 ||cloud-document-edit.onrender.com^
 ||cloud-sources.com^
@@ -534,10 +537,8 @@
 ||crystalmaker.pro^
 ||ctl.msedgeapi.net^
 ||ctotech.store^
-||curverpluch.lat^
 ||customer.thewayofmoney.us^
 ||cut.red^
-||cvix.live^
 ||cvyatop.online^
 ||cwise.store^
 ||cy.amorcash.com^
@@ -602,6 +603,7 @@
 ||digitalcollege.org^
 ||direct-trojan.com^
 ||dirtytram.click^
+||discoves.com^
 ||disknxt.com^
 ||dison.live^
 ||divewanntwj.biz^
@@ -634,6 +636,7 @@
 ||doug.org^
 ||download.instructionclub.com^
 ||download.instructionclubs.com^
+||download.ns360.info^
 ||downloadfile.b-cdn.net^
 ||downloadlog.linkpc.net^
 ||downloads.bablosoft.com^
@@ -641,10 +644,10 @@
 ||doxy.ws^
 ||dpsu-gov-ua.com^
 ||dragon.lib^
-||driblbemris.lat^
 ||drilledgas.org^
 ||driverfinderpro.com^
 ||driverturbo.com^
+||drivethrough.top^
 ||drometic.suroot.com^
 ||drp.su^
 ||drv2ms.com^
@@ -767,6 +770,7 @@
 ||fnenfmnieehgier.ws^
 ||fnx.wf^
 ||followcache.com^
+||font.backuplogs.xyz^
 ||forgame.bazar^
 ||formbellys.click^
 ||formlaner.click^
@@ -824,7 +828,6 @@
 ||gggatat456.com^
 ||ghost.blueecho88.com^
 ||giftbox4u.com^
-||girlsgifs.com^
 ||git-hub.me^
 ||github.ignorelist.com^
 ||glnj.nl^
@@ -887,6 +890,7 @@
 ||helicoptersahtests.azurewebsites.net^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
+||helpzonecisco.com^
 ||herald-b2a.workers.dev^
 ||herominers.com^
 ||herroassebm.cyou^
@@ -910,6 +914,7 @@
 ||human-check.b-cdn.net^
 ||human-verify02.b-cdn.net^
 ||humanresourcesapijson.azurewebsites.net^
+||hummskitnj.buzz^
 ||hunza-project-default-rtdb.firebaseio.com^
 ||hwqloan.com^
 ||i0.wf^
@@ -923,13 +928,11 @@
 ||iaidevrssfeedp.cloudapp.azure.com^
 ||icloudeu.com^
 ||iconm1.com^
-||ideasofbusiness.com^
 ||identifycheckapplication.azurewebsites.net^
 ||identifycheckapplications.azurewebsites.net^
 ||identifycheckingapplications.azurewebsites.net^
 ||idfinfo.pw^
 ||iina-app.lat^
-||iliad.info^
 ||ilnk.xyz^
 ||ilogicflow.com^
 ||ilsotto.com^
@@ -943,6 +946,7 @@
 ||infinitysoftwares.com^
 ||info.beahh.com^
 ||infospress.com^
+||inherineau.buzz^
 ||init.crash-analytics.com^
 ||insider.gr.com^
 ||insta-mod-d820a-default-rtdb.firebaseio.com^
@@ -967,6 +971,7 @@
 ||iz.gy^
 ||izezggefgegfzto.ws^
 ||j-ic.co.intneral-document-he-gr-me.run.place^
+||j0.wf^
 ||j2.gy^
 ||j68.info^
 ||j8.si^
@@ -1120,9 +1125,8 @@
 ||mail.apl-com.icu^
 ||mail.jaguarline.com^
 ||mailcantonfair.cssc.info^
-||mailmofagovmm.mofa.email^
+||mailh.alit.live^
 ||mailprotonmail.ch^
-||mailprotonmail.com^
 ||mailsecurityservice.com^
 ||majorbrdide.com^
 ||malalignment.bond^
@@ -1135,7 +1139,6 @@
 ||manoraonline.net^
 ||manpowerfeedapi.azurewebsites.net^
 ||manpowerfeedapijson.azurewebsites.net^
-||manyrestro.lat^
 ||marketexpert.site^
 ||marketiqhub.com^
 ||marketsoilmart.com^
@@ -1193,7 +1196,9 @@
 ||mil-pl.cloud^
 ||mil-pt.cloud^
 ||milf.house^
+||mindhandru.buzz^
 ||mining711.com^
+||ministry-pk.net^
 ||mint-c2.top^
 ||mirw.wf^
 ||mistlink.online^
@@ -1240,7 +1245,6 @@
 ||mynetenergy.com^
 ||mynetwork.ddns.net^
 ||mypsh.ddns.net^
-||myself.hopto.org^
 ||myservicessapps.com^
 ||mysweeterbk.ddns.net^
 ||myumysmeetr.ddns.net^
@@ -1410,6 +1414,7 @@
 ||printerjobs.xyz^
 ||printerupdates.online^
 ||prism-west-candy.glitch.me^
+||prisonyfork.buzz^
 ||privatehd.us.to^
 ||privatemake.bounceme.net^
 ||privatemessage.net^
@@ -1469,6 +1474,7 @@
 ||realfish.bazar^
 ||realmetaldns.com^
 ||realnewstime.xyz^
+||rebuildeso.buzz^
 ||receptivesfii.click^
 ||recordsbluemountain.com^
 ||redirconnectwise.cloud^
@@ -1507,10 +1513,13 @@
 ||s0.pm^
 ||s1gn1fyh0se.cyou^
 ||s3-dk.cloud^
+||s3-dnc.cloud^
 ||s3-eu-north-1.culture-quest.shop^
 ||s3-eu-north-1.travelguide-techtrends.com^
 ||s3-ned.cloud^
 ||s3-nsa.cloud^
+||s3-rackspace.cloud^
+||s3-stig.cloud^
 ||s8.cx^
 ||saaadnesss.shop^
 ||sabre-airlinesolutions.com^
@@ -1528,7 +1537,9 @@
 ||sb8.co^
 ||scancenter.trendrealtime.com^
 ||scarpsniffy.click^
+||scentniej.buzz^
 ||schooltillhungryprocess.com^
+||screwamusresz.buzz^
 ||sd1-bin.net^
 ||sdadvert197.com^
 ||sdjsskfdksfksdkfjkkshkfhkshk.firebaseapp.com^
@@ -1570,7 +1581,6 @@
 ||sgrhf.org.pk^
 ||shades.whatisaweekend.com^
 ||shadowlegion.duckdns.org^
-||shapestickyr.lat^
 ||share.clickstat360.com^
 ||share.devprocloud.com^
 ||shared-rss.info^
@@ -1602,8 +1612,8 @@
 ||skreatortemp.site^
 ||skydrive.services^
 ||skylum.store^
+||slimmybearz.click^
 ||sliperyedhby.icu^
-||slipperyloo.lat^
 ||smscentro.com^
 ||smser.net^
 ||snapfire.xyz^
@@ -1679,9 +1689,9 @@
 ||systemupdate.info^
 ||t0.wf^
 ||t7.nz^
+||tackybrushz.click^
 ||tailyoveriw.my^
 ||taktlat.xyz^
-||talkynicer.lat^
 ||tax-gov-ua.com^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
@@ -1691,9 +1701,9 @@
 ||teloom.site^
 ||temninch.site^
 ||tempest.lib^
-||tentabatte.lat^
 ||teraspace.co.in^
 ||teslali.com^
+||test.3322.org.cn^
 ||testitsoft.com^
 ||testtesttes.azurewebsites.net^
 ||testupdate.info^
@@ -1861,7 +1871,6 @@
 ||wak.rocks^
 ||walla.link^
 ||wallanews.publicvm.com^
-||wallanews.sytes.net^
 ||wallymac.com^
 ||wangzongfacai.com^
 ||waqers.duckdns.org^
@@ -1920,7 +1929,6 @@
 ||wodods.online^
 ||wodods.xyz^
 ||woodmate.it^
-||wordyfindy.lat^
 ||workan.ddns.net^
 ||workrepair.bazar^
 ||worldhomeoutlet.com^
