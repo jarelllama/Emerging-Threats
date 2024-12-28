@@ -3,14 +3,13 @@ run-name: Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 14 * * *'
 permissions:
   contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
     steps:
       - name: Checkout
         uses: actions/checkout@v4
