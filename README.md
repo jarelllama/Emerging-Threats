@@ -1,13 +1,15 @@
 # Emerging Threats Blocklist
 
-**This is a fork that maintains a code-rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole).**
+**This is a fork that maintains a code-rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) and is meant for [jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
 
-Dead domains and redundant rules are now removed during the build, along with other enhancements like whitelist filtering and improved domain extraction.
+Changes include dead and redundant domain removal along with other enhancements like whitelist filtering and improved domain extraction.
 
 The updated blocklist can be found here (updated at 18:00 UTC daily): **[malicious.txt](https://raw.githubusercontent.com/jarelllama/Emerging-Threats/main/malicious.txt)**
 
 Sourced rulesets:
 
+* emerging-adware_pup.rules
+* emerging-coinminer.rules
 * emerging-exploit_kit.rules
 * emerging-malware.rules
 * emerging-mobile_malware.rules
@@ -17,8 +19,6 @@ View the full list of rulesets here:
 
 * [rulesets](https://rules.emergingthreats.net/)
 * [categories](https://community.emergingthreats.net/t/current-suricata-5-and-suricata-6-rule-categories/94)
-
-For futher scam/phishing domains, see **[jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
 
 The rest of the README is kept mostly the same.
 
