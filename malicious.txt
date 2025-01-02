@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 01.02.074319.2025
+! Version: 01.02.141153.2025
 ! Expires: 1 day
-! Last modified: Thu Jan  2 07:43:19 UTC 2025
+! Last modified: Thu Jan  2 14:11:53 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 1947
+! Number of entries: 1950
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -671,6 +671,7 @@
 ||edupoliceam.info^
 ||eegqzvxd.shop^
 ||efaxmakeronline.com^
+||efes-mindef-gov-pk.dowmload.org^
 ||egaolife.info^
 ||egihaehefiejfjo.ws^
 ||egihaehefiejfjr.ws^
@@ -1307,6 +1308,7 @@
 ||ns.rtechs.org^
 ||ns1.xssr.org^
 ||ns2.xssr.org^
+||ns8.ddns1.com^
 ||nsignal.net^
 ||nt3.xyz^
 ||ntpserver.xyz^
@@ -1410,7 +1412,6 @@
 ||portgame.bazar^
 ||postmastersoriginals.com^
 ||potexo.b-cdn.net^
-||poucette.info^
 ||powers.b-cdn.net^
 ||ppidn.net^
 ||pre.alwayswait.site^
@@ -1443,6 +1444,7 @@
 ||przvgke.biz^
 ||pupuputu.blogspot.com^
 ||purple.itraffic.click^
+||purple.m-ads.net^
 ||pwresetcisco.com^
 ||q0.pm^
 ||q0.wf^
@@ -1677,6 +1679,7 @@
 ||sunny-beach.shop^
 ||superaccumulate.mom^
 ||supfoundrysettlers.us^
+||suport.worldupdate.site^
 ||support.helpkaspersky.top^
 ||supportyattraos.shop^
 ||surelytheme.org^
@@ -1698,7 +1701,6 @@
 ||teloom.site^
 ||temninch.site^
 ||tempest.lib^
-||tentyshoeu.click^
 ||teraspace.co.in^
 ||teslali.com^
 ||test-1627838.shop^
@@ -1989,6 +1991,7 @@
 ||zakit.quest^
 ||zarelec.quest^
 ||zen.mozillaupdates.us^
+||zeroassoluto.biz^
 ||zexodown-2.b-cdn.net^
 ||zie5.com^
 ||zirabuo.bazar^
