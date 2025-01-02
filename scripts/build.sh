@@ -30,7 +30,7 @@ get_domains() {
     # Convert to lower case
     # Remove whitelisted domains
     mawk '/dns[\.|_]query/ && !/^#|content:!|startswith|offset|distance|within|pcre/' "$1" \
-        | grep -Po 'content:"\.?\K[[:alnum:].-]+\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
+        | grep -Po 'content:"\.?\K[[:alnum:]][[:alnum:].-]*[[:alnum:]]\.[[:alnum:]-]*[a-z]{2,}[[:alnum:]-]*' \
         | mawk '{print tolower($0)}' \
         | grep -vxFf data/whitelist.txt \
         | sort -u -o "$2"
