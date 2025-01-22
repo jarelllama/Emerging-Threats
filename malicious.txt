@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 01.22.083634.2025
+! Version: 01.22.141006.2025
 ! Expires: 1 day
-! Last modified: Wed Jan 22 08:36:34 UTC 2025
+! Last modified: Wed Jan 22 14:10:06 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2035
+! Number of entries: 2029
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -474,9 +474,6 @@
 ||cikivjto.biz^
 ||ciltrix.com^
 ||circle.innovativecsportal.com^
-||ciscovpn1.com^
-||ciscovpn2.com^
-||ciscovpn3.com^
 ||citasatmx2023.lat^
 ||citi-bank.ru^
 ||citroen.gr.com^
@@ -490,6 +487,7 @@
 ||clients.dedicatedservicesusa.com^
 ||clifolink.online^
 ||clipbutton.com.br^
+||cloud-apple.info^
 ||cloud-apt.net^
 ||cloud-document-edit.onrender.com^
 ||cloud-sources.com^
@@ -869,7 +867,6 @@
 ||gpt4summary.ink^
 ||gptdetector.live^
 ||gptforads.info^
-||gptforbusiness.site^
 ||gpufps.com^
 ||grafoce.com^
 ||grandfoodtony.com^
@@ -908,7 +905,6 @@
 ||hellocookies.ddns.net^
 ||help2014.linkpc.net^
 ||helpyoume.linkpc.net^
-||helpzonecisco.com^
 ||hengtian.nihaoucloud.org^
 ||herald-b2a.workers.dev^
 ||herominers.com^
@@ -986,7 +982,6 @@
 ||islam.youtubesitegroup.com^
 ||italy700.blogspot.com^
 ||itisthebestforyou.eu^
-||itunes-helper.net^
 ||iu.iuuaufbt.com^
 ||ixware.xyz^
 ||iz.gy^
@@ -1000,6 +995,7 @@
 ||jarry-fixxer.bond^
 ||javaruntime.azurewebsites.net^
 ||jcswcd.com^
+||jdcdn.life^
 ||jeepcarlease.com^
 ||jeitoon.quest^
 ||jennifer998.lookin.at^
@@ -1172,7 +1168,6 @@
 ||marketiqhub.com^
 ||marketsoilmart.com^
 ||marrieddinn.click^
-||martianlol.com^
 ||marwapetersson.info^
 ||master.volt-texs.online^
 ||matchingsingles.net^
@@ -1772,7 +1767,7 @@
 ||tempest.lib^
 ||teraspace.co.in^
 ||teslali.com^
-||testitsoft.com^
+||test-1627838.shop^
 ||testtesttes.azurewebsites.net^
 ||testupdate.info^
 ||tfirstdaily.store^
@@ -1894,7 +1889,6 @@
 ||updatecz.mykorean.net^
 ||updateinfos.com^
 ||updater-pro.com^
-||updates.mintylinux.com^
 ||updatesync.com^
 ||updatesystems.net^
 ||updatezone.org^
