@@ -144,6 +144,8 @@ cleanup() {
 
 # Entry point
 
+set -e
+
 trap cleanup EXIT
 
 # Install AdGuard's Dead Domains Linter
