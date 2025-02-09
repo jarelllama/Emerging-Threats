@@ -3,11 +3,11 @@
 ! Description: Fork of https://github.com/tweedge/emerging-threats-pihole
 ! Homepage: https://github.com/jarelllama/Emerging-Threats
 ! License: https://github.com/tweedge/emerging-threats-pihole/blob/main/LICENSE
-! Version: 02.08.141127.2025
+! Version: 02.09.140940.2025
 ! Expires: 1 day
-! Last modified: Sat Feb  8 14:11:27 UTC 2025
+! Last modified: Sun Feb  9 14:09:40 UTC 2025
 ! Syntax: Adblock Plus
-! Number of entries: 2049
+! Number of entries: 2027
 !
 ! WHAT:
 ! This blocklist is intended for use in PiHole or similar DNS-level filters. It's generated automatically from part of
@@ -282,6 +282,7 @@
 ||asdasd08.com^
 ||asidomain.com^
 ||associate.freeonlinelearning.com^
+||associate.freeonlinelearningtech.com^
 ||assumedtribsosp.shop^
 ||asureupdate.pro^
 ||athleisurestyletop.top^
@@ -327,6 +328,7 @@
 ||backupnet.ddns.net^
 ||backuppingplanseasy.com^
 ||bageiaiefuefuuo.ws^
+||bahriafoundation.live^
 ||bald-panel.firebaseio.com^
 ||bamo.ocry.com^
 ||banca-movil.com^
@@ -334,11 +336,9 @@
 ||bapalal.com^
 ||bardaiforchrome.live^
 ||bcomb.net^
-||bdmil.alit.live^
 ||bearrytankkewo.shop^
 ||beastgoc.com^
 ||beonlineboo.com^
-||bestbuy.zapto.org^
 ||bestgame.bazar^
 ||bestresulttostart.com^
 ||beztech.site^
@@ -541,6 +541,7 @@
 ||crystal-maker.com^
 ||crystalfiles.ru^
 ||crystalmaker.pro^
+||cstc-spares-vip-163.dowmload.net^
 ||cta.berlmember.com^
 ||ctotech.store^
 ||customer.thewayofmoney.us^
@@ -548,7 +549,6 @@
 ||cvyatop.online^
 ||cwise.store^
 ||cy.amorcash.com^
-||cyberhavenext.pro^
 ||cylenceprotect.com^
 ||d0.wf^
 ||dailybuild.mozillaupdates.com^
@@ -647,7 +647,6 @@
 ||download.instructionclubs.com^
 ||downloadfile.b-cdn.net^
 ||downloadlog.linkpc.net^
-||downloadmyhost.zapto.org^
 ||downloads.bablosoft.com^
 ||downloadsecurity.info^
 ||doxy.ws^
@@ -669,7 +668,6 @@
 ||ducacorp.com^
 ||duke6.tk^
 ||dumpliportiwo.shop^
-||dwriftycloud.pics^
 ||dynamicipaddress.linkpc.net^
 ||dynamics.ddnsking.com^
 ||e0.wf^
@@ -716,6 +714,7 @@
 ||eru-gov.cloud^
 ||es-last-telegram.appspot.com^
 ||es-last-telegram.firebaseio.com^
+||esilet.com^
 ||esondent.com^
 ||establisheddisappearefe.site^
 ||eternitypr.net^
@@ -733,7 +732,6 @@
 ||experience-improvement.com^
 ||extensionbuysell.com^
 ||extensionpolicyprivacy.com^
-||externalchecksso.com^
 ||eznb.net^
 ||f0.tel^
 ||f0559838.xsph.ru^
@@ -756,14 +754,12 @@
 ||fbstatic-a.space^
 ||fbstatic-akamaihd.com^
 ||fclouddown.co^
-||feedzai-gov.cloud^
 ||feigoton.store^
 ||feitec.online^
 ||fgcz.net^
 ||ficinity.com^
 ||fightlsoser.click^
 ||figma.lat^
-||fileshare.direct^
 ||finallshell.cc^
 ||finalshell.me^
 ||financialnewsonline.pw^
@@ -856,7 +852,6 @@
 ||goneflower.org^
 ||goodydaddy.com^
 ||gooeglle.mypressonline.com^
-||google-download.com^
 ||google-searching.com^
 ||googlechromehost.ddns.net^
 ||googlecloudns.com^
@@ -903,6 +898,7 @@
 ||harrykane.online^
 ||havan.qhigh.com^
 ||hawkshaw-cae48.firebaseio.com^
+||hcttmail.com^
 ||hdfc-point.web.app^
 ||hdtele.com^
 ||hearforpower.org^
@@ -948,7 +944,6 @@
 ||iaidevrssfeed.cloudapp.azure.com^
 ||iaidevrssfeedp.cloudapp.azure.com^
 ||iconm1.com^
-||ideasofbusiness.com^
 ||identifycheckapplication.azurewebsites.net^
 ||identifycheckapplications.azurewebsites.net^
 ||identifycheckingapplications.azurewebsites.net^
@@ -962,7 +957,6 @@
 ||imprintcenter.com^
 ||incms.biz^
 ||incomeupdate.com^
-||industrybuttonyoferwa.fun^
 ||infinitysoftwares.com^
 ||info.beahh.com^
 ||infospress.com^
@@ -1045,7 +1039,6 @@
 ||k5m.co^
 ||k6c.org^
 ||k6j.pw^
-||kakiosk.adsparkdev.com^
 ||kaspresksy.com^
 ||kazaboldu.net^
 ||kc-3.ru^
@@ -1121,7 +1114,6 @@
 ||logoff.ddns.info^
 ||logupdatemanagementapi.azurewebsites.net^
 ||loki-locker.one^
-||loopconstruct.com^
 ||lorriratzlaff.com^
 ||losttwister.com^
 ||lu02.xyz^
@@ -1136,7 +1128,6 @@
 ||m0.nu^
 ||m0.wf^
 ||m0.yt^
-||m85.online^
 ||macbartender.lat^
 ||machinetext.org^
 ||macyy.cn^
@@ -1149,7 +1140,6 @@
 ||mail.jaguarline.com^
 ||mailarmylk.mods.email^
 ||mailcantonfair.cssc.info^
-||mailh.alit.live^
 ||mailmofagovmm.mofa.email^
 ||mailnavybd.govpk.net^
 ||mailprotonmail.ch^
@@ -1207,6 +1197,7 @@
 ||microsoftonline.services^
 ||microsofts.org^
 ||microsofts.top^
+||microsoftsecure.org^
 ||microsoftsupp.com^
 ||microsoftt-teams-download.com^
 ||microsoftt-teams.com^
@@ -1232,12 +1223,10 @@
 ||mobdemo.info^
 ||mobilegamerstats.com^
 ||mobilepays.info^
-||mod-gov-bd.dowmload.co^
 ||modernkeys.org^
 ||modestessayevenmilwek.shop^
 ||moemaldives.pmd-office.com^
 ||mofa-gov-pk.directt888.com^
-||mofamail.shop^
 ||mojobiden.com^
 ||mokamob.site^
 ||monerohash.com^
@@ -1247,6 +1236,7 @@
 ||mozilla.tftpd.net^
 ||mpo-gov.cloud^
 ||mpsv-gov.cloud^
+||msacn.ntcpk.net^
 ||msas.ws^
 ||msix.pm^
 ||msmt-gov.cloud^
@@ -1283,6 +1273,7 @@
 ||n3tc4t.hopto.com^
 ||n5.ms^
 ||n9fz.com^
+||nail-forward-valid.lol^
 ||nakit-gov.cloud^
 ||nameserver.win^
 ||napws.biz^
@@ -1297,7 +1288,6 @@
 ||nbu-gov.cloud^
 ||ndapromovideoslittle.pro^
 ||net-certificate.services^
-||netgenius.life^
 ||nethosting.viewdns.net^
 ||netstreamag.publicvm.com^
 ||new.apl-org.online^
@@ -1321,7 +1311,6 @@
 ||njrat12.ddns.net^
 ||nlsie.store^
 ||nnlcrosaftteams-download.pro^
-||nomadsgpirit.top^
 ||noncancerous.beauty^
 ||nopsec.org^
 ||nordicmademedia.com^
@@ -1349,7 +1338,6 @@
 ||nzm.one^
 ||o7car.com^
 ||obituary.workers.dev^
-||objmapper.com^
 ||obuhov2k.beget.tech^
 ||occupytapsessijk.pw^
 ||offerimagefancine.shop^
@@ -1450,7 +1438,6 @@
 ||pooreveningfuseor.pw^
 ||portable2016.top^
 ||portgame.bazar^
-||poste-it.info^
 ||postmastersoriginals.com^
 ||potexo.b-cdn.net^
 ||powers.b-cdn.net^
@@ -1464,7 +1451,6 @@
 ||preston.melaniebest.com^
 ||primusext.pro^
 ||printerjobs.xyz^
-||printersolutions.live^
 ||printerupdates.online^
 ||prism-west-candy.glitch.me^
 ||privacysign.org^
@@ -1511,7 +1497,6 @@
 ||r2elajikcosf7zee.onion.to^
 ||r4e.pl^
 ||r6.nz^
-||radiantqwuest.top^
 ||radlantroots.com^
 ||rampnatleadk.click^
 ||ransomware.bit^
@@ -1537,7 +1522,6 @@
 ||redzone2.apl-org.online^
 ||refaeldevrssfeed.centralus.cloudapp.azure.com^
 ||refeplacieud.click^
-||referralpublicationjk.pw^
 ||reftop.click^
 ||registerinsurance.azurewebsites.net^
 ||relaxatiyon.cyou^
@@ -1549,6 +1533,7 @@
 ||resolverequest.live^
 ||retaildemo.info^
 ||reuters-press.com^
+||reviveincapablewew.pw^
 ||rginfotechnology.com^
 ||rhel.opsecurity1.art^
 ||rhinophidae.bond^
@@ -1580,20 +1565,20 @@
 ||s3-hudson.cloud^
 ||s3-ida.cloud^
 ||s3-iri.cloud^
+||s3-monitoring.cloud^
 ||s3-ned.cloud^
 ||s3-nsa.cloud^
 ||s3-proofpoint.cloud^
-||s3-pt.cloud^
 ||s3-rackspace.cloud^
 ||s3-rand.cloud^
 ||s3-spacex.cloud^
 ||s3-stig.cloud^
 ||s3-ua.cloud^
 ||s3-ucia.cloud^
+||s3-zoho.cloud^
 ||s8.cx^
 ||saaadnesss.shop^
 ||sabre-airlinesolutions.com^
-||safemeeting.online^
 ||sake.mozillaupdates.us^
 ||salesappliances.com^
 ||samehnew-10a7c.appspot.com^
@@ -1674,8 +1659,8 @@
 ||simos.online^
 ||simple-life.lol^
 ||sinobz.com^
+||sip.2access.xyz^
 ||sip.nsogroup.com^
-||sip.qtechnologies.com^
 ||sipapp.lat^
 ||sistemikan.com^
 ||sitepanel.top^
@@ -1718,12 +1703,12 @@
 ||squezzepreca.top^
 ||srcip.com^
 ||srcips.com^
-||srmbr.com^
 ||srrys.pw^
 ||srv602.ddns.net^
 ||srvhost.servehttp.com^
 ||srvrfontsdrive.xyz^
 ||stabit.click^
+||stake.libertariancounterpoint.com^
 ||stand-by-97c5c.appspot.com^
 ||stand-by-97c5c.firebaseio.com^
 ||start-anew.net^
@@ -1767,7 +1752,6 @@
 ||tacscc.com^
 ||tax-gov-ua.com^
 ||taymodel.top^
-||teamnj.ddns.net^
 ||teamtnt.red^
 ||technewsblogapi.azurewebsites.net^
 ||tecnojournals.com^
@@ -1794,7 +1778,6 @@
 ||theguardiannews.org^
 ||theinb.com^
 ||theonlyreasonwhywe.pro^
-||thesishsej.click^
 ||theyardservice.com^
 ||thingssalver.click^
 ||throatpills.org^
@@ -1886,7 +1869,6 @@
 ||unioncrypto.vip^
 ||unipreg.tumsun.com^
 ||uniquetopstop.top^
-||unlimitedteacup.com^
 ||unwieldypower.click^
 ||unwrittenuzy.shop^
 ||uoej.net^
@@ -1951,7 +1933,6 @@
 ||vscode.digital^
 ||vscodeupdater.azurewebsites.net^
 ||vsliveagent.com^
-||vvavesltd.servebeer.com^
 ||vwibrantwonders.rest^
 ||w0.pm^
 ||w4.nz^
@@ -1990,7 +1971,6 @@
 ||whereverhomebe.com^
 ||whitedrill.org^
 ||wildhorses.awardspace.info^
-||win-rar.co^
 ||win7-update.com^
 ||windowkernel.com^
 ||windowlight.org^
@@ -2085,7 +2065,6 @@
 ||z2a.digital^
 ||z2adigital.cloud^
 ||z7s.org^
-||za158155.ddns.net^
 ||zakit.quest^
 ||zarelec.quest^
 ||zen.mozillaupdates.us^
@@ -2104,7 +2083,6 @@
 ||zonestatistic.com^
 ||zoom-video.org^
 ||zpwibfsmoowehdsm.onion^
-||zsilvermoonbeam.hair^
 ||zupertech.com^
 ||zxcaem.com^
 ||zxn.fyi^
