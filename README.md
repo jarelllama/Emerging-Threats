@@ -1,6 +1,8 @@
 # Emerging Threats Blocklist
 
-**This is a fork that maintains a code-rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) and is meant for [jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)**.
+**NO LONGER MAINTAINED. Please use [jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist) instead which contains the Emerging Threats rulesets.**
+
+This is a fork that maintains a code-rewritten Adblock Plus version of [tweedge/emerging-threats-pihole](https://github.com/tweedge/emerging-threats-pihole) and is meant for [jarelllama/Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist).
 
 Changes include dead and redundant domain removal along with other enhancements like whitelist filtering and improved domain extraction.
 
